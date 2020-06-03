@@ -17,7 +17,7 @@ In the following table, for each Italian region we provide the main source where
 |Friuli-Venezia-Giulia | no available data|
 |Trentino-Alto-Adige | https://github.com/pcm-dpc/COVID-19 |
 |Emilia-Romagna | https://www.regione.emilia-romagna.it/notizie/2020 |
-|Liguria | no available data |
+|Liguria | Data available only for Imperia and Savona \n https://www.sanremonews.it/, https://www.ivg.it|
 |Toscana | https://www.toscana-notizie.it/coronavirus |
 |Marche | http://www.regione.marche.it/News-ed-Eventi |
 |Umbria | http://www.regione.umbria.it/ufficio-stampa/agenzia-umbria-notizie |
