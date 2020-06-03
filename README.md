@@ -18,7 +18,7 @@ In the following table, for each Italian region we provide the main source where
 |Friuli-Venezia-Giulia | no available data|
 |Lazio | https://www.facebook.com/SaluteLazio |
 |Liguria | Data available only for Imperia and Savona https://www.sanremonews.it/, https://www.ivg.it|
-|Lombardia | available data only for one province, namely Cremona https://www.laprovinciacr.it/ricerca?q=decessi&idcanale=1|
+|Lombardia | Data available only for Cremona https://www.laprovinciacr.it/ricerca?q=decessi&idcanale=1|
 |Marche | http://www.regione.marche.it/News-ed-Eventi |
 |Molise | http://www3.regione.molise.it|
 |Piemonte | https://www.regione.piemonte.it/web/pinforma|
