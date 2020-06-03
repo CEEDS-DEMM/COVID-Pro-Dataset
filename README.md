@@ -6,7 +6,7 @@ The following data were used for the ["COVID-Pro: a province-based analysis for 
 
 The official data repository of the Italian Ministry of Health and the Civil Protection Agency does not provide Covid-19 data on the daily number of deaths at a provincial level. However, by scraping the daily press conferences and Covid-19 bulletins provided by 13 regions out of 20, we were able to have provincial data on daily deaths due to the covid-19 for a vast majority of the Italian provinces.  The Aosta province and theprovinces of Bolzano/Bozen and Trento are included in the Italian Ministry of Health regional data as they are either coincident with the region (Aosta) or autonomous provinces and considered as regions, therefore they have data on provincial deaths. 
 
-In the following table, for each Italian region we provide the main source where we scraped these data. The list of provinces with Covid-19 provincial deaths are: Agrigento, Alessandria, Ancona, Aosta, Arezzo, Ascoli Piceno, Asti, Bari, Barletta-Andria-Trani, Biella, Bologna, Bolzano, Brindisi, Cagliari, Caltanissetta, Campobasso, Catania, Catanzaro, Chieti, Cosenza, Crotone, Cuneo, Enna, Fermo, Ferrara, Firenze, Foggia, Forli-Cesena, Frosinone, Grosseto, Isernia, L’Aquila, Latina, Lecce, Livorno, Lucca, Macerata, Massa Carrara, Matera, Messina, Modena, Novara, Nuoro, Oristano, Palermo, Parma, Perugia, Pesaro e Urbino, Pescara, Piacenza, Pisa, Pistoia, Potenza, Prato, Ragusa, Ravenna, Reggio di Calabria, Reggio nell’Emilia, Rieti, Rimini, Roma, Sassari, Siena, Siracusa, Sud Sardegna, Taranto, Teramo, Terni, Torino, Trapani, Trento, Verbano-Cusio-Ossola, Vercelli, Vibo Valentia, Viterbo.
+In the following table, for each Italian region we provide the main source where we scraped these data. The list of provinces with Covid-19 provincial deaths are: Agrigento, Alessandria, Ancona, Aosta, Arezzo, Ascoli Piceno, Asti, Bari, Barletta-Andria-Trani, Biella, Bologna, Bolzano, Brindisi, Cagliari, Caltanissetta, Campobasso, Catania, Catanzaro, Chieti, Cosenza, Cremona, Crotone, Cuneo, Enna, Fermo, Ferrara, Firenze, Foggia, Forli-Cesena, Frosinone, Grosseto, Imperia, Isernia, L’Aquila, Latina, Lecce, Livorno, Lucca, Macerata, Massa Carrara, Matera, Messina, Modena, Novara, Nuoro, Oristano, Palermo, Parma, Perugia, Pesaro e Urbino, Pescara, Piacenza, Pisa, Pistoia, Potenza, Prato, Ragusa, Ravenna, Reggio di Calabria, Reggio nell’Emilia, Rieti, Rimini, Roma, Sassari, Siena, Siracusa, Sud Sardegna, Taranto, Teramo, Terni, Torino, Trapani, Trento, Verbano-Cusio-Ossola, Vercelli, Vibo Valentia, Viterbo.
 
 |Region | Main source |
 | --- | --- |
@@ -17,7 +17,7 @@ In the following table, for each Italian region we provide the main source where
 |Emilia-Romagna | https://www.regione.emilia-romagna.it/notizie/2020 |
 |Friuli-Venezia-Giulia | no available data|
 |Lazio | https://www.facebook.com/SaluteLazio |
-|Liguria | Data available only for Imperia and Savona https://www.sanremonews.it/, https://www.ivg.it|
+|Liguria | Data available only for Imperia https://www.sanremonews.it/ <!-- https://www.ivg.it -->|
 |Lombardia | Data available only for Cremona https://www.laprovinciacr.it/ricerca?q=decessi&idcanale=1|
 |Marche | http://www.regione.marche.it/News-ed-Eventi |
 |Molise | http://www3.regione.molise.it|
