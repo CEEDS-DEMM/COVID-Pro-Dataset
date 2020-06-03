@@ -30,4 +30,3 @@ In the following table, for each Italian region we provide the main source where
 |Umbria | http://www.regione.umbria.it/ufficio-stampa/agenzia-umbria-notizie |
 |Valle d'Aosta | https://github.com/pcm-dpc/COVID-19  |
 |Veneto | no available data|
-
