@@ -10,27 +10,24 @@ In the following table, for each Italian region we provide the main source where
 
 |Region | Main source |
 | --- | --- |
-|Valle d'Aosta | https://github.com/pcm-dpc/COVID-19  |
-|Piemonte | https://www.regione.piemonte.it/web/pinforma|
-|Lombardia | available data only for one province, namely Cremona https://www.laprovinciacr.it/ricerca?q=decessi&idcanale=1|
-|Veneto | no available data|
-|Friuli-Venezia-Giulia | no available data|
-|Trentino-Alto-Adige | https://github.com/pcm-dpc/COVID-19 |
-|Emilia-Romagna | https://www.regione.emilia-romagna.it/notizie/2020 |
-|Liguria | Data available only for Imperia and Savona
-https://www.sanremonews.it/
-https://www.ivg.it|
-|Toscana | https://www.toscana-notizie.it/coronavirus |
-|Marche | http://www.regione.marche.it/News-ed-Eventi |
-|Umbria | http://www.regione.umbria.it/ufficio-stampa/agenzia-umbria-notizie |
-|Lazio | https://www.facebook.com/SaluteLazio |
 |Abruzzo | https://www.regione.abruzzo.it/notizie_stampa|
-|Molise | http://www3.regione.molise.it|
-|Campania | no available data|
-|Puglia | http://www.regione.puglia.it |
 |Basilicata | https://www.regione.basilicata.it/giunta/site/giunta/home.jsp |
 |Calabria | https://portale.regione.calabria.it |
-|Sicilia | http://pti.regione.sicilia.it/portal/page/portal/PIR\_PORTALE |
+|Campania | no available data|
+|Emilia-Romagna | https://www.regione.emilia-romagna.it/notizie/2020 |
+|Friuli-Venezia-Giulia | no available data|
+|Lazio | https://www.facebook.com/SaluteLazio |
+|Liguria | Data available only for Imperia and Savona https://www.sanremonews.it/, https://www.ivg.it|
+|Lombardia | available data only for one province, namely Cremona https://www.laprovinciacr.it/ricerca?q=decessi&idcanale=1|
+|Marche | http://www.regione.marche.it/News-ed-Eventi |
+|Molise | http://www3.regione.molise.it|
+|Piemonte | https://www.regione.piemonte.it/web/pinforma|
+|Puglia | http://www.regione.puglia.it |
 |Sardegna | https://www.regione.sardegna.it |
-
+|Sicilia | http://pti.regione.sicilia.it/portal/page/portal/PIR\_PORTALE |
+|Toscana | https://www.toscana-notizie.it/coronavirus |
+|Trentino-Alto-Adige | https://github.com/pcm-dpc/COVID-19 |
+|Umbria | http://www.regione.umbria.it/ufficio-stampa/agenzia-umbria-notizie |
+|Valle d'Aosta | https://github.com/pcm-dpc/COVID-19  |
+|Veneto | no available data|
 
