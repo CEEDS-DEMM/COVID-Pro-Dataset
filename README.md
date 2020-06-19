@@ -20,7 +20,7 @@ In the following table, for each Italian region we provide the main source where
 |Emilia-Romagna | https://www.regione.emilia-romagna.it/notizie/2020 |
 |Friuli-Venezia-Giulia | no available data|
 |Lazio | https://www.facebook.com/SaluteLazio |
-|Liguria | Data available only for Imperia https://www.sanremonews.it/ <!-- https://www.ivg.it -->|
+|Liguria | https://www.sanremonews.it/  https://www.ivg.it |
 |Lombardia | Data available only for Cremona https://www.laprovinciacr.it/ricerca?q=decessi&idcanale=1|
 |Marche | http://www.regione.marche.it/News-ed-Eventi |
 |Molise | http://www3.regione.molise.it|
