@@ -8736,15 +8736,15 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 102,Vibo Valentia,2020-06-14,0,5,0,83,Calabria,18
 56,Viterbo,2020-06-14,0,23,0,429,Lazio,12
 84,Agrigento,2020-06-15,0,1,0,141,Sicilia,19
-6,Alessandria,2020-06-15,-663,0,1,4011,Piemonte,1
+6,Alessandria,2020-06-15,0,663,29,4039,Piemonte,1
 42,Ancona,2020-06-15,0,281,0,1875,Marche,11
 7,Aosta,2020-06-15,0,144,0,1191,Valle d'Aosta,2
 51,Arezzo,2020-06-15,0,45,4,683,Toscana,9
 44,Ascoli Piceno,2020-06-15,0,26,0,290,Marche,11
-5,Asti,2020-06-15,-248,0,0,1864,Piemonte,1
+5,Asti,2020-06-15,0,248,5,1869,Piemonte,1
 72,Bari,2020-06-15,1,144,0,1488,Puglia,16
 110,Barletta-Andria-Trani,2020-06-15,0,60,0,380,Puglia,16
-96,Biella,2020-06-15,-208,0,0,1042,Piemonte,1
+96,Biella,2020-06-15,0,208,0,1042,Piemonte,1
 37,Bologna,2020-06-15,0,699,5,5107,Emilia-Romagna,8
 21,Bolzano,2020-06-15,1,292,-2,2611,P.A. Bolzano,21
 74,Brindisi,2020-06-15,0,65,0,656,Puglia,16
@@ -8757,7 +8757,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 78,Cosenza,2020-06-15,0,34,0,468,Calabria,18
 19,Cremona,2020-06-15,0,1117,2,6556,Lombardia,3
 101,Crotone,2020-06-15,0,6,0,118,Calabria,18
-4,Cuneo,2020-06-15,-391,0,0,2829,Piemonte,1
+4,Cuneo,2020-06-15,0,391,8,2837,Piemonte,1
 86,Enna,2020-06-15,0,29,0,425,Sicilia,19
 109,Fermo,2020-06-15,0,40,0,471,Marche,11
 38,Ferrara,2020-06-15,1,165,0,1007,Emilia-Romagna,8
@@ -8778,7 +8778,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 77,Matera,2020-06-15,0,7,0,210,Basilicata,17
 83,Messina,2020-06-15,0,59,0,565,Sicilia,19
 36,Modena,2020-06-15,0,468,1,3933,Emilia-Romagna,8
-3,Novara,2020-06-15,-344,0,0,2740,Piemonte,1
+3,Novara,2020-06-15,-3,341,21,2761,Piemonte,1
 91,Nuoro,2020-06-15,0,13,0,79,Sardegna,20
 95,Oristano,2020-06-15,0,4,0,59,Sardegna,20
 82,Palermo,2020-06-15,1,38,0,583,Sicilia,19
@@ -8806,23 +8806,23 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 73,Taranto,2020-06-15,0,28,0,280,Puglia,16
 67,Teramo,2020-06-15,0,80,-1,665,Abruzzo,13
 55,Terni,2020-06-15,0,28,0,375,Umbria,10
-1,Torino,2020-06-15,-1769,0,1,15792,Piemonte,1
+1,Torino,2020-06-15,0,1769,34,15825,Piemonte,1
 81,Trapani,2020-06-15,0,5,0,142,Sicilia,19
 22,Trento,2020-06-15,1,465,1,4448,P.A. Trento,22
-103,Verbano-Cusio-Ossola,2020-06-15,-131,0,0,1116,Piemonte,1
-2,Vercelli,2020-06-15,-217,0,0,1316,Piemonte,1
+103,Verbano-Cusio-Ossola,2020-06-15,0,131,3,1119,Piemonte,1
+2,Vercelli,2020-06-15,0,217,1,1317,Piemonte,1
 102,Vibo Valentia,2020-06-15,0,5,0,83,Calabria,18
 56,Viterbo,2020-06-15,0,23,0,429,Lazio,12
 84,Agrigento,2020-06-16,0,1,0,141,Sicilia,19
-6,Alessandria,2020-06-16,0,0,8,4019,Piemonte,1
+6,Alessandria,2020-06-16,0,663,0,4039,Piemonte,1
 42,Ancona,2020-06-16,0,281,1,1876,Marche,11
 7,Aosta,2020-06-16,0,144,0,1191,Valle d'Aosta,2
 51,Arezzo,2020-06-16,0,45,3,686,Toscana,9
 44,Ascoli Piceno,2020-06-16,0,26,0,290,Marche,11
-5,Asti,2020-06-16,0,0,2,1866,Piemonte,1
+5,Asti,2020-06-16,2,250,0,1869,Piemonte,1
 72,Bari,2020-06-16,0,144,0,1488,Puglia,16
 110,Barletta-Andria-Trani,2020-06-16,0,60,0,380,Puglia,16
-96,Biella,2020-06-16,0,0,0,1042,Piemonte,1
+96,Biella,2020-06-16,0,208,0,1042,Piemonte,1
 37,Bologna,2020-06-16,0,699,2,5109,Emilia-Romagna,8
 21,Bolzano,2020-06-16,0,292,0,2611,P.A. Bolzano,21
 74,Brindisi,2020-06-16,0,65,0,656,Puglia,16
@@ -8835,7 +8835,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 78,Cosenza,2020-06-16,0,34,0,468,Calabria,18
 19,Cremona,2020-06-16,0,1117,3,6559,Lombardia,3
 101,Crotone,2020-06-16,0,6,0,118,Calabria,18
-4,Cuneo,2020-06-16,0,0,1,2830,Piemonte,1
+4,Cuneo,2020-06-16,0,391,0,2837,Piemonte,1
 86,Enna,2020-06-16,0,29,0,425,Sicilia,19
 109,Fermo,2020-06-16,0,40,0,471,Marche,11
 38,Ferrara,2020-06-16,1,166,1,1008,Emilia-Romagna,8
@@ -8856,7 +8856,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 77,Matera,2020-06-16,0,7,0,210,Basilicata,17
 83,Messina,2020-06-16,0,59,0,565,Sicilia,19
 36,Modena,2020-06-16,0,468,2,3935,Emilia-Romagna,8
-3,Novara,2020-06-16,0,0,8,2748,Piemonte,1
+3,Novara,2020-06-16,4,345,0,2761,Piemonte,1
 91,Nuoro,2020-06-16,0,13,0,79,Sardegna,20
 95,Oristano,2020-06-16,0,4,0,59,Sardegna,20
 82,Palermo,2020-06-16,0,38,1,584,Sicilia,19
@@ -8884,23 +8884,23 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 73,Taranto,2020-06-16,0,28,0,280,Puglia,16
 67,Teramo,2020-06-16,0,80,0,665,Abruzzo,13
 55,Terni,2020-06-16,0,28,0,375,Umbria,10
-1,Torino,2020-06-16,0,0,11,15803,Piemonte,1
+1,Torino,2020-06-16,3,1772,0,15825,Piemonte,1
 81,Trapani,2020-06-16,0,5,0,142,Sicilia,19
 22,Trento,2020-06-16,0,465,0,4448,P.A. Trento,22
-103,Verbano-Cusio-Ossola,2020-06-16,0,0,1,1117,Piemonte,1
-2,Vercelli,2020-06-16,0,0,0,1316,Piemonte,1
+103,Verbano-Cusio-Ossola,2020-06-16,0,131,0,1119,Piemonte,1
+2,Vercelli,2020-06-16,0,217,0,1317,Piemonte,1
 102,Vibo Valentia,2020-06-16,0,5,0,83,Calabria,18
 56,Viterbo,2020-06-16,0,23,-1,428,Lazio,12
 84,Agrigento,2020-06-17,0,1,0,141,Sicilia,19
-6,Alessandria,2020-06-17,0,0,15,4034,Piemonte,1
+6,Alessandria,2020-06-17,0,663,0,4039,Piemonte,1
 42,Ancona,2020-06-17,0,281,0,1876,Marche,11
 7,Aosta,2020-06-17,0,144,0,1191,Valle d'Aosta,2
 51,Arezzo,2020-06-17,0,45,0,686,Toscana,9
 44,Ascoli Piceno,2020-06-17,0,26,0,290,Marche,11
-5,Asti,2020-06-17,0,0,1,1867,Piemonte,1
+5,Asti,2020-06-17,0,250,0,1869,Piemonte,1
 72,Bari,2020-06-17,1,145,0,1488,Puglia,16
 110,Barletta-Andria-Trani,2020-06-17,0,60,0,380,Puglia,16
-96,Biella,2020-06-17,0,0,0,1042,Piemonte,1
+96,Biella,2020-06-17,0,208,0,1042,Piemonte,1
 37,Bologna,2020-06-17,2,701,5,5114,Emilia-Romagna,8
 21,Bolzano,2020-06-17,0,292,0,2611,P.A. Bolzano,21
 74,Brindisi,2020-06-17,0,65,0,656,Puglia,16
@@ -8913,7 +8913,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 78,Cosenza,2020-06-17,0,34,0,468,Calabria,18
 19,Cremona,2020-06-17,0,1117,6,6565,Lombardia,3
 101,Crotone,2020-06-17,0,6,0,118,Calabria,18
-4,Cuneo,2020-06-17,0,0,4,2834,Piemonte,1
+4,Cuneo,2020-06-17,1,392,0,2837,Piemonte,1
 86,Enna,2020-06-17,0,29,0,425,Sicilia,19
 109,Fermo,2020-06-17,0,40,0,471,Marche,11
 38,Ferrara,2020-06-17,0,166,0,1008,Emilia-Romagna,8
@@ -8934,7 +8934,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 77,Matera,2020-06-17,0,7,0,210,Basilicata,17
 83,Messina,2020-06-17,0,59,1,566,Sicilia,19
 36,Modena,2020-06-17,1,469,1,3936,Emilia-Romagna,8
-3,Novara,2020-06-17,0,0,1,2749,Piemonte,1
+3,Novara,2020-06-17,5,350,0,2761,Piemonte,1
 91,Nuoro,2020-06-17,0,13,0,79,Sardegna,20
 95,Oristano,2020-06-17,0,4,1,60,Sardegna,20
 82,Palermo,2020-06-17,0,38,0,584,Sicilia,19
@@ -8962,23 +8962,23 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 73,Taranto,2020-06-17,0,28,0,280,Puglia,16
 67,Teramo,2020-06-17,0,80,0,665,Abruzzo,13
 55,Terni,2020-06-17,0,28,0,375,Umbria,10
-1,Torino,2020-06-17,0,0,17,15820,Piemonte,1
+1,Torino,2020-06-17,4,1776,0,15825,Piemonte,1
 81,Trapani,2020-06-17,0,5,1,143,Sicilia,19
 22,Trento,2020-06-17,0,465,1,4449,P.A. Trento,22
-103,Verbano-Cusio-Ossola,2020-06-17,0,0,1,1118,Piemonte,1
-2,Vercelli,2020-06-17,0,0,-1,1315,Piemonte,1
+103,Verbano-Cusio-Ossola,2020-06-17,1,132,0,1119,Piemonte,1
+2,Vercelli,2020-06-17,0,217,0,1317,Piemonte,1
 102,Vibo Valentia,2020-06-17,0,5,0,83,Calabria,18
 56,Viterbo,2020-06-17,0,23,0,428,Lazio,12
 84,Agrigento,2020-06-18,0,1,0,141,Sicilia,19
-6,Alessandria,2020-06-18,0,0,5,4039,Piemonte,1
+6,Alessandria,2020-06-18,1,664,0,4039,Piemonte,1
 42,Ancona,2020-06-18,0,281,0,1876,Marche,11
 7,Aosta,2020-06-18,1,145,0,1191,Valle d'Aosta,2
 51,Arezzo,2020-06-18,0,45,0,686,Toscana,9
 44,Ascoli Piceno,2020-06-18,0,26,0,290,Marche,11
-5,Asti,2020-06-18,0,0,2,1869,Piemonte,1
+5,Asti,2020-06-18,0,250,0,1869,Piemonte,1
 72,Bari,2020-06-18,0,145,1,1489,Puglia,16
 110,Barletta-Andria-Trani,2020-06-18,1,61,0,380,Puglia,16
-96,Biella,2020-06-18,0,0,0,1042,Piemonte,1
+96,Biella,2020-06-18,0,208,0,1042,Piemonte,1
 37,Bologna,2020-06-18,2,703,16,5130,Emilia-Romagna,8
 21,Bolzano,2020-06-18,0,292,2,2613,P.A. Bolzano,21
 74,Brindisi,2020-06-18,0,65,2,658,Puglia,16
@@ -8991,7 +8991,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 78,Cosenza,2020-06-18,0,34,0,468,Calabria,18
 19,Cremona,2020-06-18,1,1118,3,6568,Lombardia,3
 101,Crotone,2020-06-18,0,6,1,119,Calabria,18
-4,Cuneo,2020-06-18,0,0,3,2837,Piemonte,1
+4,Cuneo,2020-06-18,0,392,0,2837,Piemonte,1
 86,Enna,2020-06-18,0,29,0,425,Sicilia,19
 109,Fermo,2020-06-18,0,40,0,471,Marche,11
 38,Ferrara,2020-06-18,1,167,0,1008,Emilia-Romagna,8
@@ -9012,7 +9012,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 77,Matera,2020-06-18,0,7,0,210,Basilicata,17
 83,Messina,2020-06-18,0,59,0,566,Sicilia,19
 36,Modena,2020-06-18,0,469,2,3938,Emilia-Romagna,8
-3,Novara,2020-06-18,0,0,12,2761,Piemonte,1
+3,Novara,2020-06-18,3,353,0,2761,Piemonte,1
 91,Nuoro,2020-06-18,0,13,1,80,Sardegna,20
 95,Oristano,2020-06-18,0,4,0,60,Sardegna,20
 82,Palermo,2020-06-18,0,38,1,585,Sicilia,19
@@ -9040,10 +9040,10 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 73,Taranto,2020-06-18,0,28,0,280,Puglia,16
 67,Teramo,2020-06-18,0,80,-1,664,Abruzzo,13
 55,Terni,2020-06-18,0,28,0,375,Umbria,10
-1,Torino,2020-06-18,0,0,5,15825,Piemonte,1
+1,Torino,2020-06-18,2,1778,0,15825,Piemonte,1
 81,Trapani,2020-06-18,0,5,0,143,Sicilia,19
 22,Trento,2020-06-18,0,465,8,4457,P.A. Trento,22
-103,Verbano-Cusio-Ossola,2020-06-18,0,0,1,1119,Piemonte,1
-2,Vercelli,2020-06-18,0,0,2,1317,Piemonte,1
+103,Verbano-Cusio-Ossola,2020-06-18,0,132,0,1119,Piemonte,1
+2,Vercelli,2020-06-18,0,217,0,1317,Piemonte,1
 102,Vibo Valentia,2020-06-18,0,5,0,83,Calabria,18
 56,Viterbo,2020-06-18,0,23,0,428,Lazio,12
