@@ -12011,3 +12011,81 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 2,Vercelli,2020-07-26,0,222,0,1351,Piemonte,1
 102,Vibo Valentia,2020-07-26,0,5,0,88,Calabria,18
 56,Viterbo,2020-07-26,0,23,0,463,Lazio,12
+84,Agrigento,2020-07-27,0,1,0,138,Sicilia,19
+6,Alessandria,2020-07-27,0,678,1,4097,Piemonte,1
+42,Ancona,2020-07-27,0,281,0,1883,Marche,11
+7,Aosta,2020-07-27,0,146,0,1196,Valle d'Aosta,2
+51,Arezzo,2020-07-27,0,49,2,693,Toscana,9
+44,Ascoli Piceno,2020-07-27,0,26,0,294,Marche,11
+5,Asti,2020-07-27,0,256,0,1883,Piemonte,1
+72,Bari,2020-07-27,0,148,0,1502,Puglia,16
+110,Barletta-Andria-Trani,2020-07-27,0,62,0,382,Puglia,16
+96,Biella,2020-07-27,0,208,0,1054,Piemonte,1
+37,Bologna,2020-07-27,0,737,6,5558,Emilia-Romagna,8
+21,Bolzano,2020-07-27,0,292,2,2700,P.A. Bolzano,21
+74,Brindisi,2020-07-27,0,65,0,671,Puglia,16
+92,Cagliari,2020-07-27,0,18,0,259,Sardegna,20
+85,Caltanissetta,2020-07-27,0,11,0,188,Sicilia,19
+70,Campobasso,2020-07-27,0,18,3,384,Molise,14
+87,Catania,2020-07-27,0,101,3,824,Sicilia,19
+79,Catanzaro,2020-07-27,0,33,0,217,Calabria,18
+69,Chieti,2020-07-27,0,107,1,837,Abruzzo,13
+78,Cosenza,2020-07-27,0,34,0,488,Calabria,18
+19,Cremona,2020-07-27,0,1118,0,6720,Lombardia,3
+101,Crotone,2020-07-27,0,6,0,121,Calabria,18
+4,Cuneo,2020-07-27,0,398,0,2921,Piemonte,1
+86,Enna,2020-07-27,0,29,0,439,Sicilia,19
+109,Fermo,2020-07-27,0,40,0,475,Marche,11
+38,Ferrara,2020-07-27,0,170,0,1115,Emilia-Romagna,8
+48,Firenze,2020-07-27,0,416,2,3261,Toscana,9
+71,Foggia,2020-07-27,1,164,1,1181,Puglia,16
+40,Forli-Cesena,2020-07-27,0,195,0,1792,Emilia-Romagna,8
+60,Frosinone,2020-07-27,0,39,0,674,Lazio,12
+53,Grosseto,2020-07-27,0,23,0,408,Toscana,9
+8,Imperia,2020-07-27,0,211,0,1525,Liguria,7
+94,Isernia,2020-07-27,0,4,0,65,Molise,14
+66,L Aquila,2020-07-27,1,14,7,256,Abruzzo,13
+59,Latina,2020-07-27,0,35,0,646,Lazio,12
+75,Lecce,2020-07-27,0,75,2,545,Puglia,16
+49,Livorno,2020-07-27,0,61,0,484,Toscana,9
+46,Lucca,2020-07-27,0,145,3,1380,Toscana,9
+43,Macerata,2020-07-27,0,137,0,1158,Marche,11
+45,Massa Carrara,2020-07-27,0,176,0,1056,Toscana,9
+77,Matera,2020-07-27,0,7,0,213,Basilicata,17
+83,Messina,2020-07-27,0,59,0,483,Sicilia,19
+36,Modena,2020-07-27,0,474,8,4040,Emilia-Romagna,8
+3,Novara,2020-07-27,0,372,0,2808,Piemonte,1
+91,Nuoro,2020-07-27,0,13,0,82,Sardegna,20
+95,Oristano,2020-07-27,0,4,0,61,Sardegna,20
+82,Palermo,2020-07-27,0,39,0,510,Sicilia,19
+34,Parma,2020-07-27,0,769,2,3749,Emilia-Romagna,8
+54,Perugia,2020-07-27,0,47,0,1021,Umbria,10
+41,Pesaro e Urbino,2020-07-27,0,469,2,2779,Marche,11
+68,Pescara,2020-07-27,0,236,0,1612,Abruzzo,13
+33,Piacenza,2020-07-27,0,970,5,4480,Emilia-Romagna,8
+50,Pisa,2020-07-27,0,90,0,946,Toscana,9
+47,Pistoia,2020-07-27,0,80,0,755,Toscana,9
+76,Potenza,2020-07-27,0,21,0,192,Basilicata,17
+100,Prato,2020-07-27,0,54,1,555,Toscana,9
+88,Ragusa,2020-07-27,0,7,0,120,Sicilia,19
+39,Ravenna,2020-07-27,0,84,2,1140,Emilia-Romagna,8
+80,Reggio di Calabria,2020-07-27,0,19,0,298,Calabria,18
+35,Reggio nell Emilia,2020-07-27,0,585,5,5007,Emilia-Romagna,8
+57,Rieti,2020-07-27,0,42,4,418,Lazio,12
+99,Rimini,2020-07-27,0,259,4,2226,Emilia-Romagna,8
+58,Roma,2020-07-27,1,521,9,6259,Lazio,12
+90,Sassari,2020-07-27,0,84,-2,882,Sardegna,20
+9,Savona,2020-07-27,0,170,2,1629,Liguria,7
+52,Siena,2020-07-27,0,32,0,429,Toscana,9
+89,Siracusa,2020-07-27,0,29,0,331,Sicilia,19
+111,Sud Sardegna,2020-07-27,0,9,0,102,Sardegna,20
+73,Taranto,2020-07-27,0,29,0,281,Puglia,16
+67,Teramo,2020-07-27,0,80,0,635,Abruzzo,13
+55,Terni,2020-07-27,0,32,0,384,Umbria,10
+1,Torino,2020-07-27,1,1821,2,15971,Piemonte,1
+81,Trapani,2020-07-27,0,5,0,138,Sicilia,19
+22,Trento,2020-07-27,0,405,1,4966,P.A. Trento,22
+103,Verbano-Cusio-Ossola,2020-07-27,0,132,1,1152,Piemonte,1
+2,Vercelli,2020-07-27,0,222,0,1351,Piemonte,1
+102,Vibo Valentia,2020-07-27,0,5,0,88,Calabria,18
+56,Viterbo,2020-07-27,0,23,0,463,Lazio,12
