@@ -5,7 +5,7 @@
 The following data were used for the **Dashboard** ["COVID-Pro: a province-based analysis for Italy"](https://ceeds.unimi.it/covid-19-in-italy/) developed by the [**DEMM**](http://eng.demm.unimi.it/ecm/home) (Department of Economics, Management and Quantitative Methods) of **UNIMI**.
 
 This dashboard was developed by L. Ferrari, G. Gerardi, G. Manzi, A. Micheletti, F. Nicolussi and S. Salini.
-We thank the students R. Baby, A. Iordache, A. Singh and N. Verardo for their contribution.
+We thank the students R. Baby, A. Iordache, A. Singh and N. Verardo for their contribution during the internship.
 
 The official data repository of the Italian Ministry of Health and the Civil Protection Agency does not provide Covid-19 data on the daily number of deaths at a provincial level. However, by scraping the daily press conferences and Covid-19 bulletins provided by 13 regions out of 20, we were able to have provincial data on daily deaths due to the covid-19 for a vast majority of the Italian provinces.  The Aosta province and theprovinces of Bolzano/Bozen and Trento are included in the Italian Ministry of Health regional data as they are either coincident with the region (Aosta) or autonomous provinces and considered as regions, therefore they have data on provincial deaths. 
 
