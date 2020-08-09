@@ -12770,6 +12770,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 100,Prato,2020-08-05,0,54,0,563,Toscana,9
 88,Ragusa,2020-08-05,0,7,9,159,Sicilia,19
 39,Ravenna,2020-08-05,0,84,3,1161,Emilia-Romagna,8
+80,Reggio di Calabria,2020-08-05,0,19,0,299,Calabria,18
 35,Reggio nell Emilia,2020-08-05,0,586,7,5056,Emilia-Romagna,8
 57,Rieti,2020-08-05,0,42,1,425,Lazio,12
 99,Rimini,2020-08-05,0,259,6,2268,Emilia-Romagna,8
@@ -12786,4 +12787,36 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 22,Trento,2020-08-05,0,405,1,4984,P.A. Trento,22
 103,Verbano-Cusio-Ossola,2020-08-05,0,132,1,1155,Piemonte,1
 2,Vercelli,2020-08-05,0,222,5,1363,Piemonte,1
+102,Vibo Valentia,2020-08-05,0,5,0,91,Calabria,18
 56,Viterbo,2020-08-05,0,23,2,464,Lazio,12
+79,Catanzaro,2020-08-06,0,33,0,218,Calabria,18
+69,Chieti,2020-08-06,0,107,13,858,Abruzzo,13
+78,Cosenza,2020-08-06,0,34,0,492,Calabria,18
+101,Crotone,2020-08-06,0,6,0,121,Calabria,18
+66,L Aquila,2020-08-06,0,14,8,268,Abruzzo,13
+77,Matera,2020-08-06,0,7,0,213,Basilicata,17
+68,Pescara,2020-08-06,0,236,4,1635,Abruzzo,13
+76,Potenza,2020-08-06,0,21,0,192,Basilicata,17
+80,Reggio di Calabria,2020-08-06,0,19,1,300,Calabria,18
+67,Teramo,2020-08-06,0,80,1,642,Abruzzo,13
+102,Vibo Valentia,2020-08-06,0,5,0,91,Calabria,18
+79,Catanzaro,2020-08-07,0,33,0,218,Calabria,18
+69,Chieti,2020-08-07,0,107,1,859,Abruzzo,13
+78,Cosenza,2020-08-07,0,34,1,493,Calabria,18
+101,Crotone,2020-08-07,0,6,1,122,Calabria,18
+66,L Aquila,2020-08-07,0,14,2,270,Abruzzo,13
+77,Matera,2020-08-07,0,7,0,213,Basilicata,17
+68,Pescara,2020-08-07,0,236,3,1638,Abruzzo,13
+76,Potenza,2020-08-07,0,21,0,192,Basilicata,17
+80,Reggio di Calabria,2020-08-07,0,19,2,302,Calabria,18
+67,Teramo,2020-08-07,0,80,1,643,Abruzzo,13
+102,Vibo Valentia,2020-08-07,0,5,0,91,Calabria,18
+79,Catanzaro,2020-08-08,0,33,0,218,Calabria,18
+69,Chieti,2020-08-08,0,107,4,863,Abruzzo,13
+78,Cosenza,2020-08-08,0,34,0,493,Calabria,18
+101,Crotone,2020-08-08,0,6,0,122,Calabria,18
+66,L Aquila,2020-08-08,0,14,0,270,Abruzzo,13
+77,Matera,2020-08-08,0,7,0,213,Basilicata,17
+68,Pescara,2020-08-08,0,236,0,1638,Abruzzo,13
+76,Potenza,2020-08-08,0,21,0,192,Basilicata,17
+67,Teramo,2020-08-08,0,80,29,672,Abruzzo,13
