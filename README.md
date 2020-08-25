@@ -27,7 +27,7 @@ In the following table, for each Italian region we provide the main source where
 |Piemonte | https://www.regione.piemonte.it/web/pinforma|
 |Puglia | http://www.regione.puglia.it |
 |Sardegna | https://www.regione.sardegna.it |
-|Sicilia | http://pti.regione.sicilia.it/portal/page/portal/PIR\_PORTALE |
+|Sicilia | http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE |
 |Toscana | https://www.toscana-notizie.it/coronavirus |
 |Trentino-Alto-Adige | https://github.com/pcm-dpc/COVID-19 |
 |Umbria | http://www.regione.umbria.it/ufficio-stampa/agenzia-umbria-notizie |
