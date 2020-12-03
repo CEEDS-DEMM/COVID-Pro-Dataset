@@ -13686,7 +13686,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 8,Imperia,2020-07-23,0,211,1,1525,Liguria,7
 94,Isernia,2020-07-23,0,4,0,62,Molise,14
 66,L Aquila,2020-07-23,0,13,2,249,Abruzzo,13
-11,La Spezia,2020-07-23,0,0,1,869,Liguria,7
+11,La Spezia,2020-07-23,1,1,1,869,Liguria,7
 59,Latina,2020-07-23,0,35,2,638,Lazio,12
 75,Lecce,2020-07-23,0,75,3,530,Puglia,16
 49,Livorno,2020-07-23,0,61,1,483,Toscana,9
@@ -13777,7 +13777,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 8,Imperia,2020-07-24,0,211,0,1525,Liguria,7
 94,Isernia,2020-07-24,0,4,0,62,Molise,14
 66,L Aquila,2020-07-24,0,13,0,249,Abruzzo,13
-11,La Spezia,2020-07-24,0,0,0,869,Liguria,7
+11,La Spezia,2020-07-24,0,1,0,869,Liguria,7
 59,Latina,2020-07-24,0,35,4,642,Lazio,12
 75,Lecce,2020-07-24,0,75,7,537,Puglia,16
 49,Livorno,2020-07-24,0,61,0,483,Toscana,9
@@ -13868,7 +13868,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 8,Imperia,2020-07-25,0,211,0,1525,Liguria,7
 94,Isernia,2020-07-25,0,4,0,62,Molise,14
 66,L Aquila,2020-07-25,0,13,0,249,Abruzzo,13
-11,La Spezia,2020-07-25,0,0,1,870,Liguria,7
+11,La Spezia,2020-07-25,0,1,1,870,Liguria,7
 59,Latina,2020-07-25,0,35,2,644,Lazio,12
 75,Lecce,2020-07-25,0,75,3,540,Puglia,16
 49,Livorno,2020-07-25,0,61,1,484,Toscana,9
@@ -13959,7 +13959,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 8,Imperia,2020-07-26,0,211,0,1525,Liguria,7
 94,Isernia,2020-07-26,0,4,3,65,Molise,14
 66,L Aquila,2020-07-26,0,13,0,249,Abruzzo,13
-11,La Spezia,2020-07-26,0,0,0,870,Liguria,7
+11,La Spezia,2020-07-26,0,1,0,870,Liguria,7
 59,Latina,2020-07-26,0,35,2,646,Lazio,12
 75,Lecce,2020-07-26,0,75,3,543,Puglia,16
 49,Livorno,2020-07-26,0,61,0,484,Toscana,9
@@ -14050,7 +14050,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 8,Imperia,2020-07-27,0,211,0,1525,Liguria,7
 94,Isernia,2020-07-27,0,4,0,65,Molise,14
 66,L Aquila,2020-07-27,1,14,7,256,Abruzzo,13
-11,La Spezia,2020-07-27,0,0,2,872,Liguria,7
+11,La Spezia,2020-07-27,0,1,2,872,Liguria,7
 59,Latina,2020-07-27,0,35,0,646,Lazio,12
 75,Lecce,2020-07-27,0,75,2,545,Puglia,16
 49,Livorno,2020-07-27,0,61,0,484,Toscana,9
@@ -14141,7 +14141,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 8,Imperia,2020-07-28,0,211,0,1525,Liguria,7
 94,Isernia,2020-07-28,0,4,0,65,Molise,14
 66,L Aquila,2020-07-28,0,14,0,256,Abruzzo,13
-11,La Spezia,2020-07-28,0,0,0,872,Liguria,7
+11,La Spezia,2020-07-28,0,1,0,872,Liguria,7
 59,Latina,2020-07-28,0,35,0,646,Lazio,12
 75,Lecce,2020-07-28,0,75,2,547,Puglia,16
 49,Livorno,2020-07-28,2,63,0,484,Toscana,9
@@ -14232,7 +14232,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 8,Imperia,2020-07-29,0,211,0,1525,Liguria,7
 94,Isernia,2020-07-29,0,4,0,65,Molise,14
 66,L Aquila,2020-07-29,0,14,0,256,Abruzzo,13
-11,La Spezia,2020-07-29,0,0,3,875,Liguria,7
+11,La Spezia,2020-07-29,0,1,3,875,Liguria,7
 59,Latina,2020-07-29,0,35,1,647,Lazio,12
 75,Lecce,2020-07-29,0,75,7,554,Puglia,16
 49,Livorno,2020-07-29,0,63,0,484,Toscana,9
@@ -14323,7 +14323,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 8,Imperia,2020-07-30,0,211,0,1525,Liguria,7
 94,Isernia,2020-07-30,0,4,0,65,Molise,14
 66,L Aquila,2020-07-30,0,14,1,257,Abruzzo,13
-11,La Spezia,2020-07-30,0,0,3,878,Liguria,7
+11,La Spezia,2020-07-30,0,1,3,878,Liguria,7
 59,Latina,2020-07-30,0,35,1,648,Lazio,12
 75,Lecce,2020-07-30,0,75,3,557,Puglia,16
 49,Livorno,2020-07-30,0,63,0,484,Toscana,9
@@ -14414,7 +14414,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 8,Imperia,2020-07-31,0,211,0,1525,Liguria,7
 94,Isernia,2020-07-31,0,4,0,65,Molise,14
 66,L Aquila,2020-07-31,0,14,2,259,Abruzzo,13
-11,La Spezia,2020-07-31,0,0,0,878,Liguria,7
+11,La Spezia,2020-07-31,0,1,0,878,Liguria,7
 59,Latina,2020-07-31,0,35,4,652,Lazio,12
 75,Lecce,2020-07-31,0,75,0,557,Puglia,16
 49,Livorno,2020-07-31,0,63,0,484,Toscana,9
@@ -14505,7 +14505,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 8,Imperia,2020-08-01,0,211,2,1527,Liguria,7
 94,Isernia,2020-08-01,0,4,2,67,Molise,14
 66,L Aquila,2020-08-01,0,14,0,259,Abruzzo,13
-11,La Spezia,2020-08-01,0,0,0,878,Liguria,7
+11,La Spezia,2020-08-01,0,1,0,878,Liguria,7
 59,Latina,2020-08-01,0,35,5,657,Lazio,12
 75,Lecce,2020-08-01,0,75,4,561,Puglia,16
 49,Livorno,2020-08-01,0,63,0,484,Toscana,9
@@ -14596,7 +14596,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 8,Imperia,2020-08-02,0,211,0,1527,Liguria,7
 94,Isernia,2020-08-02,0,4,0,67,Molise,14
 66,L Aquila,2020-08-02,0,14,0,259,Abruzzo,13
-11,La Spezia,2020-08-02,0,0,1,879,Liguria,7
+11,La Spezia,2020-08-02,0,1,1,879,Liguria,7
 59,Latina,2020-08-02,0,35,3,660,Lazio,12
 75,Lecce,2020-08-02,0,75,1,562,Puglia,16
 49,Livorno,2020-08-02,0,63,1,485,Toscana,9
@@ -14687,7 +14687,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 8,Imperia,2020-08-03,0,211,0,1527,Liguria,7
 94,Isernia,2020-08-03,0,4,0,67,Molise,14
 66,L Aquila,2020-08-03,0,14,1,260,Abruzzo,13
-11,La Spezia,2020-08-03,0,0,0,879,Liguria,7
+11,La Spezia,2020-08-03,0,1,0,879,Liguria,7
 59,Latina,2020-08-03,0,35,2,662,Lazio,12
 75,Lecce,2020-08-03,0,75,5,567,Puglia,16
 49,Livorno,2020-08-03,0,63,0,485,Toscana,9
@@ -14778,7 +14778,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 8,Imperia,2020-08-04,0,211,4,1531,Liguria,7
 94,Isernia,2020-08-04,0,4,0,67,Molise,14
 66,L Aquila,2020-08-04,0,14,0,260,Abruzzo,13
-11,La Spezia,2020-08-04,0,0,0,879,Liguria,7
+11,La Spezia,2020-08-04,0,1,0,879,Liguria,7
 59,Latina,2020-08-04,0,35,0,662,Lazio,12
 75,Lecce,2020-08-04,0,75,0,567,Puglia,16
 49,Livorno,2020-08-04,0,63,2,487,Toscana,9
@@ -14869,7 +14869,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 8,Imperia,2020-08-05,0,211,3,1534,Liguria,7
 94,Isernia,2020-08-05,0,4,0,67,Molise,14
 66,L Aquila,2020-08-05,0,14,0,260,Abruzzo,13
-11,La Spezia,2020-08-05,0,0,0,879,Liguria,7
+11,La Spezia,2020-08-05,0,1,0,879,Liguria,7
 59,Latina,2020-08-05,0,35,1,663,Lazio,12
 75,Lecce,2020-08-05,0,75,8,575,Puglia,16
 49,Livorno,2020-08-05,0,63,0,487,Toscana,9
@@ -14960,7 +14960,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 8,Imperia,2020-08-06,0,211,1,1535,Liguria,7
 94,Isernia,2020-08-06,0,4,0,67,Molise,14
 66,L Aquila,2020-08-06,0,14,8,268,Abruzzo,13
-11,La Spezia,2020-08-06,0,0,0,879,Liguria,7
+11,La Spezia,2020-08-06,0,1,0,879,Liguria,7
 59,Latina,2020-08-06,0,35,0,663,Lazio,12
 75,Lecce,2020-08-06,0,75,2,577,Puglia,16
 49,Livorno,2020-08-06,0,63,1,488,Toscana,9
@@ -15051,7 +15051,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 8,Imperia,2020-08-07,0,211,0,1535,Liguria,7
 94,Isernia,2020-08-07,0,4,0,67,Molise,14
 66,L Aquila,2020-08-07,0,14,2,270,Abruzzo,13
-11,La Spezia,2020-08-07,0,0,1,880,Liguria,7
+11,La Spezia,2020-08-07,0,1,1,880,Liguria,7
 59,Latina,2020-08-07,0,35,2,665,Lazio,12
 75,Lecce,2020-08-07,0,75,3,580,Puglia,16
 49,Livorno,2020-08-07,0,63,1,489,Toscana,9
@@ -15136,13 +15136,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-08-08,0,165,2,1224,Puglia,16
 40,Forli-Cesena,2020-08-08,0,195,4,1812,Emilia-Romagna,8
 60,Frosinone,2020-08-08,0,39,0,680,Lazio,12
-10,Genova,2020-08-08,0,0,0,5713,Liguria,7
+10,Genova,2020-08-08,1,1,0,5713,Liguria,7
 31,Gorizia,2020-08-08,0,4,0,226,Friuli Venezia Giulia,6
 53,Grosseto,2020-08-08,0,24,0,418,Toscana,9
 8,Imperia,2020-08-08,0,211,0,1535,Liguria,7
 94,Isernia,2020-08-08,0,4,0,67,Molise,14
 66,L Aquila,2020-08-08,0,14,0,270,Abruzzo,13
-11,La Spezia,2020-08-08,0,0,0,880,Liguria,7
+11,La Spezia,2020-08-08,0,1,0,880,Liguria,7
 59,Latina,2020-08-08,0,35,3,668,Lazio,12
 75,Lecce,2020-08-08,0,75,4,584,Puglia,16
 49,Livorno,2020-08-08,0,63,1,490,Toscana,9
@@ -15227,13 +15227,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-08-09,0,165,6,1230,Puglia,16
 40,Forli-Cesena,2020-08-09,0,195,4,1816,Emilia-Romagna,8
 60,Frosinone,2020-08-09,0,39,0,680,Lazio,12
-10,Genova,2020-08-09,0,0,3,5716,Liguria,7
+10,Genova,2020-08-09,0,1,3,5716,Liguria,7
 31,Gorizia,2020-08-09,0,4,0,226,Friuli Venezia Giulia,6
 53,Grosseto,2020-08-09,0,24,2,420,Toscana,9
 8,Imperia,2020-08-09,0,211,0,1535,Liguria,7
 94,Isernia,2020-08-09,0,4,0,67,Molise,14
 66,L Aquila,2020-08-09,0,14,5,275,Abruzzo,13
-11,La Spezia,2020-08-09,0,0,0,880,Liguria,7
+11,La Spezia,2020-08-09,0,1,0,880,Liguria,7
 59,Latina,2020-08-09,0,35,4,672,Lazio,12
 75,Lecce,2020-08-09,0,75,1,585,Puglia,16
 49,Livorno,2020-08-09,0,63,4,494,Toscana,9
@@ -15318,13 +15318,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-08-10,0,165,9,1239,Puglia,16
 40,Forli-Cesena,2020-08-10,0,195,2,1818,Emilia-Romagna,8
 60,Frosinone,2020-08-10,0,39,1,681,Lazio,12
-10,Genova,2020-08-10,0,0,1,5717,Liguria,7
+10,Genova,2020-08-10,0,1,1,5717,Liguria,7
 31,Gorizia,2020-08-10,0,4,0,226,Friuli Venezia Giulia,6
 53,Grosseto,2020-08-10,0,24,0,420,Toscana,9
 8,Imperia,2020-08-10,0,211,0,1535,Liguria,7
 94,Isernia,2020-08-10,0,4,0,67,Molise,14
 66,L Aquila,2020-08-10,0,14,0,275,Abruzzo,13
-11,La Spezia,2020-08-10,0,0,0,880,Liguria,7
+11,La Spezia,2020-08-10,0,1,0,880,Liguria,7
 59,Latina,2020-08-10,0,35,2,674,Lazio,12
 75,Lecce,2020-08-10,0,75,6,591,Puglia,16
 49,Livorno,2020-08-10,0,63,0,494,Toscana,9
@@ -15409,13 +15409,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-08-11,0,165,1,1240,Puglia,16
 40,Forli-Cesena,2020-08-11,0,195,2,1820,Emilia-Romagna,8
 60,Frosinone,2020-08-11,0,39,0,681,Lazio,12
-10,Genova,2020-08-11,0,0,1,5718,Liguria,7
+10,Genova,2020-08-11,0,1,1,5718,Liguria,7
 31,Gorizia,2020-08-11,0,4,1,227,Friuli Venezia Giulia,6
 53,Grosseto,2020-08-11,0,24,0,420,Toscana,9
 8,Imperia,2020-08-11,0,211,6,1541,Liguria,7
 94,Isernia,2020-08-11,0,4,0,67,Molise,14
 66,L Aquila,2020-08-11,0,14,9,284,Abruzzo,13
-11,La Spezia,2020-08-11,0,0,1,881,Liguria,7
+11,La Spezia,2020-08-11,0,1,1,881,Liguria,7
 59,Latina,2020-08-11,0,35,2,676,Lazio,12
 75,Lecce,2020-08-11,0,75,6,597,Puglia,16
 49,Livorno,2020-08-11,0,63,0,494,Toscana,9
@@ -15500,13 +15500,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-08-12,0,165,7,1247,Puglia,16
 40,Forli-Cesena,2020-08-12,0,195,1,1821,Emilia-Romagna,8
 60,Frosinone,2020-08-12,0,39,0,681,Lazio,12
-10,Genova,2020-08-12,0,0,7,5725,Liguria,7
+10,Genova,2020-08-12,0,1,7,5725,Liguria,7
 31,Gorizia,2020-08-12,0,4,0,227,Friuli Venezia Giulia,6
 53,Grosseto,2020-08-12,0,24,1,421,Toscana,9
 8,Imperia,2020-08-12,0,211,1,1542,Liguria,7
 94,Isernia,2020-08-12,0,4,0,67,Molise,14
 66,L Aquila,2020-08-12,0,14,4,288,Abruzzo,13
-11,La Spezia,2020-08-12,0,0,2,883,Liguria,7
+11,La Spezia,2020-08-12,0,1,2,883,Liguria,7
 59,Latina,2020-08-12,0,35,3,679,Lazio,12
 75,Lecce,2020-08-12,0,75,0,597,Puglia,16
 49,Livorno,2020-08-12,0,63,0,494,Toscana,9
@@ -15591,13 +15591,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-08-13,0,165,3,1250,Puglia,16
 40,Forli-Cesena,2020-08-13,0,195,0,1821,Emilia-Romagna,8
 60,Frosinone,2020-08-13,0,39,2,683,Lazio,12
-10,Genova,2020-08-13,0,0,10,5735,Liguria,7
+10,Genova,2020-08-13,0,1,10,5735,Liguria,7
 31,Gorizia,2020-08-13,0,4,3,230,Friuli Venezia Giulia,6
 53,Grosseto,2020-08-13,0,24,1,422,Toscana,9
 8,Imperia,2020-08-13,0,211,4,1546,Liguria,7
 94,Isernia,2020-08-13,0,4,1,68,Molise,14
 66,L Aquila,2020-08-13,0,14,2,290,Abruzzo,13
-11,La Spezia,2020-08-13,0,0,12,895,Liguria,7
+11,La Spezia,2020-08-13,0,1,12,895,Liguria,7
 59,Latina,2020-08-13,0,35,4,683,Lazio,12
 75,Lecce,2020-08-13,0,75,1,598,Puglia,16
 49,Livorno,2020-08-13,0,63,1,495,Toscana,9
@@ -15682,13 +15682,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-08-14,0,165,3,1253,Puglia,16
 40,Forli-Cesena,2020-08-14,0,195,2,1823,Emilia-Romagna,8
 60,Frosinone,2020-08-14,0,39,0,683,Lazio,12
-10,Genova,2020-08-14,0,0,5,5740,Liguria,7
+10,Genova,2020-08-14,0,1,5,5740,Liguria,7
 31,Gorizia,2020-08-14,0,4,1,231,Friuli Venezia Giulia,6
 53,Grosseto,2020-08-14,0,24,0,422,Toscana,9
 8,Imperia,2020-08-14,0,211,0,1546,Liguria,7
 94,Isernia,2020-08-14,0,4,0,68,Molise,14
 66,L Aquila,2020-08-14,0,14,3,293,Abruzzo,13
-11,La Spezia,2020-08-14,0,0,3,898,Liguria,7
+11,La Spezia,2020-08-14,0,1,3,898,Liguria,7
 59,Latina,2020-08-14,0,35,2,685,Lazio,12
 75,Lecce,2020-08-14,0,75,8,606,Puglia,16
 49,Livorno,2020-08-14,0,63,1,496,Toscana,9
@@ -15773,13 +15773,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-08-15,0,165,13,1266,Puglia,16
 40,Forli-Cesena,2020-08-15,0,195,3,1826,Emilia-Romagna,8
 60,Frosinone,2020-08-15,0,39,4,687,Lazio,12
-10,Genova,2020-08-15,0,0,13,5753,Liguria,7
+10,Genova,2020-08-15,0,1,13,5753,Liguria,7
 31,Gorizia,2020-08-15,0,4,1,232,Friuli Venezia Giulia,6
 53,Grosseto,2020-08-15,0,24,2,424,Toscana,9
 8,Imperia,2020-08-15,0,211,6,1552,Liguria,7
 94,Isernia,2020-08-15,0,4,0,68,Molise,14
 66,L Aquila,2020-08-15,0,14,7,300,Abruzzo,13
-11,La Spezia,2020-08-15,0,0,2,900,Liguria,7
+11,La Spezia,2020-08-15,0,1,2,900,Liguria,7
 59,Latina,2020-08-15,0,35,3,688,Lazio,12
 75,Lecce,2020-08-15,0,75,0,606,Puglia,16
 49,Livorno,2020-08-15,0,63,2,498,Toscana,9
@@ -15864,13 +15864,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-08-16,0,165,1,1267,Puglia,16
 40,Forli-Cesena,2020-08-16,0,195,4,1830,Emilia-Romagna,8
 60,Frosinone,2020-08-16,0,39,0,687,Lazio,12
-10,Genova,2020-08-16,0,0,5,5758,Liguria,7
+10,Genova,2020-08-16,0,1,5,5758,Liguria,7
 31,Gorizia,2020-08-16,0,4,0,232,Friuli Venezia Giulia,6
 53,Grosseto,2020-08-16,0,24,0,424,Toscana,9
 8,Imperia,2020-08-16,0,211,0,1552,Liguria,7
 94,Isernia,2020-08-16,0,4,0,68,Molise,14
 66,L Aquila,2020-08-16,0,14,2,302,Abruzzo,13
-11,La Spezia,2020-08-16,0,0,0,900,Liguria,7
+11,La Spezia,2020-08-16,0,1,0,900,Liguria,7
 59,Latina,2020-08-16,0,35,12,700,Lazio,12
 75,Lecce,2020-08-16,0,75,4,610,Puglia,16
 49,Livorno,2020-08-16,0,63,8,506,Toscana,9
@@ -15955,13 +15955,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-08-17,0,165,1,1268,Puglia,16
 40,Forli-Cesena,2020-08-17,0,195,6,1836,Emilia-Romagna,8
 60,Frosinone,2020-08-17,0,39,0,687,Lazio,12
-10,Genova,2020-08-17,0,0,2,5760,Liguria,7
+10,Genova,2020-08-17,0,1,2,5760,Liguria,7
 31,Gorizia,2020-08-17,0,4,1,233,Friuli Venezia Giulia,6
 53,Grosseto,2020-08-17,0,24,3,427,Toscana,9
 8,Imperia,2020-08-17,0,211,0,1552,Liguria,7
 94,Isernia,2020-08-17,0,4,0,68,Molise,14
 66,L Aquila,2020-08-17,0,14,3,305,Abruzzo,13
-11,La Spezia,2020-08-17,0,0,2,902,Liguria,7
+11,La Spezia,2020-08-17,0,1,2,902,Liguria,7
 59,Latina,2020-08-17,0,35,0,700,Lazio,12
 75,Lecce,2020-08-17,1,76,0,610,Puglia,16
 49,Livorno,2020-08-17,0,63,2,508,Toscana,9
@@ -16046,13 +16046,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-08-18,0,165,2,1270,Puglia,16
 40,Forli-Cesena,2020-08-18,1,196,3,1839,Emilia-Romagna,8
 60,Frosinone,2020-08-18,0,39,1,688,Lazio,12
-10,Genova,2020-08-18,0,0,10,5770,Liguria,7
+10,Genova,2020-08-18,0,1,10,5770,Liguria,7
 31,Gorizia,2020-08-18,0,4,2,235,Friuli Venezia Giulia,6
 53,Grosseto,2020-08-18,0,24,0,427,Toscana,9
 8,Imperia,2020-08-18,0,211,1,1553,Liguria,7
 94,Isernia,2020-08-18,0,4,0,68,Molise,14
 66,L Aquila,2020-08-18,0,14,0,305,Abruzzo,13
-11,La Spezia,2020-08-18,0,0,4,906,Liguria,7
+11,La Spezia,2020-08-18,0,1,4,906,Liguria,7
 59,Latina,2020-08-18,0,35,3,703,Lazio,12
 75,Lecce,2020-08-18,0,76,9,619,Puglia,16
 49,Livorno,2020-08-18,0,63,0,508,Toscana,9
@@ -16137,13 +16137,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-08-19,0,165,8,1278,Puglia,16
 40,Forli-Cesena,2020-08-19,0,196,4,1843,Emilia-Romagna,8
 60,Frosinone,2020-08-19,0,39,2,690,Lazio,12
-10,Genova,2020-08-19,0,0,16,5786,Liguria,7
+10,Genova,2020-08-19,0,1,16,5786,Liguria,7
 31,Gorizia,2020-08-19,0,4,2,237,Friuli Venezia Giulia,6
 53,Grosseto,2020-08-19,0,24,2,429,Toscana,9
 8,Imperia,2020-08-19,0,211,0,1553,Liguria,7
 94,Isernia,2020-08-19,0,4,2,70,Molise,14
 66,L Aquila,2020-08-19,0,14,2,307,Abruzzo,13
-11,La Spezia,2020-08-19,0,0,5,911,Liguria,7
+11,La Spezia,2020-08-19,0,1,5,911,Liguria,7
 59,Latina,2020-08-19,0,35,2,705,Lazio,12
 75,Lecce,2020-08-19,0,76,15,634,Puglia,16
 49,Livorno,2020-08-19,0,63,3,511,Toscana,9
@@ -16228,13 +16228,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-08-20,0,165,7,1285,Puglia,16
 40,Forli-Cesena,2020-08-20,0,196,2,1845,Emilia-Romagna,8
 60,Frosinone,2020-08-20,0,39,2,692,Lazio,12
-10,Genova,2020-08-20,0,0,15,5801,Liguria,7
+10,Genova,2020-08-20,0,1,15,5801,Liguria,7
 31,Gorizia,2020-08-20,0,4,0,237,Friuli Venezia Giulia,6
 53,Grosseto,2020-08-20,0,24,0,429,Toscana,9
 8,Imperia,2020-08-20,0,211,4,1557,Liguria,7
 94,Isernia,2020-08-20,0,4,0,70,Molise,14
 66,L Aquila,2020-08-20,0,14,1,308,Abruzzo,13
-11,La Spezia,2020-08-20,0,0,7,918,Liguria,7
+11,La Spezia,2020-08-20,0,1,7,918,Liguria,7
 59,Latina,2020-08-20,0,35,5,710,Lazio,12
 75,Lecce,2020-08-20,0,76,3,637,Puglia,16
 49,Livorno,2020-08-20,0,63,3,514,Toscana,9
@@ -16319,13 +16319,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-08-21,0,165,12,1297,Puglia,16
 40,Forli-Cesena,2020-08-21,0,196,1,1846,Emilia-Romagna,8
 60,Frosinone,2020-08-21,0,39,4,696,Lazio,12
-10,Genova,2020-08-21,0,0,11,5812,Liguria,7
+10,Genova,2020-08-21,0,1,11,5812,Liguria,7
 31,Gorizia,2020-08-21,0,4,0,237,Friuli Venezia Giulia,6
 53,Grosseto,2020-08-21,0,24,3,432,Toscana,9
 8,Imperia,2020-08-21,0,211,2,1559,Liguria,7
 94,Isernia,2020-08-21,0,4,1,71,Molise,14
 66,L Aquila,2020-08-21,0,14,13,321,Abruzzo,13
-11,La Spezia,2020-08-21,0,0,1,919,Liguria,7
+11,La Spezia,2020-08-21,0,1,1,919,Liguria,7
 59,Latina,2020-08-21,0,35,1,711,Lazio,12
 75,Lecce,2020-08-21,0,76,5,642,Puglia,16
 49,Livorno,2020-08-21,0,63,5,519,Toscana,9
@@ -16410,13 +16410,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-08-22,0,165,7,1304,Puglia,16
 40,Forli-Cesena,2020-08-22,0,196,11,1857,Emilia-Romagna,8
 60,Frosinone,2020-08-22,0,39,5,701,Lazio,12
-10,Genova,2020-08-22,0,0,14,5826,Liguria,7
+10,Genova,2020-08-22,0,1,14,5826,Liguria,7
 31,Gorizia,2020-08-22,0,4,3,240,Friuli Venezia Giulia,6
 53,Grosseto,2020-08-22,0,24,3,435,Toscana,9
 8,Imperia,2020-08-22,0,211,0,1559,Liguria,7
 94,Isernia,2020-08-22,0,4,0,71,Molise,14
 66,L Aquila,2020-08-22,0,14,8,329,Abruzzo,13
-11,La Spezia,2020-08-22,0,0,6,925,Liguria,7
+11,La Spezia,2020-08-22,0,1,6,925,Liguria,7
 59,Latina,2020-08-22,0,35,45,756,Lazio,12
 75,Lecce,2020-08-22,0,76,1,643,Puglia,16
 49,Livorno,2020-08-22,0,63,3,522,Toscana,9
@@ -16501,13 +16501,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-08-23,0,165,9,1313,Puglia,16
 40,Forli-Cesena,2020-08-23,0,196,13,1870,Emilia-Romagna,8
 60,Frosinone,2020-08-23,0,39,20,721,Lazio,12
-10,Genova,2020-08-23,0,0,5,5831,Liguria,7
+10,Genova,2020-08-23,0,1,5,5831,Liguria,7
 31,Gorizia,2020-08-23,0,4,2,242,Friuli Venezia Giulia,6
 53,Grosseto,2020-08-23,0,24,6,441,Toscana,9
 8,Imperia,2020-08-23,0,211,4,1563,Liguria,7
 94,Isernia,2020-08-23,0,4,0,71,Molise,14
 66,L Aquila,2020-08-23,0,14,12,341,Abruzzo,13
-11,La Spezia,2020-08-23,0,0,11,936,Liguria,7
+11,La Spezia,2020-08-23,0,1,11,936,Liguria,7
 59,Latina,2020-08-23,0,35,6,762,Lazio,12
 75,Lecce,2020-08-23,0,76,4,647,Puglia,16
 49,Livorno,2020-08-23,0,63,4,526,Toscana,9
@@ -16592,13 +16592,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-08-24,0,165,3,1316,Puglia,16
 40,Forli-Cesena,2020-08-24,0,196,15,1885,Emilia-Romagna,8
 60,Frosinone,2020-08-24,0,39,-5,716,Lazio,12
-10,Genova,2020-08-24,0,0,11,5842,Liguria,7
+10,Genova,2020-08-24,0,1,11,5842,Liguria,7
 31,Gorizia,2020-08-24,0,4,0,242,Friuli Venezia Giulia,6
 53,Grosseto,2020-08-24,0,24,1,442,Toscana,9
 8,Imperia,2020-08-24,0,211,0,1563,Liguria,7
 94,Isernia,2020-08-24,0,4,0,71,Molise,14
 66,L Aquila,2020-08-24,0,14,4,345,Abruzzo,13
-11,La Spezia,2020-08-24,0,0,11,947,Liguria,7
+11,La Spezia,2020-08-24,0,1,11,947,Liguria,7
 59,Latina,2020-08-24,0,35,4,766,Lazio,12
 75,Lecce,2020-08-24,0,76,2,649,Puglia,16
 49,Livorno,2020-08-24,0,63,6,532,Toscana,9
@@ -16683,13 +16683,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-08-25,0,165,1,1317,Puglia,16
 40,Forli-Cesena,2020-08-25,0,196,10,1895,Emilia-Romagna,8
 60,Frosinone,2020-08-25,0,39,10,726,Lazio,12
-10,Genova,2020-08-25,0,0,4,5846,Liguria,7
+10,Genova,2020-08-25,0,1,4,5846,Liguria,7
 31,Gorizia,2020-08-25,0,4,0,242,Friuli Venezia Giulia,6
 53,Grosseto,2020-08-25,0,24,2,444,Toscana,9
 8,Imperia,2020-08-25,0,211,1,1564,Liguria,7
 94,Isernia,2020-08-25,0,4,0,71,Molise,14
 66,L Aquila,2020-08-25,0,14,5,350,Abruzzo,13
-11,La Spezia,2020-08-25,0,0,5,952,Liguria,7
+11,La Spezia,2020-08-25,0,1,5,952,Liguria,7
 59,Latina,2020-08-25,0,35,3,769,Lazio,12
 75,Lecce,2020-08-25,0,76,12,661,Puglia,16
 49,Livorno,2020-08-25,0,63,0,532,Toscana,9
@@ -16774,13 +16774,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-08-26,0,165,10,1327,Puglia,16
 40,Forli-Cesena,2020-08-26,0,196,25,1920,Emilia-Romagna,8
 60,Frosinone,2020-08-26,0,39,6,732,Lazio,12
-10,Genova,2020-08-26,0,0,17,5863,Liguria,7
+10,Genova,2020-08-26,0,1,17,5863,Liguria,7
 31,Gorizia,2020-08-26,0,4,9,251,Friuli Venezia Giulia,6
 53,Grosseto,2020-08-26,0,24,6,450,Toscana,9
 8,Imperia,2020-08-26,0,211,1,1565,Liguria,7
 94,Isernia,2020-08-26,0,4,4,75,Molise,14
 66,L Aquila,2020-08-26,0,14,16,366,Abruzzo,13
-11,La Spezia,2020-08-26,0,0,16,968,Liguria,7
+11,La Spezia,2020-08-26,0,1,16,968,Liguria,7
 59,Latina,2020-08-26,0,35,2,771,Lazio,12
 75,Lecce,2020-08-26,0,76,1,662,Puglia,16
 49,Livorno,2020-08-26,0,63,3,535,Toscana,9
@@ -16865,13 +16865,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-08-27,0,165,10,1337,Puglia,16
 40,Forli-Cesena,2020-08-27,0,196,37,1957,Emilia-Romagna,8
 60,Frosinone,2020-08-27,0,39,14,746,Lazio,12
-10,Genova,2020-08-27,0,0,14,5877,Liguria,7
+10,Genova,2020-08-27,0,1,14,5877,Liguria,7
 31,Gorizia,2020-08-27,0,4,3,254,Friuli Venezia Giulia,6
 53,Grosseto,2020-08-27,0,24,11,461,Toscana,9
 8,Imperia,2020-08-27,0,211,4,1569,Liguria,7
 94,Isernia,2020-08-27,0,4,0,75,Molise,14
 66,L Aquila,2020-08-27,0,14,11,377,Abruzzo,13
-11,La Spezia,2020-08-27,0,0,11,979,Liguria,7
+11,La Spezia,2020-08-27,0,1,11,979,Liguria,7
 59,Latina,2020-08-27,0,35,5,776,Lazio,12
 75,Lecce,2020-08-27,0,76,2,664,Puglia,16
 49,Livorno,2020-08-27,0,63,10,545,Toscana,9
@@ -16956,13 +16956,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-08-28,0,165,15,1352,Puglia,16
 40,Forli-Cesena,2020-08-28,0,196,37,1994,Emilia-Romagna,8
 60,Frosinone,2020-08-28,0,39,15,761,Lazio,12
-10,Genova,2020-08-28,0,0,16,5893,Liguria,7
+10,Genova,2020-08-28,0,1,16,5893,Liguria,7
 31,Gorizia,2020-08-28,0,4,2,256,Friuli Venezia Giulia,6
 53,Grosseto,2020-08-28,0,24,4,465,Toscana,9
 8,Imperia,2020-08-28,0,211,0,1569,Liguria,7
 94,Isernia,2020-08-28,0,4,1,76,Molise,14
 66,L Aquila,2020-08-28,0,14,11,388,Abruzzo,13
-11,La Spezia,2020-08-28,0,0,25,1004,Liguria,7
+11,La Spezia,2020-08-28,0,1,25,1004,Liguria,7
 59,Latina,2020-08-28,0,35,4,780,Lazio,12
 75,Lecce,2020-08-28,0,76,3,667,Puglia,16
 49,Livorno,2020-08-28,0,63,3,548,Toscana,9
@@ -17047,13 +17047,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-08-29,0,165,5,1357,Puglia,16
 40,Forli-Cesena,2020-08-29,0,196,31,2025,Emilia-Romagna,8
 60,Frosinone,2020-08-29,0,39,11,772,Lazio,12
-10,Genova,2020-08-29,0,0,15,5908,Liguria,7
+10,Genova,2020-08-29,0,1,15,5908,Liguria,7
 31,Gorizia,2020-08-29,0,4,1,257,Friuli Venezia Giulia,6
 53,Grosseto,2020-08-29,0,24,1,466,Toscana,9
 8,Imperia,2020-08-29,0,211,4,1573,Liguria,7
 94,Isernia,2020-08-29,0,4,1,77,Molise,14
 66,L Aquila,2020-08-29,0,14,8,396,Abruzzo,13
-11,La Spezia,2020-08-29,0,0,22,1026,Liguria,7
+11,La Spezia,2020-08-29,0,1,22,1026,Liguria,7
 59,Latina,2020-08-29,0,35,19,799,Lazio,12
 75,Lecce,2020-08-29,0,76,1,668,Puglia,16
 49,Livorno,2020-08-29,0,63,1,549,Toscana,9
@@ -17138,13 +17138,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-08-30,0,165,14,1371,Puglia,16
 40,Forli-Cesena,2020-08-30,0,196,12,2037,Emilia-Romagna,8
 60,Frosinone,2020-08-30,0,39,8,780,Lazio,12
-10,Genova,2020-08-30,0,0,10,5918,Liguria,7
+10,Genova,2020-08-30,0,1,10,5918,Liguria,7
 31,Gorizia,2020-08-30,0,4,3,260,Friuli Venezia Giulia,6
 53,Grosseto,2020-08-30,0,24,11,477,Toscana,9
 8,Imperia,2020-08-30,0,211,2,1575,Liguria,7
 94,Isernia,2020-08-30,0,4,0,77,Molise,14
 66,L Aquila,2020-08-30,0,14,20,416,Abruzzo,13
-11,La Spezia,2020-08-30,0,0,31,1057,Liguria,7
+11,La Spezia,2020-08-30,0,1,31,1057,Liguria,7
 59,Latina,2020-08-30,0,35,31,830,Lazio,12
 75,Lecce,2020-08-30,0,76,1,669,Puglia,16
 49,Livorno,2020-08-30,0,63,3,552,Toscana,9
@@ -17229,13 +17229,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-08-31,0,165,6,1377,Puglia,16
 40,Forli-Cesena,2020-08-31,0,196,22,2059,Emilia-Romagna,8
 60,Frosinone,2020-08-31,0,39,7,787,Lazio,12
-10,Genova,2020-08-31,0,0,10,5928,Liguria,7
+10,Genova,2020-08-31,0,1,10,5928,Liguria,7
 31,Gorizia,2020-08-31,0,4,1,261,Friuli Venezia Giulia,6
 53,Grosseto,2020-08-31,0,24,8,485,Toscana,9
 8,Imperia,2020-08-31,0,211,1,1576,Liguria,7
 94,Isernia,2020-08-31,0,4,0,77,Molise,14
 66,L Aquila,2020-08-31,0,14,6,422,Abruzzo,13
-11,La Spezia,2020-08-31,0,0,30,1087,Liguria,7
+11,La Spezia,2020-08-31,0,1,30,1087,Liguria,7
 59,Latina,2020-08-31,0,35,8,838,Lazio,12
 75,Lecce,2020-08-31,0,76,1,670,Puglia,16
 49,Livorno,2020-08-31,0,63,5,557,Toscana,9
@@ -17320,13 +17320,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-01,0,165,4,1381,Puglia,16
 40,Forli-Cesena,2020-09-01,0,196,17,2076,Emilia-Romagna,8
 60,Frosinone,2020-09-01,0,39,3,790,Lazio,12
-10,Genova,2020-09-01,0,0,2,5930,Liguria,7
+10,Genova,2020-09-01,0,1,2,5930,Liguria,7
 31,Gorizia,2020-09-01,0,4,6,267,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-01,0,24,1,486,Toscana,9
 8,Imperia,2020-09-01,0,211,2,1578,Liguria,7
 94,Isernia,2020-09-01,0,4,0,77,Molise,14
 66,L Aquila,2020-09-01,0,14,4,426,Abruzzo,13
-11,La Spezia,2020-09-01,0,0,11,1098,Liguria,7
+11,La Spezia,2020-09-01,0,1,11,1098,Liguria,7
 59,Latina,2020-09-01,0,35,5,843,Lazio,12
 75,Lecce,2020-09-01,0,76,2,672,Puglia,16
 49,Livorno,2020-09-01,0,63,0,557,Toscana,9
@@ -17411,13 +17411,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-02,0,165,5,1386,Puglia,16
 40,Forli-Cesena,2020-09-02,0,196,16,2092,Emilia-Romagna,8
 60,Frosinone,2020-09-02,0,39,0,790,Lazio,12
-10,Genova,2020-09-02,0,0,16,5946,Liguria,7
+10,Genova,2020-09-02,0,1,16,5946,Liguria,7
 31,Gorizia,2020-09-02,1,5,3,270,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-02,0,24,3,489,Toscana,9
 8,Imperia,2020-09-02,0,211,1,1579,Liguria,7
 94,Isernia,2020-09-02,0,4,0,77,Molise,14
 66,L Aquila,2020-09-02,0,14,19,445,Abruzzo,13
-11,La Spezia,2020-09-02,0,0,23,1121,Liguria,7
+11,La Spezia,2020-09-02,0,1,23,1121,Liguria,7
 59,Latina,2020-09-02,0,35,9,852,Lazio,12
 75,Lecce,2020-09-02,0,76,3,675,Puglia,16
 49,Livorno,2020-09-02,0,63,2,559,Toscana,9
@@ -17502,13 +17502,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-03,0,165,13,1399,Puglia,16
 40,Forli-Cesena,2020-09-03,0,196,12,2104,Emilia-Romagna,8
 60,Frosinone,2020-09-03,0,39,12,802,Lazio,12
-10,Genova,2020-09-03,0,0,7,5953,Liguria,7
+10,Genova,2020-09-03,0,1,7,5953,Liguria,7
 31,Gorizia,2020-09-03,0,5,0,270,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-03,0,24,10,499,Toscana,9
 8,Imperia,2020-09-03,0,211,4,1583,Liguria,7
 94,Isernia,2020-09-03,0,4,0,77,Molise,14
 66,L Aquila,2020-09-03,0,14,16,461,Abruzzo,13
-11,La Spezia,2020-09-03,0,0,6,1127,Liguria,7
+11,La Spezia,2020-09-03,0,1,6,1127,Liguria,7
 59,Latina,2020-09-03,0,35,6,858,Lazio,12
 75,Lecce,2020-09-03,3,79,1,676,Puglia,16
 49,Livorno,2020-09-03,0,63,11,570,Toscana,9
@@ -17593,13 +17593,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-04,0,165,7,1406,Puglia,16
 40,Forli-Cesena,2020-09-04,0,196,25,2129,Emilia-Romagna,8
 60,Frosinone,2020-09-04,0,39,6,808,Lazio,12
-10,Genova,2020-09-04,0,0,15,5968,Liguria,7
+10,Genova,2020-09-04,0,1,15,5968,Liguria,7
 31,Gorizia,2020-09-04,0,5,4,274,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-04,0,24,10,509,Toscana,9
 8,Imperia,2020-09-04,0,211,8,1591,Liguria,7
 94,Isernia,2020-09-04,0,4,1,78,Molise,14
 66,L Aquila,2020-09-04,0,14,20,481,Abruzzo,13
-11,La Spezia,2020-09-04,0,0,19,1146,Liguria,7
+11,La Spezia,2020-09-04,1,2,19,1146,Liguria,7
 59,Latina,2020-09-04,0,35,13,871,Lazio,12
 75,Lecce,2020-09-04,0,79,8,684,Puglia,16
 49,Livorno,2020-09-04,0,63,9,579,Toscana,9
@@ -17684,13 +17684,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-05,0,165,8,1414,Puglia,16
 40,Forli-Cesena,2020-09-05,0,196,25,2154,Emilia-Romagna,8
 60,Frosinone,2020-09-05,0,39,4,812,Lazio,12
-10,Genova,2020-09-05,0,0,39,6007,Liguria,7
+10,Genova,2020-09-05,0,1,39,6007,Liguria,7
 31,Gorizia,2020-09-05,0,5,20,294,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-05,0,24,4,513,Toscana,9
 8,Imperia,2020-09-05,0,211,2,1593,Liguria,7
 94,Isernia,2020-09-05,0,4,0,78,Molise,14
 66,L Aquila,2020-09-05,0,14,10,491,Abruzzo,13
-11,La Spezia,2020-09-05,0,0,43,1189,Liguria,7
+11,La Spezia,2020-09-05,0,2,43,1189,Liguria,7
 59,Latina,2020-09-05,0,35,3,874,Lazio,12
 75,Lecce,2020-09-05,0,79,2,686,Puglia,16
 49,Livorno,2020-09-05,0,63,4,583,Toscana,9
@@ -17775,13 +17775,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-06,0,165,12,1426,Puglia,16
 40,Forli-Cesena,2020-09-06,0,196,20,2174,Emilia-Romagna,8
 60,Frosinone,2020-09-06,0,39,5,817,Lazio,12
-10,Genova,2020-09-06,0,0,19,6026,Liguria,7
+10,Genova,2020-09-06,0,1,19,6026,Liguria,7
 31,Gorizia,2020-09-06,0,5,3,297,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-06,0,24,3,516,Toscana,9
 8,Imperia,2020-09-06,0,211,6,1599,Liguria,7
 94,Isernia,2020-09-06,0,4,0,78,Molise,14
 66,L Aquila,2020-09-06,0,14,16,507,Abruzzo,13
-11,La Spezia,2020-09-06,0,0,73,1262,Liguria,7
+11,La Spezia,2020-09-06,0,2,73,1262,Liguria,7
 59,Latina,2020-09-06,0,35,10,884,Lazio,12
 75,Lecce,2020-09-06,0,79,14,700,Puglia,16
 49,Livorno,2020-09-06,0,63,8,591,Toscana,9
@@ -17866,13 +17866,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-07,1,166,14,1440,Puglia,16
 40,Forli-Cesena,2020-09-07,0,196,11,2185,Emilia-Romagna,8
 60,Frosinone,2020-09-07,0,39,8,825,Lazio,12
-10,Genova,2020-09-07,0,0,11,6037,Liguria,7
+10,Genova,2020-09-07,0,1,11,6037,Liguria,7
 31,Gorizia,2020-09-07,0,5,3,300,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-07,0,24,0,516,Toscana,9
 8,Imperia,2020-09-07,0,211,0,1599,Liguria,7
 94,Isernia,2020-09-07,0,4,0,78,Molise,14
 66,L Aquila,2020-09-07,0,14,12,519,Abruzzo,13
-11,La Spezia,2020-09-07,0,0,47,1309,Liguria,7
+11,La Spezia,2020-09-07,0,2,47,1309,Liguria,7
 59,Latina,2020-09-07,0,35,13,897,Lazio,12
 75,Lecce,2020-09-07,0,79,1,701,Puglia,16
 49,Livorno,2020-09-07,1,64,2,593,Toscana,9
@@ -17957,13 +17957,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-08,0,166,12,1452,Puglia,16
 40,Forli-Cesena,2020-09-08,0,196,10,2195,Emilia-Romagna,8
 60,Frosinone,2020-09-08,0,39,8,833,Lazio,12
-10,Genova,2020-09-08,0,0,25,6062,Liguria,7
+10,Genova,2020-09-08,0,1,25,6062,Liguria,7
 31,Gorizia,2020-09-08,0,5,0,300,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-08,0,24,1,517,Toscana,9
 8,Imperia,2020-09-08,1,212,6,1605,Liguria,7
 94,Isernia,2020-09-08,0,4,1,79,Molise,14
 66,L Aquila,2020-09-08,0,14,1,520,Abruzzo,13
-11,La Spezia,2020-09-08,0,0,25,1334,Liguria,7
+11,La Spezia,2020-09-08,0,2,25,1334,Liguria,7
 59,Latina,2020-09-08,0,35,7,904,Lazio,12
 75,Lecce,2020-09-08,0,79,3,704,Puglia,16
 49,Livorno,2020-09-08,0,64,2,595,Toscana,9
@@ -18048,13 +18048,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-09,0,166,11,1463,Puglia,16
 40,Forli-Cesena,2020-09-09,0,196,19,2214,Emilia-Romagna,8
 60,Frosinone,2020-09-09,0,39,5,838,Lazio,12
-10,Genova,2020-09-09,0,0,10,6072,Liguria,7
+10,Genova,2020-09-09,0,1,10,6072,Liguria,7
 31,Gorizia,2020-09-09,0,5,15,315,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-09,0,24,1,518,Toscana,9
 8,Imperia,2020-09-09,0,212,3,1608,Liguria,7
 94,Isernia,2020-09-09,0,4,1,80,Molise,14
 66,L Aquila,2020-09-09,0,14,37,557,Abruzzo,13
-11,La Spezia,2020-09-09,0,0,33,1367,Liguria,7
+11,La Spezia,2020-09-09,0,2,33,1367,Liguria,7
 59,Latina,2020-09-09,0,35,27,931,Lazio,12
 75,Lecce,2020-09-09,0,79,5,709,Puglia,16
 49,Livorno,2020-09-09,0,64,6,601,Toscana,9
@@ -18139,13 +18139,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-10,0,166,13,1476,Puglia,16
 40,Forli-Cesena,2020-09-10,0,196,6,2220,Emilia-Romagna,8
 60,Frosinone,2020-09-10,0,39,5,843,Lazio,12
-10,Genova,2020-09-10,0,0,20,6092,Liguria,7
+10,Genova,2020-09-10,0,1,20,6092,Liguria,7
 31,Gorizia,2020-09-10,0,5,8,323,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-10,0,24,3,521,Toscana,9
 8,Imperia,2020-09-10,0,212,0,1608,Liguria,7
 94,Isernia,2020-09-10,0,4,0,80,Molise,14
 66,L Aquila,2020-09-10,0,14,9,566,Abruzzo,13
-11,La Spezia,2020-09-10,0,0,92,1459,Liguria,7
+11,La Spezia,2020-09-10,0,2,92,1459,Liguria,7
 59,Latina,2020-09-10,0,35,15,946,Lazio,12
 75,Lecce,2020-09-10,0,79,1,710,Puglia,16
 49,Livorno,2020-09-10,1,65,6,607,Toscana,9
@@ -18230,13 +18230,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-11,0,166,21,1497,Puglia,16
 40,Forli-Cesena,2020-09-11,0,196,28,2248,Emilia-Romagna,8
 60,Frosinone,2020-09-11,0,39,3,846,Lazio,12
-10,Genova,2020-09-11,0,0,19,6111,Liguria,7
+10,Genova,2020-09-11,0,1,19,6111,Liguria,7
 31,Gorizia,2020-09-11,0,5,3,326,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-11,0,24,8,529,Toscana,9
 8,Imperia,2020-09-11,0,212,4,1612,Liguria,7
 94,Isernia,2020-09-11,0,4,0,80,Molise,14
 66,L Aquila,2020-09-11,0,14,4,570,Abruzzo,13
-11,La Spezia,2020-09-11,0,0,53,1512,Liguria,7
+11,La Spezia,2020-09-11,0,2,53,1512,Liguria,7
 59,Latina,2020-09-11,0,35,6,952,Lazio,12
 75,Lecce,2020-09-11,0,79,2,712,Puglia,16
 49,Livorno,2020-09-11,0,65,10,617,Toscana,9
@@ -18321,13 +18321,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-12,0,166,12,1509,Puglia,16
 40,Forli-Cesena,2020-09-12,0,196,10,2258,Emilia-Romagna,8
 60,Frosinone,2020-09-12,0,39,5,851,Lazio,12
-10,Genova,2020-09-12,0,0,22,6133,Liguria,7
+10,Genova,2020-09-12,0,1,22,6133,Liguria,7
 31,Gorizia,2020-09-12,0,5,5,331,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-12,0,24,1,530,Toscana,9
 8,Imperia,2020-09-12,0,212,10,1622,Liguria,7
 94,Isernia,2020-09-12,0,4,0,80,Molise,14
 66,L Aquila,2020-09-12,0,14,-17,553,Abruzzo,13
-11,La Spezia,2020-09-12,0,0,69,1581,Liguria,7
+11,La Spezia,2020-09-12,0,2,69,1581,Liguria,7
 59,Latina,2020-09-12,0,35,11,963,Lazio,12
 75,Lecce,2020-09-12,0,79,4,716,Puglia,16
 49,Livorno,2020-09-12,0,65,10,627,Toscana,9
@@ -18412,13 +18412,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-13,0,166,14,1523,Puglia,16
 40,Forli-Cesena,2020-09-13,0,196,17,2275,Emilia-Romagna,8
 60,Frosinone,2020-09-13,0,39,0,851,Lazio,12
-10,Genova,2020-09-13,0,0,10,6143,Liguria,7
+10,Genova,2020-09-13,0,1,10,6143,Liguria,7
 31,Gorizia,2020-09-13,0,5,11,342,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-13,0,24,3,533,Toscana,9
 8,Imperia,2020-09-13,0,212,1,1623,Liguria,7
 94,Isernia,2020-09-13,0,4,0,80,Molise,14
 66,L Aquila,2020-09-13,0,14,5,558,Abruzzo,13
-11,La Spezia,2020-09-13,0,0,48,1629,Liguria,7
+11,La Spezia,2020-09-13,0,2,48,1629,Liguria,7
 59,Latina,2020-09-13,0,35,8,971,Lazio,12
 75,Lecce,2020-09-13,0,79,6,722,Puglia,16
 49,Livorno,2020-09-13,0,65,11,638,Toscana,9
@@ -18503,13 +18503,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-14,0,166,6,1529,Puglia,16
 40,Forli-Cesena,2020-09-14,0,196,10,2285,Emilia-Romagna,8
 60,Frosinone,2020-09-14,0,39,18,869,Lazio,12
-10,Genova,2020-09-14,0,0,13,6156,Liguria,7
+10,Genova,2020-09-14,0,1,13,6156,Liguria,7
 31,Gorizia,2020-09-14,0,5,0,342,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-14,0,24,5,538,Toscana,9
 8,Imperia,2020-09-14,0,212,2,1625,Liguria,7
 94,Isernia,2020-09-14,0,4,2,82,Molise,14
 66,L Aquila,2020-09-14,0,14,-1,557,Abruzzo,13
-11,La Spezia,2020-09-14,0,0,43,1672,Liguria,7
+11,La Spezia,2020-09-14,0,2,43,1672,Liguria,7
 59,Latina,2020-09-14,0,35,13,984,Lazio,12
 75,Lecce,2020-09-14,0,79,0,722,Puglia,16
 49,Livorno,2020-09-14,0,65,3,641,Toscana,9
@@ -18594,13 +18594,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-15,0,166,26,1555,Puglia,16
 40,Forli-Cesena,2020-09-15,0,196,20,2305,Emilia-Romagna,8
 60,Frosinone,2020-09-15,0,39,4,873,Lazio,12
-10,Genova,2020-09-15,0,0,30,6186,Liguria,7
+10,Genova,2020-09-15,0,1,30,6186,Liguria,7
 31,Gorizia,2020-09-15,0,5,2,344,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-15,0,24,2,540,Toscana,9
 8,Imperia,2020-09-15,0,212,8,1633,Liguria,7
 94,Isernia,2020-09-15,0,4,1,83,Molise,14
 66,L Aquila,2020-09-15,0,14,9,566,Abruzzo,13
-11,La Spezia,2020-09-15,0,0,81,1753,Liguria,7
+11,La Spezia,2020-09-15,0,2,81,1753,Liguria,7
 59,Latina,2020-09-15,0,35,11,995,Lazio,12
 75,Lecce,2020-09-15,0,79,1,723,Puglia,16
 49,Livorno,2020-09-15,0,65,3,644,Toscana,9
@@ -18685,13 +18685,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-16,0,166,22,1577,Puglia,16
 40,Forli-Cesena,2020-09-16,0,196,7,2312,Emilia-Romagna,8
 60,Frosinone,2020-09-16,0,39,1,874,Lazio,12
-10,Genova,2020-09-16,0,0,30,6216,Liguria,7
+10,Genova,2020-09-16,0,1,30,6216,Liguria,7
 31,Gorizia,2020-09-16,0,5,8,352,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-16,0,24,6,546,Toscana,9
 8,Imperia,2020-09-16,0,212,1,1634,Liguria,7
 94,Isernia,2020-09-16,0,4,4,87,Molise,14
 66,L Aquila,2020-09-16,0,14,4,570,Abruzzo,13
-11,La Spezia,2020-09-16,0,0,31,1784,Liguria,7
+11,La Spezia,2020-09-16,1,3,31,1784,Liguria,7
 59,Latina,2020-09-16,0,35,20,1015,Lazio,12
 75,Lecce,2020-09-16,0,79,9,732,Puglia,16
 49,Livorno,2020-09-16,0,65,5,649,Toscana,9
@@ -18776,13 +18776,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-17,0,166,6,1583,Puglia,16
 40,Forli-Cesena,2020-09-17,0,196,11,2323,Emilia-Romagna,8
 60,Frosinone,2020-09-17,0,39,3,877,Lazio,12
-10,Genova,2020-09-17,0,0,14,6230,Liguria,7
+10,Genova,2020-09-17,1,2,14,6230,Liguria,7
 31,Gorizia,2020-09-17,0,5,9,361,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-17,0,24,2,548,Toscana,9
 8,Imperia,2020-09-17,0,212,7,1641,Liguria,7
 94,Isernia,2020-09-17,0,4,1,88,Molise,14
 66,L Aquila,2020-09-17,0,14,2,572,Abruzzo,13
-11,La Spezia,2020-09-17,0,0,8,1792,Liguria,7
+11,La Spezia,2020-09-17,1,4,8,1792,Liguria,7
 59,Latina,2020-09-17,0,35,16,1031,Lazio,12
 75,Lecce,2020-09-17,0,79,6,738,Puglia,16
 49,Livorno,2020-09-17,0,65,15,664,Toscana,9
@@ -18816,7 +18816,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-09-17,2,546,152,10519,Lazio,12
 29,Rovigo,2020-09-17,0,56,6,626,Veneto,5
 90,Sassari,2020-09-17,0,92,21,1781,Sardegna,20
-9,Savona,2020-09-17,0,172,2,1853,Liguria,7
+9,Savona,2020-09-17,1,173,2,1853,Liguria,7
 52,Siena,2020-09-17,0,32,4,560,Toscana,9
 89,Siracusa,2020-09-17,0,29,9,485,Sicilia,19
 111,Sud Sardegna,2020-09-17,0,9,1,298,Sardegna,20
@@ -18867,13 +18867,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-18,0,166,23,1606,Puglia,16
 40,Forli-Cesena,2020-09-18,0,196,10,2333,Emilia-Romagna,8
 60,Frosinone,2020-09-18,0,39,6,883,Lazio,12
-10,Genova,2020-09-18,0,0,52,6282,Liguria,7
+10,Genova,2020-09-18,0,2,52,6282,Liguria,7
 31,Gorizia,2020-09-18,0,5,10,371,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-18,0,24,4,552,Toscana,9
 8,Imperia,2020-09-18,0,212,9,1650,Liguria,7
 94,Isernia,2020-09-18,0,4,0,88,Molise,14
 66,L Aquila,2020-09-18,1,15,12,584,Abruzzo,13
-11,La Spezia,2020-09-18,0,0,86,1878,Liguria,7
+11,La Spezia,2020-09-18,0,4,86,1878,Liguria,7
 59,Latina,2020-09-18,0,35,13,1044,Lazio,12
 75,Lecce,2020-09-18,0,79,5,743,Puglia,16
 49,Livorno,2020-09-18,0,65,8,672,Toscana,9
@@ -18907,7 +18907,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-09-18,0,546,157,10676,Lazio,12
 29,Rovigo,2020-09-18,1,57,-1,625,Veneto,5
 90,Sassari,2020-09-18,1,93,31,1812,Sardegna,20
-9,Savona,2020-09-18,0,172,3,1856,Liguria,7
+9,Savona,2020-09-18,0,173,3,1856,Liguria,7
 52,Siena,2020-09-18,0,32,5,565,Toscana,9
 89,Siracusa,2020-09-18,0,29,29,514,Sicilia,19
 111,Sud Sardegna,2020-09-18,0,9,10,308,Sardegna,20
@@ -18958,13 +18958,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-19,0,166,43,1649,Puglia,16
 40,Forli-Cesena,2020-09-19,0,196,9,2342,Emilia-Romagna,8
 60,Frosinone,2020-09-19,0,39,3,886,Lazio,12
-10,Genova,2020-09-19,0,0,25,6307,Liguria,7
+10,Genova,2020-09-19,0,2,25,6307,Liguria,7
 31,Gorizia,2020-09-19,0,5,10,381,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-19,0,24,6,558,Toscana,9
 8,Imperia,2020-09-19,0,212,10,1660,Liguria,7
 94,Isernia,2020-09-19,0,4,1,89,Molise,14
 66,L Aquila,2020-09-19,0,15,0,584,Abruzzo,13
-11,La Spezia,2020-09-19,0,0,33,1911,Liguria,7
+11,La Spezia,2020-09-19,2,6,33,1911,Liguria,7
 59,Latina,2020-09-19,0,35,23,1067,Lazio,12
 75,Lecce,2020-09-19,0,79,6,749,Puglia,16
 49,Livorno,2020-09-19,0,65,8,680,Toscana,9
@@ -18998,7 +18998,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-09-19,1,547,154,10830,Lazio,12
 29,Rovigo,2020-09-19,2,59,6,631,Veneto,5
 90,Sassari,2020-09-19,0,93,27,1839,Sardegna,20
-9,Savona,2020-09-19,0,172,1,1857,Liguria,7
+9,Savona,2020-09-19,0,173,1,1857,Liguria,7
 52,Siena,2020-09-19,0,32,4,569,Toscana,9
 89,Siracusa,2020-09-19,0,29,2,516,Sicilia,19
 111,Sud Sardegna,2020-09-19,0,9,9,317,Sardegna,20
@@ -19049,13 +19049,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-20,0,166,8,1657,Puglia,16
 40,Forli-Cesena,2020-09-20,0,196,10,2352,Emilia-Romagna,8
 60,Frosinone,2020-09-20,0,39,5,891,Lazio,12
-10,Genova,2020-09-20,0,0,42,6349,Liguria,7
+10,Genova,2020-09-20,0,2,42,6349,Liguria,7
 31,Gorizia,2020-09-20,0,5,2,383,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-20,0,24,8,566,Toscana,9
 8,Imperia,2020-09-20,0,212,3,1663,Liguria,7
 94,Isernia,2020-09-20,0,4,0,89,Molise,14
 66,L Aquila,2020-09-20,0,15,0,584,Abruzzo,13
-11,La Spezia,2020-09-20,0,0,31,1942,Liguria,7
+11,La Spezia,2020-09-20,3,9,31,1942,Liguria,7
 59,Latina,2020-09-20,0,35,18,1085,Lazio,12
 75,Lecce,2020-09-20,0,79,6,755,Puglia,16
 49,Livorno,2020-09-20,0,65,3,683,Toscana,9
@@ -19089,7 +19089,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-09-20,0,547,131,10961,Lazio,12
 29,Rovigo,2020-09-20,0,59,9,640,Veneto,5
 90,Sassari,2020-09-20,0,93,25,1864,Sardegna,20
-9,Savona,2020-09-20,0,172,3,1860,Liguria,7
+9,Savona,2020-09-20,0,173,3,1860,Liguria,7
 52,Siena,2020-09-20,0,32,3,572,Toscana,9
 89,Siracusa,2020-09-20,0,29,1,517,Sicilia,19
 111,Sud Sardegna,2020-09-20,0,9,3,320,Sardegna,20
@@ -19140,13 +19140,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-21,0,166,25,1682,Puglia,16
 40,Forli-Cesena,2020-09-21,0,196,10,2362,Emilia-Romagna,8
 60,Frosinone,2020-09-21,1,40,5,896,Lazio,12
-10,Genova,2020-09-21,0,0,35,6384,Liguria,7
+10,Genova,2020-09-21,0,2,35,6384,Liguria,7
 31,Gorizia,2020-09-21,0,5,1,384,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-21,0,24,11,577,Toscana,9
 8,Imperia,2020-09-21,0,212,0,1663,Liguria,7
 94,Isernia,2020-09-21,0,4,2,91,Molise,14
 66,L Aquila,2020-09-21,0,15,11,595,Abruzzo,13
-11,La Spezia,2020-09-21,0,0,20,1962,Liguria,7
+11,La Spezia,2020-09-21,0,9,20,1962,Liguria,7
 59,Latina,2020-09-21,1,36,14,1099,Lazio,12
 75,Lecce,2020-09-21,0,79,4,759,Puglia,16
 49,Livorno,2020-09-21,0,65,2,685,Toscana,9
@@ -19180,7 +19180,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-09-21,3,550,168,11129,Lazio,12
 29,Rovigo,2020-09-21,0,59,2,642,Veneto,5
 90,Sassari,2020-09-21,0,93,14,1878,Sardegna,20
-9,Savona,2020-09-21,0,172,1,1861,Liguria,7
+9,Savona,2020-09-21,0,173,1,1861,Liguria,7
 52,Siena,2020-09-21,0,32,9,581,Toscana,9
 89,Siracusa,2020-09-21,0,29,2,519,Sicilia,19
 111,Sud Sardegna,2020-09-21,0,9,5,325,Sardegna,20
@@ -19231,13 +19231,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-22,0,166,10,1692,Puglia,16
 40,Forli-Cesena,2020-09-22,0,196,12,2374,Emilia-Romagna,8
 60,Frosinone,2020-09-22,0,40,10,906,Lazio,12
-10,Genova,2020-09-22,0,0,30,6414,Liguria,7
+10,Genova,2020-09-22,0,2,30,6414,Liguria,7
 31,Gorizia,2020-09-22,0,5,1,385,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-22,0,24,0,577,Toscana,9
 8,Imperia,2020-09-22,0,212,5,1668,Liguria,7
 94,Isernia,2020-09-22,0,4,0,91,Molise,14
 66,L Aquila,2020-09-22,0,15,1,596,Abruzzo,13
-11,La Spezia,2020-09-22,0,0,57,2019,Liguria,7
+11,La Spezia,2020-09-22,1,10,57,2019,Liguria,7
 59,Latina,2020-09-22,0,36,52,1151,Lazio,12
 75,Lecce,2020-09-22,0,79,6,765,Puglia,16
 49,Livorno,2020-09-22,0,65,1,686,Toscana,9
@@ -19271,7 +19271,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-09-22,4,554,165,11294,Lazio,12
 29,Rovigo,2020-09-22,0,59,0,642,Veneto,5
 90,Sassari,2020-09-22,0,93,11,1889,Sardegna,20
-9,Savona,2020-09-22,0,172,6,1867,Liguria,7
+9,Savona,2020-09-22,0,173,6,1867,Liguria,7
 52,Siena,2020-09-22,0,32,1,582,Toscana,9
 89,Siracusa,2020-09-22,0,29,0,519,Sicilia,19
 111,Sud Sardegna,2020-09-22,0,9,8,333,Sardegna,20
@@ -19322,13 +19322,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-23,0,166,35,1727,Puglia,16
 40,Forli-Cesena,2020-09-23,0,196,13,2387,Emilia-Romagna,8
 60,Frosinone,2020-09-23,0,40,5,911,Lazio,12
-10,Genova,2020-09-23,0,0,60,6474,Liguria,7
+10,Genova,2020-09-23,0,2,60,6474,Liguria,7
 31,Gorizia,2020-09-23,0,5,12,397,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-23,0,24,4,581,Toscana,9
 8,Imperia,2020-09-23,0,212,15,1683,Liguria,7
 94,Isernia,2020-09-23,0,4,1,92,Molise,14
 66,L Aquila,2020-09-23,0,15,4,600,Abruzzo,13
-11,La Spezia,2020-09-23,0,0,23,2042,Liguria,7
+11,La Spezia,2020-09-23,0,10,23,2042,Liguria,7
 59,Latina,2020-09-23,0,36,7,1158,Lazio,12
 75,Lecce,2020-09-23,0,79,2,767,Puglia,16
 49,Livorno,2020-09-23,0,65,2,688,Toscana,9
@@ -19362,7 +19362,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-09-23,3,557,161,11455,Lazio,12
 29,Rovigo,2020-09-23,0,59,3,645,Veneto,5
 90,Sassari,2020-09-23,1,94,14,1903,Sardegna,20
-9,Savona,2020-09-23,0,172,5,1872,Liguria,7
+9,Savona,2020-09-23,0,173,5,1872,Liguria,7
 52,Siena,2020-09-23,0,32,5,587,Toscana,9
 89,Siracusa,2020-09-23,0,29,2,521,Sicilia,19
 111,Sud Sardegna,2020-09-23,0,9,3,336,Sardegna,20
@@ -19413,13 +19413,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-24,0,166,19,1746,Puglia,16
 40,Forli-Cesena,2020-09-24,0,196,2,2389,Emilia-Romagna,8
 60,Frosinone,2020-09-24,0,40,7,918,Lazio,12
-10,Genova,2020-09-24,0,0,35,6509,Liguria,7
+10,Genova,2020-09-24,0,2,35,6509,Liguria,7
 31,Gorizia,2020-09-24,0,5,6,403,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-24,0,24,6,587,Toscana,9
 8,Imperia,2020-09-24,0,212,2,1685,Liguria,7
 94,Isernia,2020-09-24,0,4,0,92,Molise,14
 66,L Aquila,2020-09-24,0,15,6,606,Abruzzo,13
-11,La Spezia,2020-09-24,0,0,51,2093,Liguria,7
+11,La Spezia,2020-09-24,2,12,51,2093,Liguria,7
 59,Latina,2020-09-24,0,36,13,1171,Lazio,12
 75,Lecce,2020-09-24,0,79,5,772,Puglia,16
 49,Livorno,2020-09-24,0,65,4,692,Toscana,9
@@ -19453,7 +19453,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-09-24,0,557,200,11655,Lazio,12
 29,Rovigo,2020-09-24,0,59,4,649,Veneto,5
 90,Sassari,2020-09-24,1,95,11,1914,Sardegna,20
-9,Savona,2020-09-24,0,172,6,1878,Liguria,7
+9,Savona,2020-09-24,0,173,6,1878,Liguria,7
 52,Siena,2020-09-24,0,32,8,595,Toscana,9
 89,Siracusa,2020-09-24,0,29,3,524,Sicilia,19
 111,Sud Sardegna,2020-09-24,1,10,9,345,Sardegna,20
@@ -19504,13 +19504,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-25,0,166,36,1782,Puglia,16
 40,Forli-Cesena,2020-09-25,0,196,1,2390,Emilia-Romagna,8
 60,Frosinone,2020-09-25,0,40,23,941,Lazio,12
-10,Genova,2020-09-25,0,0,34,6543,Liguria,7
+10,Genova,2020-09-25,0,2,34,6543,Liguria,7
 31,Gorizia,2020-09-25,0,5,10,413,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-25,0,24,3,590,Toscana,9
 8,Imperia,2020-09-25,0,212,12,1697,Liguria,7
 94,Isernia,2020-09-25,0,4,-1,91,Molise,14
 66,L Aquila,2020-09-25,0,15,10,616,Abruzzo,13
-11,La Spezia,2020-09-25,0,0,21,2114,Liguria,7
+11,La Spezia,2020-09-25,0,12,21,2114,Liguria,7
 59,Latina,2020-09-25,0,36,8,1179,Lazio,12
 75,Lecce,2020-09-25,0,79,9,781,Puglia,16
 49,Livorno,2020-09-25,0,65,12,704,Toscana,9
@@ -19544,7 +19544,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-09-25,2,559,173,11828,Lazio,12
 29,Rovigo,2020-09-25,1,60,3,652,Veneto,5
 90,Sassari,2020-09-25,0,95,33,1947,Sardegna,20
-9,Savona,2020-09-25,0,172,2,1880,Liguria,7
+9,Savona,2020-09-25,0,173,2,1880,Liguria,7
 52,Siena,2020-09-25,0,32,7,602,Toscana,9
 89,Siracusa,2020-09-25,0,29,1,525,Sicilia,19
 111,Sud Sardegna,2020-09-25,0,10,2,347,Sardegna,20
@@ -19595,13 +19595,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-26,0,166,9,1791,Puglia,16
 40,Forli-Cesena,2020-09-26,0,196,9,2399,Emilia-Romagna,8
 60,Frosinone,2020-09-26,0,40,20,961,Lazio,12
-10,Genova,2020-09-26,0,0,51,6594,Liguria,7
+10,Genova,2020-09-26,0,2,51,6594,Liguria,7
 31,Gorizia,2020-09-26,0,5,10,423,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-26,0,24,5,595,Toscana,9
 8,Imperia,2020-09-26,0,212,10,1707,Liguria,7
 94,Isernia,2020-09-26,0,4,1,92,Molise,14
 66,L Aquila,2020-09-26,0,15,8,624,Abruzzo,13
-11,La Spezia,2020-09-26,0,0,23,2137,Liguria,7
+11,La Spezia,2020-09-26,2,14,23,2137,Liguria,7
 59,Latina,2020-09-26,0,36,27,1206,Lazio,12
 75,Lecce,2020-09-26,0,79,6,787,Puglia,16
 49,Livorno,2020-09-26,0,65,5,709,Toscana,9
@@ -19635,7 +19635,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-09-26,2,561,148,11976,Lazio,12
 29,Rovigo,2020-09-26,0,60,1,653,Veneto,5
 90,Sassari,2020-09-26,0,95,26,1973,Sardegna,20
-9,Savona,2020-09-26,0,172,3,1883,Liguria,7
+9,Savona,2020-09-26,0,173,3,1883,Liguria,7
 52,Siena,2020-09-26,0,32,4,606,Toscana,9
 89,Siracusa,2020-09-26,0,29,4,529,Sicilia,19
 111,Sud Sardegna,2020-09-26,0,10,7,354,Sardegna,20
@@ -19686,13 +19686,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-27,2,168,17,1808,Puglia,16
 40,Forli-Cesena,2020-09-27,0,196,16,2415,Emilia-Romagna,8
 60,Frosinone,2020-09-27,0,40,15,976,Lazio,12
-10,Genova,2020-09-27,0,0,17,6611,Liguria,7
+10,Genova,2020-09-27,0,2,17,6611,Liguria,7
 31,Gorizia,2020-09-27,0,5,1,424,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-27,0,24,1,596,Toscana,9
 8,Imperia,2020-09-27,0,212,4,1711,Liguria,7
 94,Isernia,2020-09-27,0,4,1,93,Molise,14
 66,L Aquila,2020-09-27,0,15,0,624,Abruzzo,13
-11,La Spezia,2020-09-27,0,0,15,2152,Liguria,7
+11,La Spezia,2020-09-27,0,14,15,2152,Liguria,7
 59,Latina,2020-09-27,0,36,9,1215,Lazio,12
 75,Lecce,2020-09-27,0,79,3,790,Puglia,16
 49,Livorno,2020-09-27,0,65,14,723,Toscana,9
@@ -19726,7 +19726,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-09-27,0,561,140,12116,Lazio,12
 29,Rovigo,2020-09-27,1,61,3,656,Veneto,5
 90,Sassari,2020-09-27,0,95,37,2010,Sardegna,20
-9,Savona,2020-09-27,0,172,7,1890,Liguria,7
+9,Savona,2020-09-27,0,173,7,1890,Liguria,7
 52,Siena,2020-09-27,0,32,11,617,Toscana,9
 89,Siracusa,2020-09-27,0,29,0,529,Sicilia,19
 111,Sud Sardegna,2020-09-27,0,10,30,384,Sardegna,20
@@ -19777,13 +19777,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-28,2,170,9,1817,Puglia,16
 40,Forli-Cesena,2020-09-28,0,196,11,2426,Emilia-Romagna,8
 60,Frosinone,2020-09-28,0,40,14,990,Lazio,12
-10,Genova,2020-09-28,0,0,57,6668,Liguria,7
+10,Genova,2020-09-28,0,2,57,6668,Liguria,7
 31,Gorizia,2020-09-28,0,5,0,424,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-28,0,24,0,596,Toscana,9
 8,Imperia,2020-09-28,1,213,4,1715,Liguria,7
 94,Isernia,2020-09-28,0,4,1,94,Molise,14
 66,L Aquila,2020-09-28,0,15,1,625,Abruzzo,13
-11,La Spezia,2020-09-28,0,0,28,2180,Liguria,7
+11,La Spezia,2020-09-28,1,15,28,2180,Liguria,7
 59,Latina,2020-09-28,0,36,37,1252,Lazio,12
 75,Lecce,2020-09-28,0,79,4,794,Puglia,16
 49,Livorno,2020-09-28,0,65,8,731,Toscana,9
@@ -19817,7 +19817,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-09-28,2,563,149,12265,Lazio,12
 29,Rovigo,2020-09-28,0,61,0,656,Veneto,5
 90,Sassari,2020-09-28,1,96,15,2025,Sardegna,20
-9,Savona,2020-09-28,0,172,12,1902,Liguria,7
+9,Savona,2020-09-28,0,173,12,1902,Liguria,7
 52,Siena,2020-09-28,0,32,5,622,Toscana,9
 89,Siracusa,2020-09-28,0,29,0,529,Sicilia,19
 111,Sud Sardegna,2020-09-28,0,10,1,385,Sardegna,20
@@ -19868,13 +19868,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-29,0,170,70,1887,Puglia,16
 40,Forli-Cesena,2020-09-29,0,196,29,2455,Emilia-Romagna,8
 60,Frosinone,2020-09-29,0,40,14,1004,Lazio,12
-10,Genova,2020-09-29,0,0,51,6719,Liguria,7
+10,Genova,2020-09-29,0,2,51,6719,Liguria,7
 31,Gorizia,2020-09-29,0,5,3,427,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-29,0,24,9,605,Toscana,9
 8,Imperia,2020-09-29,1,214,9,1725,Liguria,7
 94,Isernia,2020-09-29,0,4,1,95,Molise,14
 66,L Aquila,2020-09-29,0,15,6,631,Abruzzo,13
-11,La Spezia,2020-09-29,0,0,16,2196,Liguria,7
+11,La Spezia,2020-09-29,2,17,16,2196,Liguria,7
 59,Latina,2020-09-29,0,36,25,1277,Lazio,12
 75,Lecce,2020-09-29,0,79,3,797,Puglia,16
 49,Livorno,2020-09-29,0,65,8,739,Toscana,9
@@ -19908,7 +19908,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-09-29,0,563,359,12624,Lazio,12
 29,Rovigo,2020-09-29,0,61,0,656,Veneto,5
 90,Sassari,2020-09-29,0,96,61,2086,Sardegna,20
-9,Savona,2020-09-29,0,172,8,1910,Liguria,7
+9,Savona,2020-09-29,0,173,8,1910,Liguria,7
 52,Siena,2020-09-29,0,32,11,633,Toscana,9
 89,Siracusa,2020-09-29,0,29,57,586,Sicilia,19
 111,Sud Sardegna,2020-09-29,0,10,12,397,Sardegna,20
@@ -19959,13 +19959,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-09-30,2,172,0,1887,Puglia,16
 40,Forli-Cesena,2020-09-30,0,196,0,2455,Emilia-Romagna,8
 60,Frosinone,2020-09-30,0,40,0,1004,Lazio,12
-10,Genova,2020-09-30,0,0,38,6757,Liguria,7
+10,Genova,2020-09-30,1,3,38,6757,Liguria,7
 31,Gorizia,2020-09-30,0,5,5,432,Friuli Venezia Giulia,6
 53,Grosseto,2020-09-30,0,24,0,605,Toscana,9
 8,Imperia,2020-09-30,0,214,0,1725,Liguria,7
 94,Isernia,2020-09-30,0,4,0,95,Molise,14
 66,L Aquila,2020-09-30,0,15,0,631,Abruzzo,13
-11,La Spezia,2020-09-30,0,0,8,2204,Liguria,7
+11,La Spezia,2020-09-30,0,17,8,2204,Liguria,7
 59,Latina,2020-09-30,1,37,0,1277,Lazio,12
 75,Lecce,2020-09-30,0,79,0,797,Puglia,16
 49,Livorno,2020-09-30,0,65,0,739,Toscana,9
@@ -19999,7 +19999,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-09-30,2,565,0,12624,Lazio,12
 29,Rovigo,2020-09-30,0,61,3,659,Veneto,5
 90,Sassari,2020-09-30,1,97,0,2086,Sardegna,20
-9,Savona,2020-09-30,0,172,0,1910,Liguria,7
+9,Savona,2020-09-30,0,173,0,1910,Liguria,7
 52,Siena,2020-09-30,0,32,0,633,Toscana,9
 89,Siracusa,2020-09-30,0,29,0,586,Sicilia,19
 111,Sud Sardegna,2020-09-30,0,10,0,397,Sardegna,20
@@ -20050,13 +20050,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-01,1,173,19,1906,Puglia,16
 40,Forli-Cesena,2020-10-01,0,196,10,2465,Emilia-Romagna,8
 60,Frosinone,2020-10-01,0,40,9,1013,Lazio,12
-10,Genova,2020-10-01,0,0,59,6816,Liguria,7
+10,Genova,2020-10-01,1,4,59,6816,Liguria,7
 31,Gorizia,2020-10-01,1,6,22,454,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-01,0,24,6,611,Toscana,9
 8,Imperia,2020-10-01,0,214,5,1730,Liguria,7
 94,Isernia,2020-10-01,0,4,0,95,Molise,14
 66,L Aquila,2020-10-01,0,15,9,640,Abruzzo,13
-11,La Spezia,2020-10-01,0,0,28,2232,Liguria,7
+11,La Spezia,2020-10-01,3,20,28,2232,Liguria,7
 59,Latina,2020-10-01,1,38,14,1291,Lazio,12
 75,Lecce,2020-10-01,0,79,6,803,Puglia,16
 49,Livorno,2020-10-01,0,65,14,753,Toscana,9
@@ -20090,7 +20090,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-01,4,569,233,12857,Lazio,12
 29,Rovigo,2020-10-01,0,61,1,660,Veneto,5
 90,Sassari,2020-10-01,0,97,24,2110,Sardegna,20
-9,Savona,2020-10-01,0,172,8,1918,Liguria,7
+9,Savona,2020-10-01,0,173,8,1918,Liguria,7
 52,Siena,2020-10-01,0,32,9,642,Toscana,9
 89,Siracusa,2020-10-01,0,29,5,591,Sicilia,19
 111,Sud Sardegna,2020-10-01,0,10,27,424,Sardegna,20
@@ -20141,13 +20141,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-02,0,173,29,1935,Puglia,16
 40,Forli-Cesena,2020-10-02,0,196,20,2485,Emilia-Romagna,8
 60,Frosinone,2020-10-02,0,40,18,1031,Lazio,12
-10,Genova,2020-10-02,0,0,62,6878,Liguria,7
+10,Genova,2020-10-02,0,4,62,6878,Liguria,7
 31,Gorizia,2020-10-02,0,6,16,470,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-02,0,24,3,614,Toscana,9
 8,Imperia,2020-10-02,0,214,14,1744,Liguria,7
 94,Isernia,2020-10-02,0,4,1,96,Molise,14
 66,L Aquila,2020-10-02,0,15,10,650,Abruzzo,13
-11,La Spezia,2020-10-02,0,0,22,2254,Liguria,7
+11,La Spezia,2020-10-02,0,20,22,2254,Liguria,7
 59,Latina,2020-10-02,0,38,32,1323,Lazio,12
 75,Lecce,2020-10-02,0,79,4,807,Puglia,16
 49,Livorno,2020-10-02,0,65,18,771,Toscana,9
@@ -20181,7 +20181,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-02,5,574,193,13050,Lazio,12
 29,Rovigo,2020-10-02,0,61,7,667,Veneto,5
 90,Sassari,2020-10-02,0,97,20,2130,Sardegna,20
-9,Savona,2020-10-02,0,172,31,1949,Liguria,7
+9,Savona,2020-10-02,0,173,31,1949,Liguria,7
 52,Siena,2020-10-02,0,32,6,648,Toscana,9
 89,Siracusa,2020-10-02,0,29,1,592,Sicilia,19
 111,Sud Sardegna,2020-10-02,0,10,13,437,Sardegna,20
@@ -20232,13 +20232,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-03,0,173,10,1945,Puglia,16
 40,Forli-Cesena,2020-10-03,0,196,25,2510,Emilia-Romagna,8
 60,Frosinone,2020-10-03,0,40,15,1046,Lazio,12
-10,Genova,2020-10-03,0,0,106,6984,Liguria,7
+10,Genova,2020-10-03,0,4,106,6984,Liguria,7
 31,Gorizia,2020-10-03,0,6,3,473,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-03,0,24,1,615,Toscana,9
 8,Imperia,2020-10-03,0,214,5,1749,Liguria,7
 94,Isernia,2020-10-03,0,4,0,96,Molise,14
 66,L Aquila,2020-10-03,0,15,7,657,Abruzzo,13
-11,La Spezia,2020-10-03,0,0,19,2273,Liguria,7
+11,La Spezia,2020-10-03,0,20,19,2273,Liguria,7
 59,Latina,2020-10-03,0,38,39,1362,Lazio,12
 75,Lecce,2020-10-03,0,79,11,818,Puglia,16
 49,Livorno,2020-10-03,0,65,18,789,Toscana,9
@@ -20272,7 +20272,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-03,5,579,182,13232,Lazio,12
 29,Rovigo,2020-10-03,0,61,2,669,Veneto,5
 90,Sassari,2020-10-03,0,97,26,2156,Sardegna,20
-9,Savona,2020-10-03,0,172,10,1959,Liguria,7
+9,Savona,2020-10-03,0,173,10,1959,Liguria,7
 52,Siena,2020-10-03,0,32,21,669,Toscana,9
 89,Siracusa,2020-10-03,0,29,10,602,Sicilia,19
 111,Sud Sardegna,2020-10-03,0,10,5,442,Sardegna,20
@@ -20323,13 +20323,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-04,0,173,16,1961,Puglia,16
 40,Forli-Cesena,2020-10-04,0,196,28,2538,Emilia-Romagna,8
 60,Frosinone,2020-10-04,0,40,14,1060,Lazio,12
-10,Genova,2020-10-04,0,0,53,7037,Liguria,7
+10,Genova,2020-10-04,1,5,53,7037,Liguria,7
 31,Gorizia,2020-10-04,0,6,15,488,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-04,0,24,4,619,Toscana,9
 8,Imperia,2020-10-04,0,214,34,1783,Liguria,7
 94,Isernia,2020-10-04,0,4,5,101,Molise,14
 66,L Aquila,2020-10-04,0,15,4,661,Abruzzo,13
-11,La Spezia,2020-10-04,0,0,17,2290,Liguria,7
+11,La Spezia,2020-10-04,0,20,17,2290,Liguria,7
 59,Latina,2020-10-04,0,38,39,1401,Lazio,12
 75,Lecce,2020-10-04,0,79,3,821,Puglia,16
 49,Livorno,2020-10-04,0,65,5,794,Toscana,9
@@ -20363,7 +20363,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-04,6,585,179,13411,Lazio,12
 29,Rovigo,2020-10-04,0,61,6,675,Veneto,5
 90,Sassari,2020-10-04,0,97,25,2181,Sardegna,20
-9,Savona,2020-10-04,0,172,5,1964,Liguria,7
+9,Savona,2020-10-04,0,173,5,1964,Liguria,7
 52,Siena,2020-10-04,0,32,6,675,Toscana,9
 89,Siracusa,2020-10-04,0,29,3,605,Sicilia,19
 111,Sud Sardegna,2020-10-04,0,10,27,469,Sardegna,20
@@ -20414,13 +20414,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-05,0,173,27,1988,Puglia,16
 40,Forli-Cesena,2020-10-05,0,196,16,2554,Emilia-Romagna,8
 60,Frosinone,2020-10-05,0,40,4,1064,Lazio,12
-10,Genova,2020-10-05,0,0,70,7107,Liguria,7
+10,Genova,2020-10-05,0,5,70,7107,Liguria,7
 31,Gorizia,2020-10-05,0,6,3,491,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-05,0,24,1,620,Toscana,9
 8,Imperia,2020-10-05,0,214,2,1785,Liguria,7
 94,Isernia,2020-10-05,0,4,1,102,Molise,14
 66,L Aquila,2020-10-05,0,15,10,671,Abruzzo,13
-11,La Spezia,2020-10-05,0,0,22,2312,Liguria,7
+11,La Spezia,2020-10-05,0,20,22,2312,Liguria,7
 59,Latina,2020-10-05,0,38,47,1448,Lazio,12
 75,Lecce,2020-10-05,0,79,1,822,Puglia,16
 49,Livorno,2020-10-05,0,65,1,795,Toscana,9
@@ -20454,7 +20454,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-05,5,590,162,13573,Lazio,12
 29,Rovigo,2020-10-05,0,61,0,675,Veneto,5
 90,Sassari,2020-10-05,0,97,24,2205,Sardegna,20
-9,Savona,2020-10-05,0,172,8,1972,Liguria,7
+9,Savona,2020-10-05,0,173,8,1972,Liguria,7
 52,Siena,2020-10-05,0,32,19,694,Toscana,9
 89,Siracusa,2020-10-05,0,29,1,606,Sicilia,19
 111,Sud Sardegna,2020-10-05,0,10,10,479,Sardegna,20
@@ -20505,13 +20505,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-06,1,174,26,2014,Puglia,16
 40,Forli-Cesena,2020-10-06,1,197,11,2565,Emilia-Romagna,8
 60,Frosinone,2020-10-06,1,41,3,1067,Lazio,12
-10,Genova,2020-10-06,0,0,122,7229,Liguria,7
+10,Genova,2020-10-06,0,5,122,7229,Liguria,7
 31,Gorizia,2020-10-06,0,6,0,491,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-06,0,24,9,629,Toscana,9
 8,Imperia,2020-10-06,0,214,12,1797,Liguria,7
 94,Isernia,2020-10-06,0,4,3,105,Molise,14
 66,L Aquila,2020-10-06,1,16,5,676,Abruzzo,13
-11,La Spezia,2020-10-06,0,0,14,2326,Liguria,7
+11,La Spezia,2020-10-06,2,22,14,2326,Liguria,7
 59,Latina,2020-10-06,0,38,33,1481,Lazio,12
 75,Lecce,2020-10-06,1,80,7,829,Puglia,16
 49,Livorno,2020-10-06,0,65,11,806,Toscana,9
@@ -20545,7 +20545,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-06,2,592,228,13801,Lazio,12
 29,Rovigo,2020-10-06,0,61,1,676,Veneto,5
 90,Sassari,2020-10-06,1,98,13,2218,Sardegna,20
-9,Savona,2020-10-06,0,172,7,1979,Liguria,7
+9,Savona,2020-10-06,0,173,7,1979,Liguria,7
 52,Siena,2020-10-06,0,32,19,713,Toscana,9
 89,Siracusa,2020-10-06,0,29,7,613,Sicilia,19
 111,Sud Sardegna,2020-10-06,0,10,6,485,Sardegna,20
@@ -20596,13 +20596,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-07,0,174,80,2094,Puglia,16
 40,Forli-Cesena,2020-10-07,0,197,26,2591,Emilia-Romagna,8
 60,Frosinone,2020-10-07,0,41,35,1102,Lazio,12
-10,Genova,2020-10-07,0,0,115,7344,Liguria,7
+10,Genova,2020-10-07,0,5,115,7344,Liguria,7
 31,Gorizia,2020-10-07,0,6,19,510,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-07,0,24,10,639,Toscana,9
 8,Imperia,2020-10-07,1,215,14,1811,Liguria,7
 94,Isernia,2020-10-07,0,4,0,105,Molise,14
 66,L Aquila,2020-10-07,1,17,32,708,Abruzzo,13
-11,La Spezia,2020-10-07,0,0,15,2341,Liguria,7
+11,La Spezia,2020-10-07,1,23,15,2341,Liguria,7
 59,Latina,2020-10-07,0,38,74,1555,Lazio,12
 75,Lecce,2020-10-07,0,80,10,839,Puglia,16
 49,Livorno,2020-10-07,0,65,24,830,Toscana,9
@@ -20636,7 +20636,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-07,6,598,221,14022,Lazio,12
 29,Rovigo,2020-10-07,0,61,1,677,Veneto,5
 90,Sassari,2020-10-07,3,101,58,2276,Sardegna,20
-9,Savona,2020-10-07,0,172,15,1994,Liguria,7
+9,Savona,2020-10-07,0,173,15,1994,Liguria,7
 52,Siena,2020-10-07,0,32,19,732,Toscana,9
 89,Siracusa,2020-10-07,0,29,8,621,Sicilia,19
 111,Sud Sardegna,2020-10-07,0,10,14,499,Sardegna,20
@@ -20687,13 +20687,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-08,0,174,27,2121,Puglia,16
 40,Forli-Cesena,2020-10-08,0,197,18,2609,Emilia-Romagna,8
 60,Frosinone,2020-10-08,0,41,37,1139,Lazio,12
-10,Genova,2020-10-08,0,0,88,7432,Liguria,7
+10,Genova,2020-10-08,0,5,88,7432,Liguria,7
 31,Gorizia,2020-10-08,0,6,14,524,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-08,0,24,10,649,Toscana,9
 8,Imperia,2020-10-08,0,215,21,1832,Liguria,7
 94,Isernia,2020-10-08,0,4,0,105,Molise,14
 66,L Aquila,2020-10-08,1,18,20,728,Abruzzo,13
-11,La Spezia,2020-10-08,0,0,16,2357,Liguria,7
+11,La Spezia,2020-10-08,0,23,16,2357,Liguria,7
 59,Latina,2020-10-08,0,38,33,1588,Lazio,12
 75,Lecce,2020-10-08,0,80,10,849,Puglia,16
 49,Livorno,2020-10-08,0,65,16,846,Toscana,9
@@ -20727,7 +20727,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-08,6,604,256,14278,Lazio,12
 29,Rovigo,2020-10-08,1,62,4,681,Veneto,5
 90,Sassari,2020-10-08,0,101,82,2358,Sardegna,20
-9,Savona,2020-10-08,0,172,9,2003,Liguria,7
+9,Savona,2020-10-08,0,173,9,2003,Liguria,7
 52,Siena,2020-10-08,0,32,14,746,Toscana,9
 89,Siracusa,2020-10-08,0,29,1,622,Sicilia,19
 111,Sud Sardegna,2020-10-08,0,10,11,510,Sardegna,20
@@ -20778,13 +20778,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-09,0,174,87,2208,Puglia,16
 40,Forli-Cesena,2020-10-09,0,197,29,2638,Emilia-Romagna,8
 60,Frosinone,2020-10-09,2,43,43,1182,Lazio,12
-10,Genova,2020-10-09,0,0,127,7559,Liguria,7
+10,Genova,2020-10-09,0,5,127,7559,Liguria,7
 31,Gorizia,2020-10-09,0,6,9,533,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-09,0,24,8,657,Toscana,9
 8,Imperia,2020-10-09,0,215,6,1838,Liguria,7
 94,Isernia,2020-10-09,0,4,8,113,Molise,14
 66,L Aquila,2020-10-09,0,18,24,752,Abruzzo,13
-11,La Spezia,2020-10-09,0,0,30,2387,Liguria,7
+11,La Spezia,2020-10-09,0,23,30,2387,Liguria,7
 59,Latina,2020-10-09,0,38,26,1614,Lazio,12
 75,Lecce,2020-10-09,0,80,24,873,Puglia,16
 49,Livorno,2020-10-09,0,65,24,870,Toscana,9
@@ -20818,7 +20818,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-09,3,607,264,14542,Lazio,12
 29,Rovigo,2020-10-09,1,63,4,685,Veneto,5
 90,Sassari,2020-10-09,0,101,46,2404,Sardegna,20
-9,Savona,2020-10-09,1,173,23,2026,Liguria,7
+9,Savona,2020-10-09,1,174,23,2026,Liguria,7
 52,Siena,2020-10-09,0,32,14,760,Toscana,9
 89,Siracusa,2020-10-09,0,29,11,633,Sicilia,19
 111,Sud Sardegna,2020-10-09,0,10,13,523,Sardegna,20
@@ -20869,13 +20869,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-10,1,175,60,2268,Puglia,16
 40,Forli-Cesena,2020-10-10,1,198,62,2700,Emilia-Romagna,8
 60,Frosinone,2020-10-10,0,43,46,1228,Lazio,12
-10,Genova,2020-10-10,0,0,133,7692,Liguria,7
+10,Genova,2020-10-10,0,5,133,7692,Liguria,7
 31,Gorizia,2020-10-10,0,6,22,555,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-10,0,24,11,668,Toscana,9
 8,Imperia,2020-10-10,0,215,17,1855,Liguria,7
 94,Isernia,2020-10-10,1,5,7,120,Molise,14
 66,L Aquila,2020-10-10,0,18,28,780,Abruzzo,13
-11,La Spezia,2020-10-10,0,0,30,2417,Liguria,7
+11,La Spezia,2020-10-10,1,24,30,2417,Liguria,7
 59,Latina,2020-10-10,1,39,31,1645,Lazio,12
 75,Lecce,2020-10-10,0,80,9,882,Puglia,16
 49,Livorno,2020-10-10,0,65,22,892,Toscana,9
@@ -20909,7 +20909,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-10,5,612,234,14776,Lazio,12
 29,Rovigo,2020-10-10,0,63,2,687,Veneto,5
 90,Sassari,2020-10-10,0,101,29,2433,Sardegna,20
-9,Savona,2020-10-10,1,174,14,2040,Liguria,7
+9,Savona,2020-10-10,1,175,14,2040,Liguria,7
 52,Siena,2020-10-10,0,32,31,791,Toscana,9
 89,Siracusa,2020-10-10,0,29,27,660,Sicilia,19
 111,Sud Sardegna,2020-10-10,0,10,54,577,Sardegna,20
@@ -20960,13 +20960,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-11,1,176,95,2363,Puglia,16
 40,Forli-Cesena,2020-10-11,0,198,48,2748,Emilia-Romagna,8
 60,Frosinone,2020-10-11,0,43,22,1250,Lazio,12
-10,Genova,2020-10-11,0,0,304,7996,Liguria,7
+10,Genova,2020-10-11,0,5,304,7996,Liguria,7
 31,Gorizia,2020-10-11,0,6,3,558,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-11,1,25,9,677,Toscana,9
 8,Imperia,2020-10-11,0,215,21,1876,Liguria,7
 94,Isernia,2020-10-11,0,5,19,139,Molise,14
 66,L Aquila,2020-10-11,0,18,39,819,Abruzzo,13
-11,La Spezia,2020-10-11,0,0,26,2443,Liguria,7
+11,La Spezia,2020-10-11,0,24,26,2443,Liguria,7
 59,Latina,2020-10-11,0,39,15,1660,Lazio,12
 75,Lecce,2020-10-11,0,80,7,889,Puglia,16
 49,Livorno,2020-10-11,0,65,23,915,Toscana,9
@@ -21000,7 +21000,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-11,2,614,287,15063,Lazio,12
 29,Rovigo,2020-10-11,0,63,5,692,Veneto,5
 90,Sassari,2020-10-11,1,102,70,2503,Sardegna,20
-9,Savona,2020-10-11,0,174,15,2055,Liguria,7
+9,Savona,2020-10-11,0,175,15,2055,Liguria,7
 52,Siena,2020-10-11,0,32,24,815,Toscana,9
 89,Siracusa,2020-10-11,0,29,3,663,Sicilia,19
 111,Sud Sardegna,2020-10-11,1,11,42,619,Sardegna,20
@@ -21051,13 +21051,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-12,3,179,4,2367,Puglia,16
 40,Forli-Cesena,2020-10-12,0,198,54,2802,Emilia-Romagna,8
 60,Frosinone,2020-10-12,0,43,16,1266,Lazio,12
-10,Genova,2020-10-12,0,0,116,8112,Liguria,7
+10,Genova,2020-10-12,1,6,116,8112,Liguria,7
 31,Gorizia,2020-10-12,0,6,15,573,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-12,0,25,14,691,Toscana,9
 8,Imperia,2020-10-12,0,215,2,1878,Liguria,7
 94,Isernia,2020-10-12,0,5,2,141,Molise,14
 66,L Aquila,2020-10-12,0,18,37,856,Abruzzo,13
-11,La Spezia,2020-10-12,0,0,25,2468,Liguria,7
+11,La Spezia,2020-10-12,1,25,25,2468,Liguria,7
 59,Latina,2020-10-12,1,40,37,1697,Lazio,12
 75,Lecce,2020-10-12,0,80,4,893,Puglia,16
 49,Livorno,2020-10-12,0,65,19,934,Toscana,9
@@ -21091,7 +21091,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-12,7,621,278,15341,Lazio,12
 29,Rovigo,2020-10-12,0,63,1,693,Veneto,5
 90,Sassari,2020-10-12,0,102,58,2561,Sardegna,20
-9,Savona,2020-10-12,0,174,32,2087,Liguria,7
+9,Savona,2020-10-12,0,175,32,2087,Liguria,7
 52,Siena,2020-10-12,0,32,42,857,Toscana,9
 89,Siracusa,2020-10-12,0,29,29,692,Sicilia,19
 111,Sud Sardegna,2020-10-12,0,11,13,632,Sardegna,20
@@ -21142,13 +21142,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-13,0,179,40,2407,Puglia,16
 40,Forli-Cesena,2020-10-13,0,198,31,2833,Emilia-Romagna,8
 60,Frosinone,2020-10-13,0,43,63,1329,Lazio,12
-10,Genova,2020-10-13,0,0,334,8446,Liguria,7
+10,Genova,2020-10-13,0,6,334,8446,Liguria,7
 31,Gorizia,2020-10-13,1,7,14,587,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-13,0,25,16,707,Toscana,9
 8,Imperia,2020-10-13,0,215,33,1911,Liguria,7
 94,Isernia,2020-10-13,0,5,38,179,Molise,14
 66,L Aquila,2020-10-13,0,18,46,902,Abruzzo,13
-11,La Spezia,2020-10-13,0,0,17,2485,Liguria,7
+11,La Spezia,2020-10-13,0,25,17,2485,Liguria,7
 59,Latina,2020-10-13,0,40,64,1761,Lazio,12
 75,Lecce,2020-10-13,0,80,7,900,Puglia,16
 49,Livorno,2020-10-13,0,65,28,962,Toscana,9
@@ -21182,7 +21182,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-13,0,621,362,15703,Lazio,12
 29,Rovigo,2020-10-13,0,63,8,701,Veneto,5
 90,Sassari,2020-10-13,2,104,36,2597,Sardegna,20
-9,Savona,2020-10-13,0,174,26,2113,Liguria,7
+9,Savona,2020-10-13,1,176,26,2113,Liguria,7
 52,Siena,2020-10-13,0,32,40,897,Toscana,9
 89,Siracusa,2020-10-13,0,29,20,712,Sicilia,19
 111,Sud Sardegna,2020-10-13,0,11,36,668,Sardegna,20
@@ -21233,13 +21233,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-14,1,180,55,2462,Puglia,16
 40,Forli-Cesena,2020-10-14,0,198,20,2853,Emilia-Romagna,8
 60,Frosinone,2020-10-14,0,43,67,1396,Lazio,12
-10,Genova,2020-10-14,0,0,263,8709,Liguria,7
+10,Genova,2020-10-14,1,7,263,8709,Liguria,7
 31,Gorizia,2020-10-14,0,7,22,609,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-14,0,25,17,724,Toscana,9
 8,Imperia,2020-10-14,0,215,9,1920,Liguria,7
 94,Isernia,2020-10-14,0,5,15,194,Molise,14
 66,L Aquila,2020-10-14,0,18,45,947,Abruzzo,13
-11,La Spezia,2020-10-14,0,0,33,2518,Liguria,7
+11,La Spezia,2020-10-14,0,25,33,2518,Liguria,7
 59,Latina,2020-10-14,0,40,57,1818,Lazio,12
 75,Lecce,2020-10-14,0,80,11,911,Puglia,16
 49,Livorno,2020-10-14,0,65,37,999,Toscana,9
@@ -21273,7 +21273,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-14,5,626,360,16063,Lazio,12
 29,Rovigo,2020-10-14,0,63,3,704,Veneto,5
 90,Sassari,2020-10-14,0,104,52,2649,Sardegna,20
-9,Savona,2020-10-14,0,174,31,2144,Liguria,7
+9,Savona,2020-10-14,0,176,31,2144,Liguria,7
 52,Siena,2020-10-14,0,32,27,924,Toscana,9
 89,Siracusa,2020-10-14,0,29,26,738,Sicilia,19
 111,Sud Sardegna,2020-10-14,0,11,18,686,Sardegna,20
@@ -21324,13 +21324,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-15,3,183,25,2487,Puglia,16
 40,Forli-Cesena,2020-10-15,0,198,64,2917,Emilia-Romagna,8
 60,Frosinone,2020-10-15,0,43,29,1425,Lazio,12
-10,Genova,2020-10-15,0,0,356,9065,Liguria,7
+10,Genova,2020-10-15,0,7,356,9065,Liguria,7
 31,Gorizia,2020-10-15,0,7,12,621,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-15,0,25,12,736,Toscana,9
 8,Imperia,2020-10-15,0,215,27,1947,Liguria,7
 94,Isernia,2020-10-15,0,5,20,214,Molise,14
 66,L Aquila,2020-10-15,0,18,136,1083,Abruzzo,13
-11,La Spezia,2020-10-15,0,0,18,2536,Liguria,7
+11,La Spezia,2020-10-15,0,25,18,2536,Liguria,7
 59,Latina,2020-10-15,0,40,48,1866,Lazio,12
 75,Lecce,2020-10-15,0,80,8,919,Puglia,16
 49,Livorno,2020-10-15,0,65,45,1044,Toscana,9
@@ -21364,7 +21364,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-15,4,630,457,16520,Lazio,12
 29,Rovigo,2020-10-15,1,64,19,723,Veneto,5
 90,Sassari,2020-10-15,0,104,35,2684,Sardegna,20
-9,Savona,2020-10-15,2,176,7,2151,Liguria,7
+9,Savona,2020-10-15,2,178,7,2151,Liguria,7
 52,Siena,2020-10-15,0,32,50,974,Toscana,9
 89,Siracusa,2020-10-15,0,29,19,757,Sicilia,19
 111,Sud Sardegna,2020-10-15,0,11,71,757,Sardegna,20
@@ -21415,13 +21415,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-16,1,184,45,2532,Puglia,16
 40,Forli-Cesena,2020-10-16,0,198,46,2963,Emilia-Romagna,8
 60,Frosinone,2020-10-16,0,43,129,1554,Lazio,12
-10,Genova,2020-10-16,0,0,363,9428,Liguria,7
+10,Genova,2020-10-16,5,12,363,9428,Liguria,7
 31,Gorizia,2020-10-16,0,7,31,652,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-16,0,25,9,745,Toscana,9
 8,Imperia,2020-10-16,1,216,41,1988,Liguria,7
 94,Isernia,2020-10-16,0,5,12,226,Molise,14
 66,L Aquila,2020-10-16,0,18,89,1172,Abruzzo,13
-11,La Spezia,2020-10-16,0,0,30,2566,Liguria,7
+11,La Spezia,2020-10-16,0,25,30,2566,Liguria,7
 59,Latina,2020-10-16,0,40,48,1914,Lazio,12
 75,Lecce,2020-10-16,1,81,5,924,Puglia,16
 49,Livorno,2020-10-16,0,65,28,1072,Toscana,9
@@ -21455,7 +21455,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-16,5,635,564,17084,Lazio,12
 29,Rovigo,2020-10-16,1,65,7,730,Veneto,5
 90,Sassari,2020-10-16,0,104,48,2732,Sardegna,20
-9,Savona,2020-10-16,0,176,123,2274,Liguria,7
+9,Savona,2020-10-16,0,178,123,2274,Liguria,7
 52,Siena,2020-10-16,0,32,44,1018,Toscana,9
 89,Siracusa,2020-10-16,1,30,22,779,Sicilia,19
 111,Sud Sardegna,2020-10-16,1,12,20,777,Sardegna,20
@@ -21506,13 +21506,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-17,0,184,89,2621,Puglia,16
 40,Forli-Cesena,2020-10-17,0,198,62,3025,Emilia-Romagna,8
 60,Frosinone,2020-10-17,0,43,221,1775,Lazio,12
-10,Genova,2020-10-17,0,0,295,9723,Liguria,7
+10,Genova,2020-10-17,1,13,295,9723,Liguria,7
 31,Gorizia,2020-10-17,0,7,16,668,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-17,0,25,21,766,Toscana,9
 8,Imperia,2020-10-17,0,216,43,2031,Liguria,7
 94,Isernia,2020-10-17,0,5,56,282,Molise,14
 66,L Aquila,2020-10-17,0,18,39,1211,Abruzzo,13
-11,La Spezia,2020-10-17,0,0,38,2604,Liguria,7
+11,La Spezia,2020-10-17,0,25,38,2604,Liguria,7
 59,Latina,2020-10-17,0,40,64,1978,Lazio,12
 75,Lecce,2020-10-17,0,81,9,933,Puglia,16
 49,Livorno,2020-10-17,0,65,51,1123,Toscana,9
@@ -21546,7 +21546,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-17,10,645,604,17688,Lazio,12
 29,Rovigo,2020-10-17,0,65,19,749,Veneto,5
 90,Sassari,2020-10-17,1,105,51,2783,Sardegna,20
-9,Savona,2020-10-17,0,176,71,2345,Liguria,7
+9,Savona,2020-10-17,0,178,71,2345,Liguria,7
 52,Siena,2020-10-17,0,32,87,1105,Toscana,9
 89,Siracusa,2020-10-17,0,30,22,801,Sicilia,19
 111,Sud Sardegna,2020-10-17,0,12,32,809,Sardegna,20
@@ -21597,13 +21597,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-18,0,184,75,2696,Puglia,16
 40,Forli-Cesena,2020-10-18,0,198,62,3087,Emilia-Romagna,8
 60,Frosinone,2020-10-18,0,43,217,1992,Lazio,12
-10,Genova,2020-10-18,0,0,198,9921,Liguria,7
+10,Genova,2020-10-18,3,16,198,9921,Liguria,7
 31,Gorizia,2020-10-18,0,7,2,670,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-18,0,25,28,794,Toscana,9
 8,Imperia,2020-10-18,0,216,27,2058,Liguria,7
 94,Isernia,2020-10-18,0,5,20,302,Molise,14
 66,L Aquila,2020-10-18,1,19,76,1287,Abruzzo,13
-11,La Spezia,2020-10-18,0,0,67,2671,Liguria,7
+11,La Spezia,2020-10-18,0,25,67,2671,Liguria,7
 59,Latina,2020-10-18,1,41,70,2048,Lazio,12
 75,Lecce,2020-10-18,0,81,7,940,Puglia,16
 49,Livorno,2020-10-18,0,65,53,1176,Toscana,9
@@ -21637,7 +21637,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-18,4,649,784,18472,Lazio,12
 29,Rovigo,2020-10-18,0,65,17,766,Veneto,5
 90,Sassari,2020-10-18,1,106,58,2841,Sardegna,20
-9,Savona,2020-10-18,0,176,40,2385,Liguria,7
+9,Savona,2020-10-18,0,178,40,2385,Liguria,7
 52,Siena,2020-10-18,0,32,34,1139,Toscana,9
 89,Siracusa,2020-10-18,0,30,27,828,Sicilia,19
 111,Sud Sardegna,2020-10-18,0,12,55,864,Sardegna,20
@@ -21688,13 +21688,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-19,1,185,63,2759,Puglia,16
 40,Forli-Cesena,2020-10-19,0,198,49,3136,Emilia-Romagna,8
 60,Frosinone,2020-10-19,0,43,66,2058,Lazio,12
-10,Genova,2020-10-19,0,0,202,10123,Liguria,7
+10,Genova,2020-10-19,5,21,202,10123,Liguria,7
 31,Gorizia,2020-10-19,0,7,9,679,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-19,0,25,19,813,Toscana,9
 8,Imperia,2020-10-19,0,216,10,2068,Liguria,7
 94,Isernia,2020-10-19,0,5,22,324,Molise,14
 66,L Aquila,2020-10-19,0,19,80,1367,Abruzzo,13
-11,La Spezia,2020-10-19,0,0,38,2709,Liguria,7
+11,La Spezia,2020-10-19,0,25,38,2709,Liguria,7
 59,Latina,2020-10-19,1,42,62,2110,Lazio,12
 75,Lecce,2020-10-19,0,81,20,960,Puglia,16
 49,Livorno,2020-10-19,0,65,63,1239,Toscana,9
@@ -21728,7 +21728,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-19,5,654,711,19183,Lazio,12
 29,Rovigo,2020-10-19,0,65,27,793,Veneto,5
 90,Sassari,2020-10-19,0,106,56,2897,Sardegna,20
-9,Savona,2020-10-19,0,176,47,2432,Liguria,7
+9,Savona,2020-10-19,0,178,47,2432,Liguria,7
 52,Siena,2020-10-19,0,32,54,1193,Toscana,9
 89,Siracusa,2020-10-19,0,30,24,852,Sicilia,19
 111,Sud Sardegna,2020-10-19,0,12,32,896,Sardegna,20
@@ -21779,13 +21779,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-20,3,188,91,2850,Puglia,16
 40,Forli-Cesena,2020-10-20,0,198,33,3169,Emilia-Romagna,8
 60,Frosinone,2020-10-20,0,43,109,2167,Lazio,12
-10,Genova,2020-10-20,0,0,729,10852,Liguria,7
+10,Genova,2020-10-20,2,23,729,10852,Liguria,7
 31,Gorizia,2020-10-20,0,7,13,692,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-20,0,25,33,846,Toscana,9
 8,Imperia,2020-10-20,0,216,61,2129,Liguria,7
 94,Isernia,2020-10-20,0,5,23,347,Molise,14
 66,L Aquila,2020-10-20,0,19,65,1432,Abruzzo,13
-11,La Spezia,2020-10-20,0,0,27,2736,Liguria,7
+11,La Spezia,2020-10-20,1,26,27,2736,Liguria,7
 59,Latina,2020-10-20,1,43,49,2159,Lazio,12
 75,Lecce,2020-10-20,0,81,4,964,Puglia,16
 49,Livorno,2020-10-20,1,66,42,1281,Toscana,9
@@ -21819,7 +21819,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-20,4,658,739,19922,Lazio,12
 29,Rovigo,2020-10-20,0,65,4,797,Veneto,5
 90,Sassari,2020-10-20,1,107,50,2947,Sardegna,20
-9,Savona,2020-10-20,0,176,48,2480,Liguria,7
+9,Savona,2020-10-20,3,181,48,2480,Liguria,7
 52,Siena,2020-10-20,0,32,56,1249,Toscana,9
 89,Siracusa,2020-10-20,0,30,35,887,Sicilia,19
 111,Sud Sardegna,2020-10-20,1,13,58,954,Sardegna,20
@@ -21870,13 +21870,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-21,0,188,61,2911,Puglia,16
 40,Forli-Cesena,2020-10-21,0,198,46,3215,Emilia-Romagna,8
 60,Frosinone,2020-10-21,1,44,208,2375,Lazio,12
-10,Genova,2020-10-21,0,0,363,11215,Liguria,7
+10,Genova,2020-10-21,5,28,363,11215,Liguria,7
 31,Gorizia,2020-10-21,0,7,35,727,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-21,0,25,23,869,Toscana,9
 8,Imperia,2020-10-21,0,216,44,2173,Liguria,7
 94,Isernia,2020-10-21,0,5,11,358,Molise,14
 66,L Aquila,2020-10-21,0,19,104,1536,Abruzzo,13
-11,La Spezia,2020-10-21,0,0,47,2783,Liguria,7
+11,La Spezia,2020-10-21,1,27,47,2783,Liguria,7
 59,Latina,2020-10-21,2,45,103,2262,Lazio,12
 75,Lecce,2020-10-21,0,81,10,974,Puglia,16
 49,Livorno,2020-10-21,0,66,105,1386,Toscana,9
@@ -21910,7 +21910,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-21,13,671,806,20728,Lazio,12
 29,Rovigo,2020-10-21,1,66,14,811,Veneto,5
 90,Sassari,2020-10-21,0,107,73,3020,Sardegna,20
-9,Savona,2020-10-21,3,179,62,2542,Liguria,7
+9,Savona,2020-10-21,3,184,62,2542,Liguria,7
 52,Siena,2020-10-21,0,32,30,1279,Toscana,9
 89,Siracusa,2020-10-21,0,30,20,907,Sicilia,19
 111,Sud Sardegna,2020-10-21,1,14,23,977,Sardegna,20
@@ -21961,13 +21961,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-22,0,188,132,3043,Puglia,16
 40,Forli-Cesena,2020-10-22,0,198,74,3289,Emilia-Romagna,8
 60,Frosinone,2020-10-22,0,44,123,2498,Lazio,12
-10,Genova,2020-10-22,0,0,498,11713,Liguria,7
+10,Genova,2020-10-22,14,42,498,11713,Liguria,7
 31,Gorizia,2020-10-22,1,8,24,751,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-22,0,25,32,901,Toscana,9
 8,Imperia,2020-10-22,0,216,49,2222,Liguria,7
 94,Isernia,2020-10-22,0,5,5,363,Molise,14
 66,L Aquila,2020-10-22,0,19,127,1663,Abruzzo,13
-11,La Spezia,2020-10-22,0,0,54,2837,Liguria,7
+11,La Spezia,2020-10-22,1,28,54,2837,Liguria,7
 59,Latina,2020-10-22,1,46,89,2351,Lazio,12
 75,Lecce,2020-10-22,0,81,19,993,Puglia,16
 49,Livorno,2020-10-22,0,66,176,1562,Toscana,9
@@ -22001,7 +22001,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-22,12,683,848,21576,Lazio,12
 29,Rovigo,2020-10-22,0,66,11,822,Veneto,5
 90,Sassari,2020-10-22,0,107,64,3084,Sardegna,20
-9,Savona,2020-10-22,1,180,43,2585,Liguria,7
+9,Savona,2020-10-22,2,186,43,2585,Liguria,7
 52,Siena,2020-10-22,2,34,71,1350,Toscana,9
 89,Siracusa,2020-10-22,0,30,24,931,Sicilia,19
 111,Sud Sardegna,2020-10-22,1,15,39,1016,Sardegna,20
@@ -22052,13 +22052,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-23,2,190,176,3219,Puglia,16
 40,Forli-Cesena,2020-10-23,0,198,67,3356,Emilia-Romagna,8
 60,Frosinone,2020-10-23,0,44,136,2634,Lazio,12
-10,Genova,2020-10-23,0,0,549,12262,Liguria,7
+10,Genova,2020-10-23,6,48,549,12262,Liguria,7
 31,Gorizia,2020-10-23,0,8,24,775,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-23,0,25,34,935,Toscana,9
 8,Imperia,2020-10-23,0,216,73,2295,Liguria,7
 94,Isernia,2020-10-23,0,5,34,397,Molise,14
 66,L Aquila,2020-10-23,0,19,98,1761,Abruzzo,13
-11,La Spezia,2020-10-23,0,0,44,2881,Liguria,7
+11,La Spezia,2020-10-23,1,29,44,2881,Liguria,7
 59,Latina,2020-10-23,0,46,114,2465,Lazio,12
 75,Lecce,2020-10-23,0,81,19,1012,Puglia,16
 49,Livorno,2020-10-23,2,68,109,1671,Toscana,9
@@ -22092,7 +22092,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-23,0,683,902,22478,Lazio,12
 29,Rovigo,2020-10-23,0,66,48,870,Veneto,5
 90,Sassari,2020-10-23,0,107,80,3164,Sardegna,20
-9,Savona,2020-10-23,0,180,67,2652,Liguria,7
+9,Savona,2020-10-23,0,186,67,2652,Liguria,7
 52,Siena,2020-10-23,0,34,75,1425,Toscana,9
 89,Siracusa,2020-10-23,0,30,11,942,Sicilia,19
 111,Sud Sardegna,2020-10-23,0,15,100,1116,Sardegna,20
@@ -22143,13 +22143,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-24,2,192,123,3342,Puglia,16
 40,Forli-Cesena,2020-10-24,0,198,74,3430,Emilia-Romagna,8
 60,Frosinone,2020-10-24,0,44,438,3072,Lazio,12
-10,Genova,2020-10-24,0,0,730,12992,Liguria,7
+10,Genova,2020-10-24,3,51,730,12992,Liguria,7
 31,Gorizia,2020-10-24,1,9,71,846,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-24,0,25,33,968,Toscana,9
 8,Imperia,2020-10-24,2,218,70,2365,Liguria,7
 94,Isernia,2020-10-24,0,5,32,429,Molise,14
 66,L Aquila,2020-10-24,0,19,156,1917,Abruzzo,13
-11,La Spezia,2020-10-24,0,0,91,2972,Liguria,7
+11,La Spezia,2020-10-24,1,30,91,2972,Liguria,7
 59,Latina,2020-10-24,2,48,65,2530,Lazio,12
 75,Lecce,2020-10-24,0,81,36,1048,Puglia,16
 49,Livorno,2020-10-24,3,71,119,1790,Toscana,9
@@ -22183,7 +22183,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-24,4,687,976,23454,Lazio,12
 29,Rovigo,2020-10-24,0,66,22,892,Veneto,5
 90,Sassari,2020-10-24,0,107,121,3285,Sardegna,20
-9,Savona,2020-10-24,0,180,83,2735,Liguria,7
+9,Savona,2020-10-24,0,186,83,2735,Liguria,7
 52,Siena,2020-10-24,0,34,67,1492,Toscana,9
 89,Siracusa,2020-10-24,0,30,37,979,Sicilia,19
 111,Sud Sardegna,2020-10-24,0,15,74,1190,Sardegna,20
@@ -22234,13 +22234,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-25,4,196,103,3445,Puglia,16
 40,Forli-Cesena,2020-10-25,0,198,98,3528,Emilia-Romagna,8
 60,Frosinone,2020-10-25,0,44,-200,2872,Lazio,12
-10,Genova,2020-10-25,0,0,376,13368,Liguria,7
+10,Genova,2020-10-25,5,56,376,13368,Liguria,7
 31,Gorizia,2020-10-25,0,9,2,848,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-25,0,25,39,1007,Toscana,9
 8,Imperia,2020-10-25,0,218,52,2417,Liguria,7
 94,Isernia,2020-10-25,0,5,20,449,Molise,14
 66,L Aquila,2020-10-25,9,28,108,2025,Abruzzo,13
-11,La Spezia,2020-10-25,0,0,72,3044,Liguria,7
+11,La Spezia,2020-10-25,0,30,72,3044,Liguria,7
 59,Latina,2020-10-25,1,49,161,2691,Lazio,12
 75,Lecce,2020-10-25,0,81,43,1091,Puglia,16
 49,Livorno,2020-10-25,1,72,163,1953,Toscana,9
@@ -22274,7 +22274,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-25,8,695,1377,24831,Lazio,12
 29,Rovigo,2020-10-25,0,66,66,958,Veneto,5
 90,Sassari,2020-10-25,0,107,81,3366,Sardegna,20
-9,Savona,2020-10-25,0,180,121,2856,Liguria,7
+9,Savona,2020-10-25,0,186,121,2856,Liguria,7
 52,Siena,2020-10-25,0,34,84,1576,Toscana,9
 89,Siracusa,2020-10-25,0,30,15,994,Sicilia,19
 111,Sud Sardegna,2020-10-25,0,15,32,1222,Sardegna,20
@@ -22325,13 +22325,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-26,0,196,109,3554,Puglia,16
 40,Forli-Cesena,2020-10-26,0,198,80,3608,Emilia-Romagna,8
 60,Frosinone,2020-10-26,1,45,207,3079,Lazio,12
-10,Genova,2020-10-26,0,0,217,13585,Liguria,7
+10,Genova,2020-10-26,11,67,217,13585,Liguria,7
 31,Gorizia,2020-10-26,0,9,19,867,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-26,0,25,31,1038,Toscana,9
 8,Imperia,2020-10-26,1,219,29,2446,Liguria,7
 94,Isernia,2020-10-26,0,5,32,481,Molise,14
 66,L Aquila,2020-10-26,3,31,190,2215,Abruzzo,13
-11,La Spezia,2020-10-26,0,0,94,3138,Liguria,7
+11,La Spezia,2020-10-26,0,30,94,3138,Liguria,7
 59,Latina,2020-10-26,1,50,85,2776,Lazio,12
 75,Lecce,2020-10-26,0,81,28,1119,Puglia,16
 49,Livorno,2020-10-26,1,73,210,2163,Toscana,9
@@ -22365,7 +22365,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-26,10,705,1131,25962,Lazio,12
 29,Rovigo,2020-10-26,0,66,15,973,Veneto,5
 90,Sassari,2020-10-26,0,107,127,3493,Sardegna,20
-9,Savona,2020-10-26,1,181,62,2918,Liguria,7
+9,Savona,2020-10-26,1,187,62,2918,Liguria,7
 52,Siena,2020-10-26,0,34,44,1620,Toscana,9
 89,Siracusa,2020-10-26,0,30,65,1059,Sicilia,19
 111,Sud Sardegna,2020-10-26,4,19,24,1246,Sardegna,20
@@ -22416,13 +22416,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-27,10,206,137,3691,Puglia,16
 40,Forli-Cesena,2020-10-27,0,198,96,3704,Emilia-Romagna,8
 60,Frosinone,2020-10-27,1,46,24,3103,Lazio,12
-10,Genova,2020-10-27,0,0,857,14442,Liguria,7
+10,Genova,2020-10-27,0,67,857,14442,Liguria,7
 31,Gorizia,2020-10-27,0,9,18,885,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-27,0,25,40,1078,Toscana,9
 8,Imperia,2020-10-27,0,219,74,2520,Liguria,7
 94,Isernia,2020-10-27,2,7,34,515,Molise,14
 66,L Aquila,2020-10-27,4,35,118,2333,Abruzzo,13
-11,La Spezia,2020-10-27,0,0,127,3265,Liguria,7
+11,La Spezia,2020-10-27,1,31,127,3265,Liguria,7
 59,Latina,2020-10-27,2,52,288,3064,Lazio,12
 75,Lecce,2020-10-27,0,81,15,1134,Puglia,16
 49,Livorno,2020-10-27,3,76,204,2367,Toscana,9
@@ -22456,7 +22456,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-27,18,723,1359,27321,Lazio,12
 29,Rovigo,2020-10-27,1,67,76,1049,Veneto,5
 90,Sassari,2020-10-27,0,107,50,3543,Sardegna,20
-9,Savona,2020-10-27,1,182,39,2957,Liguria,7
+9,Savona,2020-10-27,1,188,39,2957,Liguria,7
 52,Siena,2020-10-27,0,34,47,1667,Toscana,9
 89,Siracusa,2020-10-27,0,30,30,1089,Sicilia,19
 111,Sud Sardegna,2020-10-27,4,23,33,1279,Sardegna,20
@@ -22507,13 +22507,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-28,7,213,117,3808,Puglia,16
 40,Forli-Cesena,2020-10-28,0,198,66,3770,Emilia-Romagna,8
 60,Frosinone,2020-10-28,1,47,204,3307,Lazio,12
-10,Genova,2020-10-28,0,0,637,15079,Liguria,7
+10,Genova,2020-10-28,14,81,637,15079,Liguria,7
 31,Gorizia,2020-10-28,1,10,41,926,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-28,0,25,38,1116,Toscana,9
 8,Imperia,2020-10-28,0,219,82,2602,Liguria,7
 94,Isernia,2020-10-28,0,7,5,520,Molise,14
 66,L Aquila,2020-10-28,0,35,154,2487,Abruzzo,13
-11,La Spezia,2020-10-28,0,0,87,3352,Liguria,7
+11,La Spezia,2020-10-28,0,31,87,3352,Liguria,7
 59,Latina,2020-10-28,1,53,165,3229,Lazio,12
 75,Lecce,2020-10-28,0,81,39,1173,Puglia,16
 49,Livorno,2020-10-28,1,77,114,2481,Toscana,9
@@ -22547,7 +22547,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-28,16,739,1381,28702,Lazio,12
 29,Rovigo,2020-10-28,0,67,36,1085,Veneto,5
 90,Sassari,2020-10-28,3,110,130,3673,Sardegna,20
-9,Savona,2020-10-28,1,183,68,3025,Liguria,7
+9,Savona,2020-10-28,1,189,68,3025,Liguria,7
 52,Siena,2020-10-28,0,34,43,1710,Toscana,9
 89,Siracusa,2020-10-28,0,30,42,1131,Sicilia,19
 111,Sud Sardegna,2020-10-28,1,24,52,1331,Sardegna,20
@@ -22598,13 +22598,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-29,5,218,208,4016,Puglia,16
 40,Forli-Cesena,2020-10-29,0,198,86,3856,Emilia-Romagna,8
 60,Frosinone,2020-10-29,0,47,266,3573,Lazio,12
-10,Genova,2020-10-29,0,0,583,15662,Liguria,7
+10,Genova,2020-10-29,5,86,583,15662,Liguria,7
 31,Gorizia,2020-10-29,0,10,51,977,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-29,0,25,51,1167,Toscana,9
 8,Imperia,2020-10-29,2,221,130,2732,Liguria,7
 94,Isernia,2020-10-29,0,7,79,599,Molise,14
 66,L Aquila,2020-10-29,1,36,135,2622,Abruzzo,13
-11,La Spezia,2020-10-29,0,0,146,3498,Liguria,7
+11,La Spezia,2020-10-29,0,31,146,3498,Liguria,7
 59,Latina,2020-10-29,1,54,112,3341,Lazio,12
 75,Lecce,2020-10-29,0,81,48,1221,Puglia,16
 49,Livorno,2020-10-29,1,78,94,2575,Toscana,9
@@ -22638,7 +22638,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-29,7,746,1379,30081,Lazio,12
 29,Rovigo,2020-10-29,0,67,48,1133,Veneto,5
 90,Sassari,2020-10-29,2,112,95,3768,Sardegna,20
-9,Savona,2020-10-29,2,185,108,3133,Liguria,7
+9,Savona,2020-10-29,2,191,108,3133,Liguria,7
 52,Siena,2020-10-29,2,36,61,1771,Toscana,9
 89,Siracusa,2020-10-29,0,30,39,1170,Sicilia,19
 111,Sud Sardegna,2020-10-29,0,24,85,1416,Sardegna,20
@@ -22689,13 +22689,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-30,6,224,171,4187,Puglia,16
 40,Forli-Cesena,2020-10-30,0,198,132,3988,Emilia-Romagna,8
 60,Frosinone,2020-10-30,1,48,191,3764,Lazio,12
-10,Genova,2020-10-30,0,0,651,16313,Liguria,7
+10,Genova,2020-10-30,7,93,651,16313,Liguria,7
 31,Gorizia,2020-10-30,0,10,65,1042,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-30,0,25,75,1242,Toscana,9
 8,Imperia,2020-10-30,0,221,105,2837,Liguria,7
 94,Isernia,2020-10-30,0,7,17,616,Molise,14
 66,L Aquila,2020-10-30,1,37,189,2811,Abruzzo,13
-11,La Spezia,2020-10-30,0,0,82,3580,Liguria,7
+11,La Spezia,2020-10-30,0,31,82,3580,Liguria,7
 59,Latina,2020-10-30,1,55,13,3354,Lazio,12
 75,Lecce,2020-10-30,0,81,41,1262,Puglia,16
 49,Livorno,2020-10-30,2,80,237,2812,Toscana,9
@@ -22729,7 +22729,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-30,12,758,1754,31835,Lazio,12
 29,Rovigo,2020-10-30,0,67,120,1253,Veneto,5
 90,Sassari,2020-10-30,2,114,92,3860,Sardegna,20
-9,Savona,2020-10-30,0,185,108,3241,Liguria,7
+9,Savona,2020-10-30,0,191,108,3241,Liguria,7
 52,Siena,2020-10-30,0,36,115,1886,Toscana,9
 89,Siracusa,2020-10-30,0,30,48,1218,Sicilia,19
 111,Sud Sardegna,2020-10-30,2,26,50,1466,Sardegna,20
@@ -22780,13 +22780,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-10-31,7,231,227,4414,Puglia,16
 40,Forli-Cesena,2020-10-31,0,198,121,4109,Emilia-Romagna,8
 60,Frosinone,2020-10-31,0,48,241,4005,Lazio,12
-10,Genova,2020-10-31,0,0,695,17008,Liguria,7
+10,Genova,2020-10-31,22,115,695,17008,Liguria,7
 31,Gorizia,2020-10-31,0,10,105,1147,Friuli Venezia Giulia,6
 53,Grosseto,2020-10-31,0,25,76,1318,Toscana,9
-8,Imperia,2020-10-31,0,221,69,2906,Liguria,7
+8,Imperia,2020-10-31,1,222,69,2906,Liguria,7
 94,Isernia,2020-10-31,5,12,37,653,Molise,14
 66,L Aquila,2020-10-31,0,37,171,2982,Abruzzo,13
-11,La Spezia,2020-10-31,0,0,184,3764,Liguria,7
+11,La Spezia,2020-10-31,0,31,184,3764,Liguria,7
 59,Latina,2020-10-31,1,56,407,3761,Lazio,12
 75,Lecce,2020-10-31,0,81,25,1287,Puglia,16
 49,Livorno,2020-10-31,3,83,205,3017,Toscana,9
@@ -22820,7 +22820,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-10-31,18,776,1678,33513,Lazio,12
 29,Rovigo,2020-10-31,0,67,77,1330,Veneto,5
 90,Sassari,2020-10-31,0,114,120,3980,Sardegna,20
-9,Savona,2020-10-31,0,185,78,3319,Liguria,7
+9,Savona,2020-10-31,2,193,78,3319,Liguria,7
 52,Siena,2020-10-31,0,36,82,1968,Toscana,9
 89,Siracusa,2020-10-31,0,30,15,1233,Sicilia,19
 111,Sud Sardegna,2020-10-31,0,26,43,1509,Sardegna,20
@@ -22871,13 +22871,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-01,2,233,227,4641,Puglia,16
 40,Forli-Cesena,2020-11-01,0,198,90,4199,Emilia-Romagna,8
 60,Frosinone,2020-11-01,1,49,245,4250,Lazio,12
-10,Genova,2020-11-01,0,0,389,17397,Liguria,7
+10,Genova,2020-11-01,0,115,389,17397,Liguria,7
 31,Gorizia,2020-11-01,0,10,26,1173,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-01,0,25,98,1416,Toscana,9
-8,Imperia,2020-11-01,1,222,61,2967,Liguria,7
+8,Imperia,2020-11-01,1,223,61,2967,Liguria,7
 94,Isernia,2020-11-01,0,12,58,711,Molise,14
 66,L Aquila,2020-11-01,0,37,224,3206,Abruzzo,13
-11,La Spezia,2020-11-01,0,0,135,3899,Liguria,7
+11,La Spezia,2020-11-01,0,31,135,3899,Liguria,7
 59,Latina,2020-11-01,1,57,14,3775,Lazio,12
 75,Lecce,2020-11-01,0,81,73,1360,Puglia,16
 49,Livorno,2020-11-01,0,83,217,3234,Toscana,9
@@ -22911,7 +22911,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-01,15,791,1726,35239,Lazio,12
 29,Rovigo,2020-11-01,0,67,74,1404,Veneto,5
 90,Sassari,2020-11-01,3,117,187,4167,Sardegna,20
-9,Savona,2020-11-01,0,185,133,3452,Liguria,7
+9,Savona,2020-11-01,0,193,133,3452,Liguria,7
 52,Siena,2020-11-01,0,36,63,2031,Toscana,9
 89,Siracusa,2020-11-01,0,30,100,1333,Sicilia,19
 111,Sud Sardegna,2020-11-01,1,27,70,1579,Sardegna,20
@@ -22962,13 +22962,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-02,2,235,169,4810,Puglia,16
 40,Forli-Cesena,2020-11-02,0,198,112,4311,Emilia-Romagna,8
 60,Frosinone,2020-11-02,1,50,217,4467,Lazio,12
-10,Genova,2020-11-02,0,0,387,17784,Liguria,7
+10,Genova,2020-11-02,9,124,387,17784,Liguria,7
 31,Gorizia,2020-11-02,0,10,12,1185,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-02,0,25,78,1494,Toscana,9
-8,Imperia,2020-11-02,0,222,72,3039,Liguria,7
+8,Imperia,2020-11-02,0,223,72,3039,Liguria,7
 94,Isernia,2020-11-02,0,12,55,766,Molise,14
 66,L Aquila,2020-11-02,1,38,138,3344,Abruzzo,13
-11,La Spezia,2020-11-02,0,0,81,3980,Liguria,7
+11,La Spezia,2020-11-02,0,31,81,3980,Liguria,7
 59,Latina,2020-11-02,2,59,7,3782,Lazio,12
 75,Lecce,2020-11-02,0,81,87,1447,Puglia,16
 49,Livorno,2020-11-02,0,83,181,3415,Toscana,9
@@ -23002,7 +23002,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-02,13,804,1368,36607,Lazio,12
 29,Rovigo,2020-11-02,0,67,57,1461,Veneto,5
 90,Sassari,2020-11-02,0,117,149,4316,Sardegna,20
-9,Savona,2020-11-02,0,185,35,3487,Liguria,7
+9,Savona,2020-11-02,0,193,35,3487,Liguria,7
 52,Siena,2020-11-02,0,36,57,2088,Toscana,9
 89,Siracusa,2020-11-02,0,30,174,1507,Sicilia,19
 111,Sud Sardegna,2020-11-02,0,27,44,1623,Sardegna,20
@@ -23053,13 +23053,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-03,11,246,115,4925,Puglia,16
 40,Forli-Cesena,2020-11-03,0,198,164,4475,Emilia-Romagna,8
 60,Frosinone,2020-11-03,0,50,17,4484,Lazio,12
-10,Genova,2020-11-03,0,0,797,18581,Liguria,7
+10,Genova,2020-11-03,14,138,797,18581,Liguria,7
 31,Gorizia,2020-11-03,0,10,66,1251,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-03,1,26,21,1515,Toscana,9
-8,Imperia,2020-11-03,2,224,94,3133,Liguria,7
+8,Imperia,2020-11-03,4,227,94,3133,Liguria,7
 94,Isernia,2020-11-03,0,12,29,795,Molise,14
 66,L Aquila,2020-11-03,4,42,150,3494,Abruzzo,13
-11,La Spezia,2020-11-03,0,0,56,4036,Liguria,7
+11,La Spezia,2020-11-03,2,33,56,4036,Liguria,7
 59,Latina,2020-11-03,4,63,201,3983,Lazio,12
 75,Lecce,2020-11-03,0,81,45,1492,Puglia,16
 49,Livorno,2020-11-03,1,84,235,3650,Toscana,9
@@ -23093,7 +23093,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-03,13,817,1693,38300,Lazio,12
 29,Rovigo,2020-11-03,1,68,83,1544,Veneto,5
 90,Sassari,2020-11-03,1,118,158,4474,Sardegna,20
-9,Savona,2020-11-03,4,189,51,3538,Liguria,7
+9,Savona,2020-11-03,4,197,51,3538,Liguria,7
 52,Siena,2020-11-03,0,36,88,2176,Toscana,9
 89,Siracusa,2020-11-03,0,30,71,1578,Sicilia,19
 111,Sud Sardegna,2020-11-03,0,27,31,1654,Sardegna,20
@@ -23144,13 +23144,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-04,1,247,229,5154,Puglia,16
 40,Forli-Cesena,2020-11-04,0,198,80,4555,Emilia-Romagna,8
 60,Frosinone,2020-11-04,3,53,335,4819,Lazio,12
-10,Genova,2020-11-04,0,0,722,19303,Liguria,7
+10,Genova,2020-11-04,18,156,722,19303,Liguria,7
 31,Gorizia,2020-11-04,0,10,47,1298,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-04,0,26,68,1583,Toscana,9
-8,Imperia,2020-11-04,1,225,129,3262,Liguria,7
+8,Imperia,2020-11-04,1,228,129,3262,Liguria,7
 94,Isernia,2020-11-04,0,12,7,802,Molise,14
 66,L Aquila,2020-11-04,1,43,162,3656,Abruzzo,13
-11,La Spezia,2020-11-04,0,0,97,4133,Liguria,7
+11,La Spezia,2020-11-04,0,33,97,4133,Liguria,7
 59,Latina,2020-11-04,4,67,187,4170,Lazio,12
 75,Lecce,2020-11-04,4,85,26,1518,Puglia,16
 49,Livorno,2020-11-04,4,88,123,3773,Toscana,9
@@ -23184,7 +23184,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-04,23,840,1873,40173,Lazio,12
 29,Rovigo,2020-11-04,1,69,78,1622,Veneto,5
 90,Sassari,2020-11-04,0,118,0,4474,Sardegna,20
-9,Savona,2020-11-04,1,190,88,3626,Liguria,7
+9,Savona,2020-11-04,5,202,88,3626,Liguria,7
 52,Siena,2020-11-04,0,36,69,2245,Toscana,9
 89,Siracusa,2020-11-04,0,30,41,1619,Sicilia,19
 111,Sud Sardegna,2020-11-04,0,27,51,1705,Sardegna,20
@@ -23235,13 +23235,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-05,9,256,273,5427,Puglia,16
 40,Forli-Cesena,2020-11-05,0,198,111,4666,Emilia-Romagna,8
 60,Frosinone,2020-11-05,1,54,497,5316,Lazio,12
-10,Genova,2020-11-05,0,0,724,20027,Liguria,7
+10,Genova,2020-11-05,29,185,724,20027,Liguria,7
 31,Gorizia,2020-11-05,0,10,47,1345,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-05,0,26,72,1655,Toscana,9
-8,Imperia,2020-11-05,0,225,142,3404,Liguria,7
+8,Imperia,2020-11-05,0,228,142,3404,Liguria,7
 94,Isernia,2020-11-05,0,12,46,848,Molise,14
 66,L Aquila,2020-11-05,4,47,140,3796,Abruzzo,13
-11,La Spezia,2020-11-05,0,0,153,4286,Liguria,7
+11,La Spezia,2020-11-05,0,33,153,4286,Liguria,7
 59,Latina,2020-11-05,6,73,-148,4022,Lazio,12
 75,Lecce,2020-11-05,0,85,73,1591,Puglia,16
 49,Livorno,2020-11-05,2,90,213,3986,Toscana,9
@@ -23275,7 +23275,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-05,24,864,2110,42283,Lazio,12
 29,Rovigo,2020-11-05,0,69,67,1689,Veneto,5
 90,Sassari,2020-11-05,3,121,192,4666,Sardegna,20
-9,Savona,2020-11-05,0,190,103,3729,Liguria,7
+9,Savona,2020-11-05,0,202,103,3729,Liguria,7
 52,Siena,2020-11-05,0,36,62,2307,Toscana,9
 89,Siracusa,2020-11-05,0,30,152,1771,Sicilia,19
 111,Sud Sardegna,2020-11-05,2,29,58,1763,Sardegna,20
@@ -23326,13 +23326,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-06,2,258,291,5718,Puglia,16
 40,Forli-Cesena,2020-11-06,0,198,80,4746,Emilia-Romagna,8
 60,Frosinone,2020-11-06,1,55,698,6014,Lazio,12
-10,Genova,2020-11-06,0,0,632,20659,Liguria,7
+10,Genova,2020-11-06,11,196,632,20659,Liguria,7
 31,Gorizia,2020-11-06,0,10,79,1424,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-06,0,26,81,1736,Toscana,9
-8,Imperia,2020-11-06,2,227,105,3509,Liguria,7
+8,Imperia,2020-11-06,2,230,105,3509,Liguria,7
 94,Isernia,2020-11-06,0,12,19,867,Molise,14
 66,L Aquila,2020-11-06,3,50,143,3939,Abruzzo,13
-11,La Spezia,2020-11-06,0,0,172,4458,Liguria,7
+11,La Spezia,2020-11-06,1,34,172,4458,Liguria,7
 59,Latina,2020-11-06,1,74,636,4658,Lazio,12
 75,Lecce,2020-11-06,0,85,106,1697,Puglia,16
 49,Livorno,2020-11-06,0,90,211,4197,Toscana,9
@@ -23366,7 +23366,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-06,21,885,918,43201,Lazio,12
 29,Rovigo,2020-11-06,4,73,91,1780,Veneto,5
 90,Sassari,2020-11-06,0,121,182,4848,Sardegna,20
-9,Savona,2020-11-06,3,193,169,3898,Liguria,7
+9,Savona,2020-11-06,3,205,169,3898,Liguria,7
 52,Siena,2020-11-06,0,36,109,2416,Toscana,9
 89,Siracusa,2020-11-06,0,30,91,1862,Sicilia,19
 111,Sud Sardegna,2020-11-06,0,29,23,1786,Sardegna,20
@@ -23417,13 +23417,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-07,4,262,312,6030,Puglia,16
 40,Forli-Cesena,2020-11-07,0,198,105,4851,Emilia-Romagna,8
 60,Frosinone,2020-11-07,2,57,301,6315,Lazio,12
-10,Genova,2020-11-07,0,0,619,21278,Liguria,7
+10,Genova,2020-11-07,34,230,619,21278,Liguria,7
 31,Gorizia,2020-11-07,0,10,77,1501,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-07,0,26,110,1846,Toscana,9
-8,Imperia,2020-11-07,1,228,147,3656,Liguria,7
+8,Imperia,2020-11-07,1,231,147,3656,Liguria,7
 94,Isernia,2020-11-07,0,12,68,935,Molise,14
 66,L Aquila,2020-11-07,0,50,138,4077,Abruzzo,13
-11,La Spezia,2020-11-07,0,0,149,4607,Liguria,7
+11,La Spezia,2020-11-07,0,34,149,4607,Liguria,7
 59,Latina,2020-11-07,3,77,214,4872,Lazio,12
 75,Lecce,2020-11-07,0,85,95,1792,Puglia,16
 49,Livorno,2020-11-07,0,90,170,4367,Toscana,9
@@ -23457,7 +23457,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-07,20,905,1925,45126,Lazio,12
 29,Rovigo,2020-11-07,0,73,133,1913,Veneto,5
 90,Sassari,2020-11-07,1,122,242,5090,Sardegna,20
-9,Savona,2020-11-07,0,193,122,4020,Liguria,7
+9,Savona,2020-11-07,0,205,122,4020,Liguria,7
 52,Siena,2020-11-07,0,36,155,2571,Toscana,9
 89,Siracusa,2020-11-07,0,30,116,1978,Sicilia,19
 111,Sud Sardegna,2020-11-07,0,29,85,1871,Sardegna,20
@@ -23508,13 +23508,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-08,9,271,203,6233,Puglia,16
 40,Forli-Cesena,2020-11-08,0,198,115,4966,Emilia-Romagna,8
 60,Frosinone,2020-11-08,3,60,6,6321,Lazio,12
-10,Genova,2020-11-08,0,0,516,21794,Liguria,7
+10,Genova,2020-11-08,0,230,516,21794,Liguria,7
 31,Gorizia,2020-11-08,0,10,4,1505,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-08,0,26,69,1915,Toscana,9
-8,Imperia,2020-11-08,0,228,104,3760,Liguria,7
+8,Imperia,2020-11-08,0,231,104,3760,Liguria,7
 94,Isernia,2020-11-08,0,12,15,950,Molise,14
 66,L Aquila,2020-11-08,0,50,242,4319,Abruzzo,13
-11,La Spezia,2020-11-08,0,0,142,4749,Liguria,7
+11,La Spezia,2020-11-08,2,36,142,4749,Liguria,7
 59,Latina,2020-11-08,3,80,248,5120,Lazio,12
 75,Lecce,2020-11-08,2,87,63,1855,Puglia,16
 49,Livorno,2020-11-08,3,93,154,4521,Toscana,9
@@ -23548,7 +23548,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-08,4,909,2045,47171,Lazio,12
 29,Rovigo,2020-11-08,0,73,103,2016,Veneto,5
 90,Sassari,2020-11-08,0,122,154,5244,Sardegna,20
-9,Savona,2020-11-08,0,193,88,4108,Liguria,7
+9,Savona,2020-11-08,0,205,88,4108,Liguria,7
 52,Siena,2020-11-08,0,36,139,2710,Toscana,9
 89,Siracusa,2020-11-08,0,30,175,2153,Sicilia,19
 111,Sud Sardegna,2020-11-08,0,29,146,2017,Sardegna,20
@@ -23599,13 +23599,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-09,0,271,155,6388,Puglia,16
 40,Forli-Cesena,2020-11-09,0,198,163,5129,Emilia-Romagna,8
 60,Frosinone,2020-11-09,5,65,198,6519,Lazio,12
-10,Genova,2020-11-09,0,0,386,22180,Liguria,7
+10,Genova,2020-11-09,15,245,386,22180,Liguria,7
 31,Gorizia,2020-11-09,1,11,74,1579,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-09,1,27,128,2043,Toscana,9
-8,Imperia,2020-11-09,3,231,1,3761,Liguria,7
+8,Imperia,2020-11-09,3,234,1,3761,Liguria,7
 94,Isernia,2020-11-09,1,13,25,975,Molise,14
 66,L Aquila,2020-11-09,2,52,212,4531,Abruzzo,13
-11,La Spezia,2020-11-09,0,0,46,4795,Liguria,7
+11,La Spezia,2020-11-09,3,39,46,4795,Liguria,7
 59,Latina,2020-11-09,3,83,214,5334,Lazio,12
 75,Lecce,2020-11-09,0,87,98,1953,Puglia,16
 49,Livorno,2020-11-09,5,98,169,4690,Toscana,9
@@ -23639,7 +23639,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-09,4,913,1453,48624,Lazio,12
 29,Rovigo,2020-11-09,1,74,126,2142,Veneto,5
 90,Sassari,2020-11-09,9,131,127,5371,Sardegna,20
-9,Savona,2020-11-09,0,193,72,4180,Liguria,7
+9,Savona,2020-11-09,0,205,72,4180,Liguria,7
 52,Siena,2020-11-09,0,36,84,2794,Toscana,9
 89,Siracusa,2020-11-09,0,30,99,2252,Sicilia,19
 111,Sud Sardegna,2020-11-09,1,30,83,2100,Sardegna,20
@@ -23690,13 +23690,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-10,17,288,318,6706,Puglia,16
 40,Forli-Cesena,2020-11-10,0,198,190,5319,Emilia-Romagna,8
 60,Frosinone,2020-11-10,5,70,47,6566,Lazio,12
-10,Genova,2020-11-10,0,0,714,22894,Liguria,7
+10,Genova,2020-11-10,33,278,714,22894,Liguria,7
 31,Gorizia,2020-11-10,0,11,58,1637,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-10,1,28,68,2111,Toscana,9
-8,Imperia,2020-11-10,0,231,141,3902,Liguria,7
+8,Imperia,2020-11-10,0,234,141,3902,Liguria,7
 94,Isernia,2020-11-10,0,13,7,982,Molise,14
 66,L Aquila,2020-11-10,26,78,272,4803,Abruzzo,13
-11,La Spezia,2020-11-10,0,0,110,4905,Liguria,7
+11,La Spezia,2020-11-10,1,40,110,4905,Liguria,7
 59,Latina,2020-11-10,5,88,103,5437,Lazio,12
 75,Lecce,2020-11-10,0,87,59,2012,Puglia,16
 49,Livorno,2020-11-10,6,104,201,4891,Toscana,9
@@ -23730,7 +23730,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-10,22,935,2168,50792,Lazio,12
 29,Rovigo,2020-11-10,2,76,38,2180,Veneto,5
 90,Sassari,2020-11-10,1,132,100,5471,Sardegna,20
-9,Savona,2020-11-10,5,198,121,4301,Liguria,7
+9,Savona,2020-11-10,5,210,121,4301,Liguria,7
 52,Siena,2020-11-10,0,36,79,2873,Toscana,9
 89,Siracusa,2020-11-10,0,30,68,2320,Sicilia,19
 111,Sud Sardegna,2020-11-10,3,33,96,2196,Sardegna,20
@@ -23781,13 +23781,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-11,2,290,189,6895,Puglia,16
 40,Forli-Cesena,2020-11-11,0,198,86,5405,Emilia-Romagna,8
 60,Frosinone,2020-11-11,0,70,184,6750,Lazio,12
-10,Genova,2020-11-11,0,0,609,23503,Liguria,7
+10,Genova,2020-11-11,30,308,609,23503,Liguria,7
 31,Gorizia,2020-11-11,0,11,95,1732,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-11,3,31,102,2213,Toscana,9
-8,Imperia,2020-11-11,1,232,150,4052,Liguria,7
+8,Imperia,2020-11-11,1,235,150,4052,Liguria,7
 94,Isernia,2020-11-11,1,14,21,1003,Molise,14
 66,L Aquila,2020-11-11,6,84,261,5064,Abruzzo,13
-11,La Spezia,2020-11-11,0,0,132,5037,Liguria,7
+11,La Spezia,2020-11-11,1,41,132,5037,Liguria,7
 59,Latina,2020-11-11,1,89,31,5468,Lazio,12
 75,Lecce,2020-11-11,1,88,110,2122,Puglia,16
 49,Livorno,2020-11-11,2,106,159,5050,Toscana,9
@@ -23821,7 +23821,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-11,30,965,1959,52751,Lazio,12
 29,Rovigo,2020-11-11,2,78,101,2281,Veneto,5
 90,Sassari,2020-11-11,9,141,137,5608,Sardegna,20
-9,Savona,2020-11-11,1,199,136,4437,Liguria,7
+9,Savona,2020-11-11,1,211,136,4437,Liguria,7
 52,Siena,2020-11-11,8,44,85,2958,Toscana,9
 89,Siracusa,2020-11-11,0,30,76,2396,Sicilia,19
 111,Sud Sardegna,2020-11-11,1,34,31,2227,Sardegna,20
@@ -23872,13 +23872,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-12,8,298,232,7127,Puglia,16
 40,Forli-Cesena,2020-11-12,1,199,158,5563,Emilia-Romagna,8
 60,Frosinone,2020-11-12,1,71,259,7009,Lazio,12
-10,Genova,2020-11-12,0,0,528,24031,Liguria,7
+10,Genova,2020-11-12,26,334,528,24031,Liguria,7
 31,Gorizia,2020-11-12,0,11,153,1885,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-12,0,31,80,2293,Toscana,9
-8,Imperia,2020-11-12,1,233,126,4178,Liguria,7
+8,Imperia,2020-11-12,1,236,126,4178,Liguria,7
 94,Isernia,2020-11-12,0,14,16,1019,Molise,14
 66,L Aquila,2020-11-12,0,84,173,5237,Abruzzo,13
-11,La Spezia,2020-11-12,0,0,112,5149,Liguria,7
+11,La Spezia,2020-11-12,1,42,112,5149,Liguria,7
 59,Latina,2020-11-12,7,96,144,5612,Lazio,12
 75,Lecce,2020-11-12,4,92,121,2243,Puglia,16
 49,Livorno,2020-11-12,6,112,127,5177,Toscana,9
@@ -23912,7 +23912,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-12,36,1001,1971,54722,Lazio,12
 29,Rovigo,2020-11-12,0,78,118,2399,Veneto,5
 90,Sassari,2020-11-12,0,141,134,5742,Sardegna,20
-9,Savona,2020-11-12,4,203,181,4618,Liguria,7
+9,Savona,2020-11-12,4,215,181,4618,Liguria,7
 52,Siena,2020-11-12,5,49,103,3061,Toscana,9
 89,Siracusa,2020-11-12,0,30,114,2510,Sicilia,19
 111,Sud Sardegna,2020-11-12,0,34,50,2277,Sardegna,20
@@ -23963,13 +23963,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-13,12,310,269,7396,Puglia,16
 40,Forli-Cesena,2020-11-13,0,199,174,5737,Emilia-Romagna,8
 60,Frosinone,2020-11-13,7,78,239,7248,Lazio,12
-10,Genova,2020-11-13,0,0,719,24750,Liguria,7
+10,Genova,2020-11-13,13,347,719,24750,Liguria,7
 31,Gorizia,2020-11-13,0,11,122,2007,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-13,3,34,91,2384,Toscana,9
-8,Imperia,2020-11-13,1,234,119,4297,Liguria,7
+8,Imperia,2020-11-13,1,237,119,4297,Liguria,7
 94,Isernia,2020-11-13,1,15,13,1032,Molise,14
 66,L Aquila,2020-11-13,13,97,195,5432,Abruzzo,13
-11,La Spezia,2020-11-13,0,0,160,5309,Liguria,7
+11,La Spezia,2020-11-13,2,44,160,5309,Liguria,7
 59,Latina,2020-11-13,4,100,20,5632,Lazio,12
 75,Lecce,2020-11-13,0,92,113,2356,Puglia,16
 49,Livorno,2020-11-13,2,114,150,5327,Toscana,9
@@ -24003,7 +24003,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-13,18,1019,2552,57274,Lazio,12
 29,Rovigo,2020-11-13,2,80,95,2494,Veneto,5
 90,Sassari,2020-11-13,7,148,173,5915,Sardegna,20
-9,Savona,2020-11-13,2,205,144,4762,Liguria,7
+9,Savona,2020-11-13,2,217,144,4762,Liguria,7
 52,Siena,2020-11-13,0,49,99,3160,Toscana,9
 89,Siracusa,2020-11-13,0,30,89,2599,Sicilia,19
 111,Sud Sardegna,2020-11-13,4,38,95,2372,Sardegna,20
@@ -24054,13 +24054,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-14,5,315,524,7920,Puglia,16
 40,Forli-Cesena,2020-11-14,0,199,162,5899,Emilia-Romagna,8
 60,Frosinone,2020-11-14,0,78,231,7479,Lazio,12
-10,Genova,2020-11-14,0,0,696,25446,Liguria,7
+10,Genova,2020-11-14,22,369,696,25446,Liguria,7
 31,Gorizia,2020-11-14,0,11,89,2096,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-14,2,36,91,2475,Toscana,9
-8,Imperia,2020-11-14,2,236,125,4422,Liguria,7
+8,Imperia,2020-11-14,2,239,125,4422,Liguria,7
 94,Isernia,2020-11-14,1,16,44,1076,Molise,14
 66,L Aquila,2020-11-14,0,97,374,5806,Abruzzo,13
-11,La Spezia,2020-11-14,0,0,146,5455,Liguria,7
+11,La Spezia,2020-11-14,4,48,146,5455,Liguria,7
 59,Latina,2020-11-14,4,104,185,5817,Lazio,12
 75,Lecce,2020-11-14,0,92,122,2478,Puglia,16
 49,Livorno,2020-11-14,2,116,133,5460,Toscana,9
@@ -24094,7 +24094,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-14,27,1046,2311,59585,Lazio,12
 29,Rovigo,2020-11-14,2,82,111,2605,Veneto,5
 90,Sassari,2020-11-14,0,148,119,6034,Sardegna,20
-9,Savona,2020-11-14,2,207,86,4848,Liguria,7
+9,Savona,2020-11-14,2,219,86,4848,Liguria,7
 52,Siena,2020-11-14,2,51,123,3283,Toscana,9
 89,Siracusa,2020-11-14,0,30,72,2671,Sicilia,19
 111,Sud Sardegna,2020-11-14,0,38,56,2428,Sardegna,20
@@ -24145,13 +24145,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-15,2,317,121,8041,Puglia,16
 40,Forli-Cesena,2020-11-15,0,199,169,6068,Emilia-Romagna,8
 60,Frosinone,2020-11-15,5,83,226,7705,Lazio,12
-10,Genova,2020-11-15,0,0,471,25917,Liguria,7
+10,Genova,2020-11-15,14,383,471,25917,Liguria,7
 31,Gorizia,2020-11-15,0,11,81,2177,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-15,0,36,158,2633,Toscana,9
-8,Imperia,2020-11-15,0,236,106,4528,Liguria,7
+8,Imperia,2020-11-15,0,239,106,4528,Liguria,7
 94,Isernia,2020-11-15,0,16,34,1110,Molise,14
 66,L Aquila,2020-11-15,0,97,183,5989,Abruzzo,13
-11,La Spezia,2020-11-15,0,0,133,5588,Liguria,7
+11,La Spezia,2020-11-15,0,48,133,5588,Liguria,7
 59,Latina,2020-11-15,4,108,175,5992,Lazio,12
 75,Lecce,2020-11-15,0,92,123,2601,Puglia,16
 49,Livorno,2020-11-15,3,119,162,5622,Toscana,9
@@ -24185,7 +24185,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-15,7,1053,1944,61529,Lazio,12
 29,Rovigo,2020-11-15,0,82,79,2684,Veneto,5
 90,Sassari,2020-11-15,0,148,109,6143,Sardegna,20
-9,Savona,2020-11-15,0,207,77,4925,Liguria,7
+9,Savona,2020-11-15,7,226,77,4925,Liguria,7
 52,Siena,2020-11-15,0,51,104,3387,Toscana,9
 89,Siracusa,2020-11-15,0,30,57,2728,Sicilia,19
 111,Sud Sardegna,2020-11-15,0,38,13,2441,Sardegna,20
@@ -24236,13 +24236,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-16,2,319,426,8467,Puglia,16
 40,Forli-Cesena,2020-11-16,0,199,157,6225,Emilia-Romagna,8
 60,Frosinone,2020-11-16,4,87,207,7912,Lazio,12
-10,Genova,2020-11-16,4,4,290,26207,Liguria,7
+10,Genova,2020-11-16,4,387,290,26207,Liguria,7
 31,Gorizia,2020-11-16,6,17,45,2222,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-16,0,36,153,2786,Toscana,9
-8,Imperia,2020-11-16,4,240,24,4552,Liguria,7
+8,Imperia,2020-11-16,4,243,24,4552,Liguria,7
 94,Isernia,2020-11-16,0,16,57,1167,Molise,14
 66,L Aquila,2020-11-16,7,104,244,6233,Abruzzo,13
-11,La Spezia,2020-11-16,0,0,51,5639,Liguria,7
+11,La Spezia,2020-11-16,0,48,51,5639,Liguria,7
 59,Latina,2020-11-16,2,110,243,6235,Lazio,12
 75,Lecce,2020-11-16,3,95,71,2672,Puglia,16
 49,Livorno,2020-11-16,3,122,97,5719,Toscana,9
@@ -24276,7 +24276,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-16,25,1078,1736,63265,Lazio,12
 29,Rovigo,2020-11-16,0,82,57,2741,Veneto,5
 90,Sassari,2020-11-16,0,148,90,6233,Sardegna,20
-9,Savona,2020-11-16,0,207,50,4975,Liguria,7
+9,Savona,2020-11-16,0,226,50,4975,Liguria,7
 52,Siena,2020-11-16,0,51,107,3494,Toscana,9
 89,Siracusa,2020-11-16,0,30,79,2807,Sicilia,19
 111,Sud Sardegna,2020-11-16,0,38,72,2513,Sardegna,20
@@ -24327,13 +24327,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-17,16,335,182,8649,Puglia,16
 40,Forli-Cesena,2020-11-17,0,199,149,6374,Emilia-Romagna,8
 60,Frosinone,2020-11-17,4,91,69,7981,Lazio,12
-10,Genova,2020-11-17,18,22,492,26699,Liguria,7
+10,Genova,2020-11-17,18,405,492,26699,Liguria,7
 31,Gorizia,2020-11-17,0,17,74,2296,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-17,1,37,39,2825,Toscana,9
-8,Imperia,2020-11-17,0,240,88,4640,Liguria,7
+8,Imperia,2020-11-17,0,243,88,4640,Liguria,7
 94,Isernia,2020-11-17,0,16,32,1199,Molise,14
 66,L Aquila,2020-11-17,2,106,221,6454,Abruzzo,13
-11,La Spezia,2020-11-17,2,2,35,5674,Liguria,7
+11,La Spezia,2020-11-17,2,50,35,5674,Liguria,7
 59,Latina,2020-11-17,7,117,464,6699,Lazio,12
 75,Lecce,2020-11-17,0,95,94,2766,Puglia,16
 49,Livorno,2020-11-17,2,124,155,5874,Toscana,9
@@ -24367,7 +24367,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-17,39,1117,1703,64968,Lazio,12
 29,Rovigo,2020-11-17,0,82,86,2827,Veneto,5
 90,Sassari,2020-11-17,7,155,136,6369,Sardegna,20
-9,Savona,2020-11-17,0,207,33,5008,Liguria,7
+9,Savona,2020-11-17,0,226,33,5008,Liguria,7
 52,Siena,2020-11-17,2,53,94,3588,Toscana,9
 89,Siracusa,2020-11-17,0,30,48,2855,Sicilia,19
 111,Sud Sardegna,2020-11-17,1,39,73,2586,Sardegna,20
@@ -24418,13 +24418,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-18,1,336,228,8877,Puglia,16
 40,Forli-Cesena,2020-11-18,0,199,149,6523,Emilia-Romagna,8
 60,Frosinone,2020-11-18,2,93,10,7991,Lazio,12
-10,Genova,2020-11-18,12,34,335,27034,Liguria,7
+10,Genova,2020-11-18,12,417,335,27034,Liguria,7
 31,Gorizia,2020-11-18,0,17,117,2413,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-18,3,40,81,2906,Toscana,9
-8,Imperia,2020-11-18,0,240,101,4741,Liguria,7
+8,Imperia,2020-11-18,0,243,101,4741,Liguria,7
 94,Isernia,2020-11-18,2,18,32,1231,Molise,14
 66,L Aquila,2020-11-18,6,112,260,6714,Abruzzo,13
-11,La Spezia,2020-11-18,0,2,191,5865,Liguria,7
+11,La Spezia,2020-11-18,0,50,191,5865,Liguria,7
 59,Latina,2020-11-18,3,120,5,6704,Lazio,12
 75,Lecce,2020-11-18,5,100,97,2863,Puglia,16
 49,Livorno,2020-11-18,0,124,169,6043,Toscana,9
@@ -24458,7 +24458,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-18,64,1181,2393,67361,Lazio,12
 29,Rovigo,2020-11-18,1,83,75,2902,Veneto,5
 90,Sassari,2020-11-18,3,158,112,6481,Sardegna,20
-9,Savona,2020-11-18,3,210,109,5117,Liguria,7
+9,Savona,2020-11-18,3,229,109,5117,Liguria,7
 52,Siena,2020-11-18,0,53,51,3639,Toscana,9
 89,Siracusa,2020-11-18,0,30,77,2932,Sicilia,19
 111,Sud Sardegna,2020-11-18,1,40,41,2627,Sardegna,20
@@ -24509,13 +24509,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-19,4,340,154,9031,Puglia,16
 40,Forli-Cesena,2020-11-19,0,199,115,6638,Emilia-Romagna,8
 60,Frosinone,2020-11-19,0,93,39,8030,Lazio,12
-10,Genova,2020-11-19,14,48,458,27492,Liguria,7
+10,Genova,2020-11-19,14,431,458,27492,Liguria,7
 31,Gorizia,2020-11-19,0,17,182,2595,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-19,0,40,110,3016,Toscana,9
-8,Imperia,2020-11-19,1,241,104,4845,Liguria,7
+8,Imperia,2020-11-19,1,244,104,4845,Liguria,7
 94,Isernia,2020-11-19,1,19,59,1290,Molise,14
 66,L Aquila,2020-11-19,5,117,372,7086,Abruzzo,13
-11,La Spezia,2020-11-19,0,2,111,5976,Liguria,7
+11,La Spezia,2020-11-19,0,50,111,5976,Liguria,7
 59,Latina,2020-11-19,3,123,10,6714,Lazio,12
 75,Lecce,2020-11-19,6,106,98,2961,Puglia,16
 49,Livorno,2020-11-19,3,127,164,6207,Toscana,9
@@ -24549,7 +24549,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-19,48,1229,2510,69871,Lazio,12
 29,Rovigo,2020-11-19,0,83,54,2956,Veneto,5
 90,Sassari,2020-11-19,9,167,78,6559,Sardegna,20
-9,Savona,2020-11-19,0,210,87,5204,Liguria,7
+9,Savona,2020-11-19,0,229,87,5204,Liguria,7
 52,Siena,2020-11-19,3,56,81,3720,Toscana,9
 89,Siracusa,2020-11-19,0,30,77,3009,Sicilia,19
 111,Sud Sardegna,2020-11-19,1,41,81,2708,Sardegna,20
@@ -24600,13 +24600,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-20,1,341,405,9436,Puglia,16
 40,Forli-Cesena,2020-11-20,1,200,130,6768,Emilia-Romagna,8
 60,Frosinone,2020-11-20,5,98,544,8574,Lazio,12
-10,Genova,2020-11-20,13,61,451,27943,Liguria,7
+10,Genova,2020-11-20,13,444,451,27943,Liguria,7
 31,Gorizia,2020-11-20,0,17,124,2719,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-20,1,41,114,3130,Toscana,9
-8,Imperia,2020-11-20,5,246,89,4934,Liguria,7
+8,Imperia,2020-11-20,5,249,89,4934,Liguria,7
 94,Isernia,2020-11-20,4,23,29,1319,Molise,14
 66,L Aquila,2020-11-20,5,122,301,7387,Abruzzo,13
-11,La Spezia,2020-11-20,0,2,83,6059,Liguria,7
+11,La Spezia,2020-11-20,0,50,83,6059,Liguria,7
 59,Latina,2020-11-20,6,129,512,7226,Lazio,12
 75,Lecce,2020-11-20,1,107,175,3136,Puglia,16
 49,Livorno,2020-11-20,1,128,145,6352,Toscana,9
@@ -24640,7 +24640,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-20,27,1256,1420,71291,Lazio,12
 29,Rovigo,2020-11-20,1,84,133,3089,Veneto,5
 90,Sassari,2020-11-20,3,170,130,6689,Sardegna,20
-9,Savona,2020-11-20,6,216,111,5315,Liguria,7
+9,Savona,2020-11-20,6,235,111,5315,Liguria,7
 52,Siena,2020-11-20,0,56,94,3814,Toscana,9
 89,Siracusa,2020-11-20,0,30,25,3034,Sicilia,19
 111,Sud Sardegna,2020-11-20,0,41,114,2822,Sardegna,20
@@ -24691,13 +24691,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-21,5,346,335,9771,Puglia,16
 40,Forli-Cesena,2020-11-21,0,200,169,6937,Emilia-Romagna,8
 60,Frosinone,2020-11-21,3,101,225,8799,Lazio,12
-10,Genova,2020-11-21,9,70,438,28381,Liguria,7
+10,Genova,2020-11-21,9,453,438,28381,Liguria,7
 31,Gorizia,2020-11-21,0,17,186,2905,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-21,2,43,100,3230,Toscana,9
-8,Imperia,2020-11-21,0,246,125,5059,Liguria,7
+8,Imperia,2020-11-21,0,249,125,5059,Liguria,7
 94,Isernia,2020-11-21,1,24,82,1401,Molise,14
 66,L Aquila,2020-11-21,0,122,179,7566,Abruzzo,13
-11,La Spezia,2020-11-21,0,2,114,6173,Liguria,7
+11,La Spezia,2020-11-21,0,50,114,6173,Liguria,7
 59,Latina,2020-11-21,1,130,296,7522,Lazio,12
 75,Lecce,2020-11-21,2,109,101,3237,Puglia,16
 49,Livorno,2020-11-21,5,133,174,6526,Toscana,9
@@ -24731,7 +24731,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-21,27,1283,1932,73223,Lazio,12
 29,Rovigo,2020-11-21,0,84,109,3198,Veneto,5
 90,Sassari,2020-11-21,3,173,185,6874,Sardegna,20
-9,Savona,2020-11-21,0,216,55,5370,Liguria,7
+9,Savona,2020-11-21,0,235,55,5370,Liguria,7
 52,Siena,2020-11-21,1,57,62,3876,Toscana,9
 89,Siracusa,2020-11-21,0,30,126,3160,Sicilia,19
 111,Sud Sardegna,2020-11-21,2,43,39,2861,Sardegna,20
@@ -24782,13 +24782,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-22,1,347,397,10168,Puglia,16
 40,Forli-Cesena,2020-11-22,0,200,195,7132,Emilia-Romagna,8
 60,Frosinone,2020-11-22,3,104,3,8802,Lazio,12
-10,Genova,2020-11-22,1,71,334,28715,Liguria,7
+10,Genova,2020-11-22,1,454,334,28715,Liguria,7
 31,Gorizia,2020-11-22,0,17,103,3008,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-22,0,43,58,3288,Toscana,9
-8,Imperia,2020-11-22,3,249,65,5124,Liguria,7
+8,Imperia,2020-11-22,3,252,65,5124,Liguria,7
 94,Isernia,2020-11-22,1,25,17,1418,Molise,14
 66,L Aquila,2020-11-22,0,122,222,7788,Abruzzo,13
-11,La Spezia,2020-11-22,0,2,129,6302,Liguria,7
+11,La Spezia,2020-11-22,0,50,129,6302,Liguria,7
 59,Latina,2020-11-22,4,134,198,7720,Lazio,12
 75,Lecce,2020-11-22,3,112,151,3388,Puglia,16
 49,Livorno,2020-11-22,2,135,115,6641,Toscana,9
@@ -24822,7 +24822,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-22,9,1292,2292,75515,Lazio,12
 29,Rovigo,2020-11-22,0,84,85,3283,Veneto,5
 90,Sassari,2020-11-22,5,178,134,7008,Sardegna,20
-9,Savona,2020-11-22,0,216,61,5431,Liguria,7
+9,Savona,2020-11-22,0,235,61,5431,Liguria,7
 52,Siena,2020-11-22,2,59,60,3936,Toscana,9
 89,Siracusa,2020-11-22,0,30,83,3243,Sicilia,19
 111,Sud Sardegna,2020-11-22,3,46,62,2923,Sardegna,20
@@ -24873,13 +24873,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-23,18,365,168,10336,Puglia,16
 40,Forli-Cesena,2020-11-23,2,202,154,7286,Emilia-Romagna,8
 60,Frosinone,2020-11-23,2,106,163,8965,Lazio,12
-10,Genova,2020-11-23,5,76,185,28900,Liguria,7
+10,Genova,2020-11-23,5,459,185,28900,Liguria,7
 31,Gorizia,2020-11-23,4,21,27,3035,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-23,0,43,75,3363,Toscana,9
-8,Imperia,2020-11-23,4,253,16,5140,Liguria,7
+8,Imperia,2020-11-23,4,256,16,5140,Liguria,7
 94,Isernia,2020-11-23,0,25,30,1448,Molise,14
 66,L Aquila,2020-11-23,8,130,206,7994,Abruzzo,13
-11,La Spezia,2020-11-23,0,2,33,6335,Liguria,7
+11,La Spezia,2020-11-23,0,50,33,6335,Liguria,7
 59,Latina,2020-11-23,4,138,24,7744,Lazio,12
 75,Lecce,2020-11-23,1,113,16,3404,Puglia,16
 49,Livorno,2020-11-23,4,139,104,6745,Toscana,9
@@ -24913,7 +24913,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-23,35,1327,1969,77484,Lazio,12
 29,Rovigo,2020-11-23,0,84,64,3347,Veneto,5
 90,Sassari,2020-11-23,1,179,137,7145,Sardegna,20
-9,Savona,2020-11-23,0,216,28,5459,Liguria,7
+9,Savona,2020-11-23,0,235,28,5459,Liguria,7
 52,Siena,2020-11-23,1,60,37,3973,Toscana,9
 89,Siracusa,2020-11-23,0,30,101,3344,Sicilia,19
 111,Sud Sardegna,2020-11-23,3,49,125,3048,Sardegna,20
@@ -24964,13 +24964,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-24,3,368,407,10743,Puglia,16
 40,Forli-Cesena,2020-11-24,2,204,204,7490,Emilia-Romagna,8
 60,Frosinone,2020-11-24,6,112,38,9003,Lazio,12
-10,Genova,2020-11-24,19,95,313,29213,Liguria,7
+10,Genova,2020-11-24,19,478,313,29213,Liguria,7
 31,Gorizia,2020-11-24,4,25,28,3063,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-24,4,47,22,3385,Toscana,9
-8,Imperia,2020-11-24,1,254,51,5191,Liguria,7
+8,Imperia,2020-11-24,1,257,51,5191,Liguria,7
 94,Isernia,2020-11-24,2,27,36,1484,Molise,14
 66,L Aquila,2020-11-24,12,142,129,8123,Abruzzo,13
-11,La Spezia,2020-11-24,0,2,63,6398,Liguria,7
+11,La Spezia,2020-11-24,0,50,63,6398,Liguria,7
 59,Latina,2020-11-24,3,141,11,7755,Lazio,12
 75,Lecce,2020-11-24,9,122,109,3513,Puglia,16
 49,Livorno,2020-11-24,4,143,57,6802,Toscana,9
@@ -25004,7 +25004,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-24,52,1379,2407,79891,Lazio,12
 29,Rovigo,2020-11-24,1,85,87,3434,Veneto,5
 90,Sassari,2020-11-24,4,183,97,7242,Sardegna,20
-9,Savona,2020-11-24,5,221,45,5504,Liguria,7
+9,Savona,2020-11-24,5,240,45,5504,Liguria,7
 52,Siena,2020-11-24,2,62,25,3998,Toscana,9
 89,Siracusa,2020-11-24,0,30,95,3439,Sicilia,19
 111,Sud Sardegna,2020-11-24,5,54,49,3097,Sardegna,20
@@ -25055,13 +25055,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-25,1,369,308,11051,Puglia,16
 40,Forli-Cesena,2020-11-25,0,204,185,7675,Emilia-Romagna,8
 60,Frosinone,2020-11-25,6,118,546,9549,Lazio,12
-10,Genova,2020-11-25,21,116,232,29445,Liguria,7
+10,Genova,2020-11-25,21,499,232,29445,Liguria,7
 31,Gorizia,2020-11-25,0,25,122,3185,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-25,2,49,59,3444,Toscana,9
-8,Imperia,2020-11-25,0,254,71,5262,Liguria,7
+8,Imperia,2020-11-25,0,257,71,5262,Liguria,7
 94,Isernia,2020-11-25,2,29,43,1527,Molise,14
 66,L Aquila,2020-11-25,4,146,111,8234,Abruzzo,13
-11,La Spezia,2020-11-25,0,2,86,6484,Liguria,7
+11,La Spezia,2020-11-25,0,50,86,6484,Liguria,7
 59,Latina,2020-11-25,5,146,281,8036,Lazio,12
 75,Lecce,2020-11-25,7,129,104,3617,Puglia,16
 49,Livorno,2020-11-25,5,148,83,6885,Toscana,9
@@ -25095,7 +25095,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-25,40,1419,788,80679,Lazio,12
 29,Rovigo,2020-11-25,0,85,113,3547,Veneto,5
 90,Sassari,2020-11-25,1,184,91,7333,Sardegna,20
-9,Savona,2020-11-25,0,221,40,5544,Liguria,7
+9,Savona,2020-11-25,0,240,40,5544,Liguria,7
 52,Siena,2020-11-25,0,62,22,4020,Toscana,9
 89,Siracusa,2020-11-25,0,30,65,3504,Sicilia,19
 111,Sud Sardegna,2020-11-25,2,56,42,3139,Sardegna,20
@@ -25146,13 +25146,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-26,5,374,163,11214,Puglia,16
 40,Forli-Cesena,2020-11-26,0,204,243,7918,Emilia-Romagna,8
 60,Frosinone,2020-11-26,7,125,35,9584,Lazio,12
-10,Genova,2020-11-26,5,121,351,29796,Liguria,7
+10,Genova,2020-11-26,5,504,351,29796,Liguria,7
 31,Gorizia,2020-11-26,0,25,138,3323,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-26,2,51,48,3492,Toscana,9
-8,Imperia,2020-11-26,2,256,70,5332,Liguria,7
+8,Imperia,2020-11-26,2,259,70,5332,Liguria,7
 94,Isernia,2020-11-26,1,30,28,1555,Molise,14
 66,L Aquila,2020-11-26,13,159,141,8375,Abruzzo,13
-11,La Spezia,2020-11-26,0,2,46,6530,Liguria,7
+11,La Spezia,2020-11-26,0,50,46,6530,Liguria,7
 59,Latina,2020-11-26,4,150,4,8040,Lazio,12
 75,Lecce,2020-11-26,0,129,111,3728,Puglia,16
 49,Livorno,2020-11-26,10,158,108,6993,Toscana,9
@@ -25186,7 +25186,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-26,46,1465,2170,82849,Lazio,12
 29,Rovigo,2020-11-26,0,85,102,3649,Veneto,5
 90,Sassari,2020-11-26,5,189,70,7403,Sardegna,20
-9,Savona,2020-11-26,6,227,86,5630,Liguria,7
+9,Savona,2020-11-26,6,246,86,5630,Liguria,7
 52,Siena,2020-11-26,2,64,39,4059,Toscana,9
 89,Siracusa,2020-11-26,0,30,82,3586,Sicilia,19
 111,Sud Sardegna,2020-11-26,0,56,96,3235,Sardegna,20
@@ -25237,13 +25237,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-27,15,389,345,11559,Puglia,16
 40,Forli-Cesena,2020-11-27,1,205,122,8040,Emilia-Romagna,8
 60,Frosinone,2020-11-27,3,128,96,9680,Lazio,12
-10,Genova,2020-11-27,11,132,341,30137,Liguria,7
+10,Genova,2020-11-27,11,515,341,30137,Liguria,7
 31,Gorizia,2020-11-27,2,27,190,3513,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-27,1,52,39,3531,Toscana,9
-8,Imperia,2020-11-27,1,257,41,5373,Liguria,7
+8,Imperia,2020-11-27,1,260,41,5373,Liguria,7
 94,Isernia,2020-11-27,2,32,28,1583,Molise,14
 66,L Aquila,2020-11-27,9,168,258,8633,Abruzzo,13
-11,La Spezia,2020-11-27,0,2,124,6654,Liguria,7
+11,La Spezia,2020-11-27,0,50,124,6654,Liguria,7
 59,Latina,2020-11-27,3,153,13,8053,Lazio,12
 75,Lecce,2020-11-27,8,137,137,3865,Puglia,16
 49,Livorno,2020-11-27,9,167,75,7068,Toscana,9
@@ -25277,7 +25277,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-27,60,1525,2141,84990,Lazio,12
 29,Rovigo,2020-11-27,1,86,64,3713,Veneto,5
 90,Sassari,2020-11-27,3,192,97,7500,Sardegna,20
-9,Savona,2020-11-27,0,227,93,5723,Liguria,7
+9,Savona,2020-11-27,0,246,93,5723,Liguria,7
 52,Siena,2020-11-27,3,67,22,4081,Toscana,9
 89,Siracusa,2020-11-27,0,30,84,3670,Sicilia,19
 111,Sud Sardegna,2020-11-27,0,56,27,3262,Sardegna,20
@@ -25328,13 +25328,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-28,5,394,384,11943,Puglia,16
 40,Forli-Cesena,2020-11-28,23,228,168,8208,Emilia-Romagna,8
 60,Frosinone,2020-11-28,3,131,86,9766,Lazio,12
-10,Genova,2020-11-28,13,145,246,30383,Liguria,7
+10,Genova,2020-11-28,13,528,246,30383,Liguria,7
 31,Gorizia,2020-11-28,7,34,105,3618,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-28,1,53,44,3575,Toscana,9
-8,Imperia,2020-11-28,0,257,47,5420,Liguria,7
+8,Imperia,2020-11-28,0,260,47,5420,Liguria,7
 94,Isernia,2020-11-28,1,33,59,1642,Molise,14
 66,L Aquila,2020-11-28,0,168,120,8753,Abruzzo,13
-11,La Spezia,2020-11-28,0,2,77,6731,Liguria,7
+11,La Spezia,2020-11-28,0,50,77,6731,Liguria,7
 59,Latina,2020-11-28,3,156,17,8070,Lazio,12
 75,Lecce,2020-11-28,0,137,135,4000,Puglia,16
 49,Livorno,2020-11-28,7,174,66,7134,Toscana,9
@@ -25368,7 +25368,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-28,12,1537,1854,86844,Lazio,12
 29,Rovigo,2020-11-28,1,87,61,3774,Veneto,5
 90,Sassari,2020-11-28,3,195,153,7653,Sardegna,20
-9,Savona,2020-11-28,5,232,61,5784,Liguria,7
+9,Savona,2020-11-28,5,251,61,5784,Liguria,7
 52,Siena,2020-11-28,5,72,75,4156,Toscana,9
 89,Siracusa,2020-11-28,0,30,76,3746,Sicilia,19
 111,Sud Sardegna,2020-11-28,1,57,39,3301,Sardegna,20
@@ -25419,13 +25419,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-29,3,397,448,12391,Puglia,16
 40,Forli-Cesena,2020-11-29,0,228,104,8312,Emilia-Romagna,8
 60,Frosinone,2020-11-29,3,134,5,9771,Lazio,12
-10,Genova,2020-11-29,1,146,209,30592,Liguria,7
+10,Genova,2020-11-29,1,529,209,30592,Liguria,7
 31,Gorizia,2020-11-29,2,36,65,3683,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-29,0,53,40,3615,Toscana,9
-8,Imperia,2020-11-29,5,262,69,5489,Liguria,7
+8,Imperia,2020-11-29,5,265,69,5489,Liguria,7
 94,Isernia,2020-11-29,0,33,19,1661,Molise,14
 66,L Aquila,2020-11-29,0,168,99,8852,Abruzzo,13
-11,La Spezia,2020-11-29,0,2,67,6798,Liguria,7
+11,La Spezia,2020-11-29,0,50,67,6798,Liguria,7
 59,Latina,2020-11-29,0,156,5,8075,Lazio,12
 75,Lecce,2020-11-29,0,137,54,4054,Puglia,16
 49,Livorno,2020-11-29,2,176,57,7191,Toscana,9
@@ -25459,7 +25459,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-29,5,1542,1980,88824,Lazio,12
 29,Rovigo,2020-11-29,2,89,63,3837,Veneto,5
 90,Sassari,2020-11-29,1,196,132,7785,Sardegna,20
-9,Savona,2020-11-29,0,232,76,5860,Liguria,7
+9,Savona,2020-11-29,0,251,76,5860,Liguria,7
 52,Siena,2020-11-29,2,74,14,4170,Toscana,9
 89,Siracusa,2020-11-29,0,30,55,3801,Sicilia,19
 111,Sud Sardegna,2020-11-29,0,57,8,3309,Sardegna,20
@@ -25510,13 +25510,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 71,Foggia,2020-11-30,3,400,198,12589,Puglia,16
 40,Forli-Cesena,2020-11-30,3,231,107,8419,Emilia-Romagna,8
 60,Frosinone,2020-11-30,4,138,158,9929,Lazio,12
-10,Genova,2020-11-30,1,147,169,30761,Liguria,7
+10,Genova,2020-11-30,1,530,169,30761,Liguria,7
 31,Gorizia,2020-11-30,1,37,50,3733,Friuli Venezia Giulia,6
 53,Grosseto,2020-11-30,7,60,16,3631,Toscana,9
-8,Imperia,2020-11-30,0,262,2,5491,Liguria,7
+8,Imperia,2020-11-30,0,265,2,5491,Liguria,7
 94,Isernia,2020-11-30,0,33,43,1704,Molise,14
 66,L Aquila,2020-11-30,2,170,115,8967,Abruzzo,13
-11,La Spezia,2020-11-30,1,3,21,6819,Liguria,7
+11,La Spezia,2020-11-30,1,51,21,6819,Liguria,7
 59,Latina,2020-11-30,6,162,1409,9484,Lazio,12
 75,Lecce,2020-11-30,0,137,65,4119,Puglia,16
 49,Livorno,2020-11-30,2,178,41,7232,Toscana,9
@@ -25550,7 +25550,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 58,Roma,2020-11-30,23,1565,-83,88741,Lazio,12
 29,Rovigo,2020-11-30,2,91,53,3890,Veneto,5
 90,Sassari,2020-11-30,1,197,93,7878,Sardegna,20
-9,Savona,2020-11-30,1,233,40,5900,Liguria,7
+9,Savona,2020-11-30,1,252,40,5900,Liguria,7
 52,Siena,2020-11-30,1,75,26,4196,Toscana,9
 89,Siracusa,2020-11-30,0,30,30,3831,Sicilia,19
 111,Sud Sardegna,2020-11-30,2,59,63,3372,Sardegna,20
@@ -25572,10 +25572,10 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 56,Viterbo,2020-11-30,3,151,73,6967,Lazio,12
 84,Agrigento,2020-12-01,0,8,49,2962,Sicilia,19
 6,Alessandria,2020-12-01,9,946,128,14615,Piemonte,1
-42,Ancona,2020-12-01,0,346,51,8774,Marche,11
+42,Ancona,2020-12-01,2,348,51,8774,Marche,11
 7,Aosta,2020-12-01,2,309,25,6453,Valle d'Aosta,2
 51,Arezzo,2020-12-01,1,123,39,9531,Toscana,9
-44,Ascoli Piceno,2020-12-01,0,95,151,4046,Marche,11
+44,Ascoli Piceno,2020-12-01,3,98,151,4046,Marche,11
 5,Asti,2020-12-01,6,374,62,7831,Piemonte,1
 72,Bari,2020-12-01,14,446,577,21416,Puglia,16
 110,Barletta-Andria-Trani,2020-12-01,7,173,176,6362,Puglia,16
@@ -25586,45 +25586,45 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 74,Brindisi,2020-12-01,0,128,96,3915,Puglia,16
 92,Cagliari,2020-12-01,0,108,85,4581,Sardegna,20
 85,Caltanissetta,2020-12-01,0,17,78,2728,Sicilia,19
-70,Campobasso,2020-12-01,0,52,49,3012,Molise,14
+70,Campobasso,2020-12-01,5,57,49,3012,Molise,14
 87,Catania,2020-12-01,0,114,614,17425,Sicilia,19
 79,Catanzaro,2020-12-01,1,64,28,2443,Calabria,18
-69,Chieti,2020-12-01,0,155,87,5450,Abruzzo,13
+69,Chieti,2020-12-01,1,156,87,5450,Abruzzo,13
 78,Cosenza,2020-12-01,4,123,165,5237,Calabria,18
 19,Cremona,2020-12-01,0,1132,41,12861,Lombardia,3
 101,Crotone,2020-12-01,1,14,0,1562,Calabria,18
 4,Cuneo,2020-12-01,6,697,345,23325,Piemonte,1
 86,Enna,2020-12-01,0,29,4,2453,Sicilia,19
-109,Fermo,2020-12-01,0,77,6,3423,Marche,11
+109,Fermo,2020-12-01,1,78,6,3423,Marche,11
 38,Ferrara,2020-12-01,9,265,77,6124,Emilia-Romagna,8
 48,Firenze,2020-12-01,5,964,149,29202,Toscana,9
 71,Foggia,2020-12-01,2,402,567,13156,Puglia,16
 40,Forli-Cesena,2020-12-01,3,234,134,8553,Emilia-Romagna,8
 60,Frosinone,2020-12-01,7,145,509,10438,Lazio,12
-10,Genova,2020-12-01,0,147,198,30959,Liguria,7
+10,Genova,2020-12-01,9,539,198,30959,Liguria,7
 31,Gorizia,2020-12-01,2,39,70,3803,Friuli Venezia Giulia,6
 53,Grosseto,2020-12-01,1,61,19,3650,Toscana,9
-8,Imperia,2020-12-01,0,262,58,5549,Liguria,7
-94,Isernia,2020-12-01,0,33,9,1713,Molise,14
-66,L Aquila,2020-12-01,0,170,244,9211,Abruzzo,13
-11,La Spezia,2020-12-01,0,3,35,6854,Liguria,7
+8,Imperia,2020-12-01,2,267,58,5549,Liguria,7
+94,Isernia,2020-12-01,2,35,9,1713,Molise,14
+66,L Aquila,2020-12-01,11,181,244,9211,Abruzzo,13
+11,La Spezia,2020-12-01,4,55,35,6854,Liguria,7
 59,Latina,2020-12-01,6,168,237,9721,Lazio,12
 75,Lecce,2020-12-01,6,143,78,4197,Puglia,16
 49,Livorno,2020-12-01,4,182,59,7291,Toscana,9
 46,Lucca,2020-12-01,0,256,73,10480,Toscana,9
-43,Macerata,2020-12-01,0,186,26,6720,Marche,11
+43,Macerata,2020-12-01,2,188,26,6720,Marche,11
 45,Massa Carrara,2020-12-01,9,310,42,6558,Toscana,9
 77,Matera,2020-12-01,0,41,37,2914,Basilicata,17
 83,Messina,2020-12-01,0,61,86,6247,Sicilia,19
 36,Modena,2020-12-01,8,788,346,22299,Emilia-Romagna,8
 3,Novara,2020-12-01,5,555,99,13002,Piemonte,1
-91,Nuoro,2020-12-01,0,22,77,4033,Sardegna,20
-95,Oristano,2020-12-01,0,21,10,1783,Sardegna,20
+91,Nuoro,2020-12-01,2,24,77,4033,Sardegna,20
+95,Oristano,2020-12-01,1,22,10,1783,Sardegna,20
 28,Padova,2020-12-01,0,280,398,28069,Veneto,5
 82,Palermo,2020-12-01,0,76,357,19040,Sicilia,19
 34,Parma,2020-12-01,5,879,133,10245,Emilia-Romagna,8
 54,Perugia,2020-12-01,8,244,114,17607,Umbria,10
-41,Pesaro e Urbino,2020-12-01,0,526,93,6187,Marche,11
+41,Pesaro e Urbino,2020-12-01,5,531,93,6187,Marche,11
 68,Pescara,2020-12-01,0,271,40,5714,Abruzzo,13
 33,Piacenza,2020-12-01,8,1081,124,12070,Emilia-Romagna,8
 50,Pisa,2020-12-01,4,282,133,14396,Toscana,9
@@ -25640,13 +25640,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 99,Rimini,2020-12-01,3,351,118,9883,Emilia-Romagna,8
 58,Roma,2020-12-01,46,1611,685,89426,Lazio,12
 29,Rovigo,2020-12-01,0,91,99,3989,Veneto,5
-90,Sassari,2020-12-01,0,197,153,8031,Sardegna,20
-9,Savona,2020-12-01,0,233,35,5935,Liguria,7
+90,Sassari,2020-12-01,2,199,153,8031,Sardegna,20
+9,Savona,2020-12-01,2,254,35,5935,Liguria,7
 52,Siena,2020-12-01,3,78,9,4205,Toscana,9
 89,Siracusa,2020-12-01,0,30,87,3918,Sicilia,19
 111,Sud Sardegna,2020-12-01,0,59,95,3467,Sardegna,20
 73,Taranto,2020-12-01,5,208,159,6567,Puglia,16
-67,Teramo,2020-12-01,0,142,48,7590,Abruzzo,13
+67,Teramo,2020-12-01,1,143,48,7590,Abruzzo,13
 55,Terni,2020-12-01,0,113,30,5328,Umbria,10
 1,Torino,2020-12-01,33,2872,864,90098,Piemonte,1
 81,Trapani,2020-12-01,0,12,69,4558,Sicilia,19
@@ -25662,93 +25662,183 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 24,Vicenza,2020-12-01,0,496,398,26360,Veneto,5
 56,Viterbo,2020-12-01,2,153,50,7017,Lazio,12
 84,Agrigento,2020-12-02,0,8,0,2962,Sicilia,19
-6,Alessandria,2020-12-02,0,946,188,14803,Piemonte,1
-42,Ancona,2020-12-02,0,346,100,8874,Marche,11
+6,Alessandria,2020-12-02,4,950,188,14803,Piemonte,1
+42,Ancona,2020-12-02,0,348,100,8874,Marche,11
 7,Aosta,2020-12-02,5,314,40,6493,Valle d'Aosta,2
-51,Arezzo,2020-12-02,0,123,38,9569,Toscana,9
-44,Ascoli Piceno,2020-12-02,0,95,50,4096,Marche,11
-5,Asti,2020-12-02,0,374,92,7923,Piemonte,1
+51,Arezzo,2020-12-02,2,125,38,9569,Toscana,9
+44,Ascoli Piceno,2020-12-02,0,98,50,4096,Marche,11
+5,Asti,2020-12-02,7,381,92,7923,Piemonte,1
 72,Bari,2020-12-02,0,446,878,22294,Puglia,16
 110,Barletta-Andria-Trani,2020-12-02,0,173,206,6568,Puglia,16
-25,Belluno,2020-12-02,0,265,119,8843,Veneto,5
-96,Biella,2020-12-02,0,286,49,5903,Piemonte,1
+25,Belluno,2020-12-02,5,270,119,8843,Veneto,5
+96,Biella,2020-12-02,3,289,49,5903,Piemonte,1
 37,Bologna,2020-12-02,0,1040,351,27267,Emilia-Romagna,8
 21,Bolzano,2020-12-02,8,535,317,24188,P.A. Bolzano,21
 74,Brindisi,2020-12-02,0,128,87,4002,Puglia,16
 92,Cagliari,2020-12-02,0,108,47,4628,Sardegna,20
 85,Caltanissetta,2020-12-02,0,17,52,2780,Sicilia,19
-70,Campobasso,2020-12-02,0,52,46,3058,Molise,14
+70,Campobasso,2020-12-02,0,57,46,3058,Molise,14
 87,Catania,2020-12-02,0,114,621,18046,Sicilia,19
 79,Catanzaro,2020-12-02,0,64,42,2485,Calabria,18
-69,Chieti,2020-12-02,0,155,63,5513,Abruzzo,13
+69,Chieti,2020-12-02,0,156,63,5513,Abruzzo,13
 78,Cosenza,2020-12-02,0,123,164,5401,Calabria,18
 19,Cremona,2020-12-02,0,1132,126,12987,Lombardia,3
 101,Crotone,2020-12-02,0,14,28,1590,Calabria,18
-4,Cuneo,2020-12-02,0,697,229,23554,Piemonte,1
+4,Cuneo,2020-12-02,5,702,229,23554,Piemonte,1
 86,Enna,2020-12-02,0,29,6,2459,Sicilia,19
-109,Fermo,2020-12-02,0,77,57,3480,Marche,11
+109,Fermo,2020-12-02,0,78,57,3480,Marche,11
 38,Ferrara,2020-12-02,0,265,120,6244,Emilia-Romagna,8
-48,Firenze,2020-12-02,0,964,234,29436,Toscana,9
+48,Firenze,2020-12-02,21,985,234,29436,Toscana,9
 71,Foggia,2020-12-02,0,402,208,13364,Puglia,16
 40,Forli-Cesena,2020-12-02,0,234,97,8650,Emilia-Romagna,8
-60,Frosinone,2020-12-02,0,145,88,10526,Lazio,12
-10,Genova,2020-12-02,0,147,169,31128,Liguria,7
-31,Gorizia,2020-12-02,0,39,144,3947,Friuli Venezia Giulia,6
+60,Frosinone,2020-12-02,3,148,88,10526,Lazio,12
+10,Genova,2020-12-02,13,552,169,31128,Liguria,7
+31,Gorizia,2020-12-02,5,44,144,3947,Friuli Venezia Giulia,6
 53,Grosseto,2020-12-02,0,61,37,3687,Toscana,9
-8,Imperia,2020-12-02,0,262,43,5592,Liguria,7
-94,Isernia,2020-12-02,0,33,50,1763,Molise,14
-66,L Aquila,2020-12-02,0,170,139,9350,Abruzzo,13
-11,La Spezia,2020-12-02,0,3,64,6918,Liguria,7
-59,Latina,2020-12-02,0,168,127,9848,Lazio,12
+8,Imperia,2020-12-02,0,267,43,5592,Liguria,7
+94,Isernia,2020-12-02,0,35,50,1763,Molise,14
+66,L Aquila,2020-12-02,0,181,139,9350,Abruzzo,13
+11,La Spezia,2020-12-02,4,59,64,6918,Liguria,7
+59,Latina,2020-12-02,4,172,127,9848,Lazio,12
 75,Lecce,2020-12-02,0,143,98,4295,Puglia,16
-49,Livorno,2020-12-02,0,182,41,7332,Toscana,9
+49,Livorno,2020-12-02,7,189,41,7332,Toscana,9
 46,Lucca,2020-12-02,0,256,68,10548,Toscana,9
-43,Macerata,2020-12-02,0,186,98,6818,Marche,11
-45,Massa Carrara,2020-12-02,0,310,27,6585,Toscana,9
+43,Macerata,2020-12-02,0,188,98,6818,Marche,11
+45,Massa Carrara,2020-12-02,2,312,27,6585,Toscana,9
 77,Matera,2020-12-02,0,41,26,2940,Basilicata,17
 83,Messina,2020-12-02,0,61,242,6489,Sicilia,19
 36,Modena,2020-12-02,0,788,179,22478,Emilia-Romagna,8
-3,Novara,2020-12-02,0,555,147,13149,Piemonte,1
-91,Nuoro,2020-12-02,0,22,95,4128,Sardegna,20
-95,Oristano,2020-12-02,0,21,26,1809,Sardegna,20
-28,Padova,2020-12-02,0,280,524,28593,Veneto,5
+3,Novara,2020-12-02,6,561,147,13149,Piemonte,1
+91,Nuoro,2020-12-02,0,24,95,4128,Sardegna,20
+95,Oristano,2020-12-02,0,22,26,1809,Sardegna,20
+28,Padova,2020-12-02,4,284,524,28593,Veneto,5
 82,Palermo,2020-12-02,0,76,390,19430,Sicilia,19
 34,Parma,2020-12-02,0,879,37,10282,Emilia-Romagna,8
-54,Perugia,2020-12-02,0,244,207,17814,Umbria,10
-41,Pesaro e Urbino,2020-12-02,0,526,108,6295,Marche,11
+54,Perugia,2020-12-02,8,252,207,17814,Umbria,10
+41,Pesaro e Urbino,2020-12-02,0,531,108,6295,Marche,11
 68,Pescara,2020-12-02,0,271,53,5767,Abruzzo,13
 33,Piacenza,2020-12-02,0,1081,117,12187,Emilia-Romagna,8
-50,Pisa,2020-12-02,0,282,96,14492,Toscana,9
-47,Pistoia,2020-12-02,0,203,108,9206,Toscana,9
-93,Pordenone,2020-12-02,0,164,221,6120,Friuli Venezia Giulia,6
+50,Pisa,2020-12-02,4,286,96,14492,Toscana,9
+47,Pistoia,2020-12-02,2,205,108,9206,Toscana,9
+93,Pordenone,2020-12-02,3,167,221,6120,Friuli Venezia Giulia,6
 76,Potenza,2020-12-02,0,93,128,5221,Basilicata,17
-100,Prato,2020-12-02,0,172,91,9224,Toscana,9
+100,Prato,2020-12-02,7,179,91,9224,Toscana,9
 88,Ragusa,2020-12-02,0,7,42,5771,Sicilia,19
 39,Ravenna,2020-12-02,0,206,187,8304,Emilia-Romagna,8
 80,Reggio di Calabria,2020-12-02,0,75,67,6424,Calabria,18
 35,Reggio nell Emilia,2020-12-02,0,724,174,18124,Emilia-Romagna,8
-57,Rieti,2020-12-02,0,120,530,3804,Lazio,12
+57,Rieti,2020-12-02,3,123,530,3804,Lazio,12
 99,Rimini,2020-12-02,0,351,280,10163,Emilia-Romagna,8
-58,Roma,2020-12-02,0,1611,975,90401,Lazio,12
-29,Rovigo,2020-12-02,0,91,138,4127,Veneto,5
-90,Sassari,2020-12-02,0,197,184,8215,Sardegna,20
-9,Savona,2020-12-02,0,233,50,5985,Liguria,7
+58,Roma,2020-12-02,31,1642,975,90401,Lazio,12
+29,Rovigo,2020-12-02,2,93,138,4127,Veneto,5
+90,Sassari,2020-12-02,0,199,184,8215,Sardegna,20
+9,Savona,2020-12-02,2,256,50,5985,Liguria,7
 52,Siena,2020-12-02,0,78,36,4241,Toscana,9
 89,Siracusa,2020-12-02,0,30,60,3978,Sicilia,19
 111,Sud Sardegna,2020-12-02,0,59,93,3560,Sardegna,20
 73,Taranto,2020-12-02,0,208,174,6741,Puglia,16
-67,Teramo,2020-12-02,0,142,126,7716,Abruzzo,13
-55,Terni,2020-12-02,0,113,64,5392,Umbria,10
-1,Torino,2020-12-02,0,2872,766,90864,Piemonte,1
+67,Teramo,2020-12-02,0,143,126,7716,Abruzzo,13
+55,Terni,2020-12-02,2,115,64,5392,Umbria,10
+1,Torino,2020-12-02,29,2901,766,90864,Piemonte,1
 81,Trapani,2020-12-02,0,12,70,4628,Sicilia,19
 22,Trento,2020-12-02,3,658,278,16167,P.A. Trento,22
-26,Treviso,2020-12-02,0,311,495,29223,Veneto,5
-32,Trieste,2020-12-02,0,241,109,7542,Friuli Venezia Giulia,6
-30,Udine,2020-12-02,0,299,328,14203,Friuli Venezia Giulia,6
-27,Venezia,2020-12-02,0,375,408,22090,Veneto,5
-103,Verbano-Cusio-Ossola,2020-12-02,0,195,27,5577,Piemonte,1
-2,Vercelli,2020-12-02,0,311,73,6474,Piemonte,1
-23,Verona,2020-12-02,0,589,542,28183,Veneto,5
+26,Treviso,2020-12-02,2,313,495,29223,Veneto,5
+32,Trieste,2020-12-02,2,243,109,7542,Friuli Venezia Giulia,6
+30,Udine,2020-12-02,16,315,328,14203,Friuli Venezia Giulia,6
+27,Venezia,2020-12-02,12,387,408,22090,Veneto,5
+103,Verbano-Cusio-Ossola,2020-12-02,1,196,27,5577,Piemonte,1
+2,Vercelli,2020-12-02,2,313,73,6474,Piemonte,1
+23,Verona,2020-12-02,15,604,542,28183,Veneto,5
 102,Vibo Valentia,2020-12-02,0,20,13,958,Calabria,18
-24,Vicenza,2020-12-02,0,496,525,26885,Veneto,5
-56,Viterbo,2020-12-02,0,153,58,7075,Lazio,12
+24,Vicenza,2020-12-02,29,525,525,26885,Veneto,5
+56,Viterbo,2020-12-02,4,157,58,7075,Lazio,12
+84,Agrigento,2020-12-03,0,8,61,3023,Sicilia,19
+6,Alessandria,2020-12-03,0,950,213,15016,Piemonte,1
+42,Ancona,2020-12-03,0,348,101,8975,Marche,11
+7,Aosta,2020-12-03,2,316,42,6535,Valle d'Aosta,2
+51,Arezzo,2020-12-03,0,125,69,9638,Toscana,9
+44,Ascoli Piceno,2020-12-03,0,98,65,4161,Marche,11
+5,Asti,2020-12-03,0,381,161,8084,Piemonte,1
+72,Bari,2020-12-03,0,446,721,23015,Puglia,16
+110,Barletta-Andria-Trani,2020-12-03,0,173,177,6745,Puglia,16
+25,Belluno,2020-12-03,0,270,221,9064,Veneto,5
+96,Biella,2020-12-03,0,289,91,5994,Piemonte,1
+37,Bologna,2020-12-03,0,1040,438,27705,Emilia-Romagna,8
+21,Bolzano,2020-12-03,16,551,374,24562,P.A. Bolzano,21
+74,Brindisi,2020-12-03,0,128,147,4149,Puglia,16
+92,Cagliari,2020-12-03,0,108,151,4779,Sardegna,20
+85,Caltanissetta,2020-12-03,0,17,45,2825,Sicilia,19
+70,Campobasso,2020-12-03,0,57,37,3095,Molise,14
+87,Catania,2020-12-03,0,114,663,18709,Sicilia,19
+79,Catanzaro,2020-12-03,0,64,35,2520,Calabria,18
+69,Chieti,2020-12-03,0,156,83,5596,Abruzzo,13
+78,Cosenza,2020-12-03,0,123,132,5533,Calabria,18
+19,Cremona,2020-12-03,0,1132,74,13061,Lombardia,3
+101,Crotone,2020-12-03,0,14,31,1621,Calabria,18
+4,Cuneo,2020-12-03,0,702,233,23787,Piemonte,1
+86,Enna,2020-12-03,0,29,28,2487,Sicilia,19
+109,Fermo,2020-12-03,0,78,67,3547,Marche,11
+38,Ferrara,2020-12-03,0,265,102,6346,Emilia-Romagna,8
+48,Firenze,2020-12-03,0,985,197,29633,Toscana,9
+71,Foggia,2020-12-03,0,402,250,13614,Puglia,16
+60,Frosinone,2020-12-03,0,148,79,10605,Lazio,12
+10,Genova,2020-12-03,0,552,251,31379,Liguria,7
+31,Gorizia,2020-12-03,0,44,141,4088,Friuli Venezia Giulia,6
+53,Grosseto,2020-12-03,0,61,28,3715,Toscana,9
+8,Imperia,2020-12-03,0,267,45,5637,Liguria,7
+94,Isernia,2020-12-03,0,35,16,1779,Molise,14
+66,L Aquila,2020-12-03,0,181,142,9492,Abruzzo,13
+11,La Spezia,2020-12-03,0,59,85,7003,Liguria,7
+59,Latina,2020-12-03,0,172,6,9854,Lazio,12
+75,Lecce,2020-12-03,0,143,135,4430,Puglia,16
+49,Livorno,2020-12-03,0,189,71,7403,Toscana,9
+46,Lucca,2020-12-03,0,256,92,10640,Toscana,9
+43,Macerata,2020-12-03,0,188,103,6921,Marche,11
+45,Massa Carrara,2020-12-03,0,312,86,6671,Toscana,9
+77,Matera,2020-12-03,0,41,43,2983,Basilicata,17
+83,Messina,2020-12-03,0,61,126,6615,Sicilia,19
+36,Modena,2020-12-03,0,788,275,22753,Emilia-Romagna,8
+3,Novara,2020-12-03,0,561,176,13325,Piemonte,1
+91,Nuoro,2020-12-03,0,24,112,4240,Sardegna,20
+95,Oristano,2020-12-03,0,22,26,1835,Sardegna,20
+28,Padova,2020-12-03,0,284,688,29281,Veneto,5
+82,Palermo,2020-12-03,0,76,200,19630,Sicilia,19
+34,Parma,2020-12-03,0,879,127,10409,Emilia-Romagna,8
+54,Perugia,2020-12-03,0,252,215,18029,Umbria,10
+41,Pesaro e Urbino,2020-12-03,0,531,124,6419,Marche,11
+68,Pescara,2020-12-03,0,271,69,5836,Abruzzo,13
+33,Piacenza,2020-12-03,0,1081,157,12344,Emilia-Romagna,8
+50,Pisa,2020-12-03,0,286,179,14671,Toscana,9
+47,Pistoia,2020-12-03,0,205,79,9285,Toscana,9
+93,Pordenone,2020-12-03,0,167,233,6353,Friuli Venezia Giulia,6
+76,Potenza,2020-12-03,0,93,81,5302,Basilicata,17
+100,Prato,2020-12-03,0,179,78,9302,Toscana,9
+88,Ragusa,2020-12-03,0,7,54,5825,Sicilia,19
+39,Ravenna,2020-12-03,0,206,115,8419,Emilia-Romagna,8
+80,Reggio di Calabria,2020-12-03,0,75,77,6501,Calabria,18
+35,Reggio nell Emilia,2020-12-03,0,724,240,18364,Emilia-Romagna,8
+57,Rieti,2020-12-03,0,123,0,3804,Lazio,12
+99,Rimini,2020-12-03,0,351,195,10358,Emilia-Romagna,8
+58,Roma,2020-12-03,0,1642,1636,92037,Lazio,12
+29,Rovigo,2020-12-03,0,93,116,4243,Veneto,5
+90,Sassari,2020-12-03,0,199,170,8385,Sardegna,20
+9,Savona,2020-12-03,0,256,22,6007,Liguria,7
+52,Siena,2020-12-03,0,78,50,4291,Toscana,9
+89,Siracusa,2020-12-03,0,30,59,4037,Sicilia,19
+111,Sud Sardegna,2020-12-03,0,59,79,3639,Sardegna,20
+73,Taranto,2020-12-03,0,208,163,6904,Puglia,16
+67,Teramo,2020-12-03,0,143,103,7819,Abruzzo,13
+55,Terni,2020-12-03,0,115,60,5452,Umbria,10
+1,Torino,2020-12-03,0,2901,1214,92078,Piemonte,1
+81,Trapani,2020-12-03,0,12,58,4686,Sicilia,19
+22,Trento,2020-12-03,9,667,239,16406,P.A. Trento,22
+26,Treviso,2020-12-03,0,313,723,29946,Veneto,5
+32,Trieste,2020-12-03,0,243,154,7696,Friuli Venezia Giulia,6
+30,Udine,2020-12-03,0,315,234,14437,Friuli Venezia Giulia,6
+27,Venezia,2020-12-03,0,387,343,22433,Veneto,5
+103,Verbano-Cusio-Ossola,2020-12-03,0,196,52,5629,Piemonte,1
+2,Vercelli,2020-12-03,0,313,67,6541,Piemonte,1
+23,Verona,2020-12-03,0,604,847,29030,Veneto,5
+102,Vibo Valentia,2020-12-03,0,20,5,963,Calabria,18
+24,Vicenza,2020-12-03,0,525,597,27482,Veneto,5
+56,Viterbo,2020-12-03,0,157,35,7110,Lazio,12
