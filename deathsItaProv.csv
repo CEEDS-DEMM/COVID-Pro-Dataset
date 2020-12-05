@@ -25668,76 +25668,76 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 51,Arezzo,2020-12-02,2,125,38,9569,Toscana,9
 44,Ascoli Piceno,2020-12-02,0,98,50,4096,Marche,11
 5,Asti,2020-12-02,7,381,92,7923,Piemonte,1
-72,Bari,2020-12-02,0,446,878,22294,Puglia,16
+72,Bari,2020-12-02,9,455,878,22294,Puglia,16
 110,Barletta-Andria-Trani,2020-12-02,0,173,206,6568,Puglia,16
 25,Belluno,2020-12-02,5,270,119,8843,Veneto,5
 96,Biella,2020-12-02,3,289,49,5903,Piemonte,1
-37,Bologna,2020-12-02,0,1040,351,27267,Emilia-Romagna,8
+37,Bologna,2020-12-02,18,1058,351,27267,Emilia-Romagna,8
 21,Bolzano,2020-12-02,8,535,317,24188,P.A. Bolzano,21
-74,Brindisi,2020-12-02,0,128,87,4002,Puglia,16
-92,Cagliari,2020-12-02,0,108,47,4628,Sardegna,20
+74,Brindisi,2020-12-02,2,130,87,4002,Puglia,16
+92,Cagliari,2020-12-02,3,111,47,4628,Sardegna,20
 85,Caltanissetta,2020-12-02,0,17,52,2780,Sicilia,19
 70,Campobasso,2020-12-02,0,57,46,3058,Molise,14
 87,Catania,2020-12-02,0,114,621,18046,Sicilia,19
-79,Catanzaro,2020-12-02,0,64,42,2485,Calabria,18
-69,Chieti,2020-12-02,0,156,63,5513,Abruzzo,13
-78,Cosenza,2020-12-02,0,123,164,5401,Calabria,18
+79,Catanzaro,2020-12-02,4,68,42,2485,Calabria,18
+69,Chieti,2020-12-02,2,158,63,5513,Abruzzo,13
+78,Cosenza,2020-12-02,6,129,164,5401,Calabria,18
 19,Cremona,2020-12-02,0,1132,126,12987,Lombardia,3
 101,Crotone,2020-12-02,0,14,28,1590,Calabria,18
 4,Cuneo,2020-12-02,5,702,229,23554,Piemonte,1
 86,Enna,2020-12-02,0,29,6,2459,Sicilia,19
 109,Fermo,2020-12-02,0,78,57,3480,Marche,11
-38,Ferrara,2020-12-02,0,265,120,6244,Emilia-Romagna,8
+38,Ferrara,2020-12-02,7,272,120,6244,Emilia-Romagna,8
 48,Firenze,2020-12-02,21,985,234,29436,Toscana,9
-71,Foggia,2020-12-02,0,402,208,13364,Puglia,16
-40,Forli-Cesena,2020-12-02,0,234,97,8650,Emilia-Romagna,8
+71,Foggia,2020-12-02,10,412,208,13364,Puglia,16
+40,Forli-Cesena,2020-12-02,1,235,97,8650,Emilia-Romagna,8
 60,Frosinone,2020-12-02,3,148,88,10526,Lazio,12
 10,Genova,2020-12-02,13,552,169,31128,Liguria,7
 31,Gorizia,2020-12-02,5,44,144,3947,Friuli Venezia Giulia,6
 53,Grosseto,2020-12-02,0,61,37,3687,Toscana,9
 8,Imperia,2020-12-02,0,267,43,5592,Liguria,7
 94,Isernia,2020-12-02,0,35,50,1763,Molise,14
-66,L Aquila,2020-12-02,0,181,139,9350,Abruzzo,13
+66,L Aquila,2020-12-02,5,186,139,9350,Abruzzo,13
 11,La Spezia,2020-12-02,4,59,64,6918,Liguria,7
 59,Latina,2020-12-02,4,172,127,9848,Lazio,12
-75,Lecce,2020-12-02,0,143,98,4295,Puglia,16
+75,Lecce,2020-12-02,7,150,98,4295,Puglia,16
 49,Livorno,2020-12-02,7,189,41,7332,Toscana,9
 46,Lucca,2020-12-02,0,256,68,10548,Toscana,9
 43,Macerata,2020-12-02,0,188,98,6818,Marche,11
 45,Massa Carrara,2020-12-02,2,312,27,6585,Toscana,9
 77,Matera,2020-12-02,0,41,26,2940,Basilicata,17
 83,Messina,2020-12-02,0,61,242,6489,Sicilia,19
-36,Modena,2020-12-02,0,788,179,22478,Emilia-Romagna,8
+36,Modena,2020-12-02,6,794,179,22478,Emilia-Romagna,8
 3,Novara,2020-12-02,6,561,147,13149,Piemonte,1
 91,Nuoro,2020-12-02,0,24,95,4128,Sardegna,20
 95,Oristano,2020-12-02,0,22,26,1809,Sardegna,20
 28,Padova,2020-12-02,4,284,524,28593,Veneto,5
 82,Palermo,2020-12-02,0,76,390,19430,Sicilia,19
-34,Parma,2020-12-02,0,879,37,10282,Emilia-Romagna,8
+34,Parma,2020-12-02,6,885,37,10282,Emilia-Romagna,8
 54,Perugia,2020-12-02,8,252,207,17814,Umbria,10
 41,Pesaro e Urbino,2020-12-02,0,531,108,6295,Marche,11
-68,Pescara,2020-12-02,0,271,53,5767,Abruzzo,13
-33,Piacenza,2020-12-02,0,1081,117,12187,Emilia-Romagna,8
+68,Pescara,2020-12-02,3,274,53,5767,Abruzzo,13
+33,Piacenza,2020-12-02,8,1089,117,12187,Emilia-Romagna,8
 50,Pisa,2020-12-02,4,286,96,14492,Toscana,9
 47,Pistoia,2020-12-02,2,205,108,9206,Toscana,9
 93,Pordenone,2020-12-02,3,167,221,6120,Friuli Venezia Giulia,6
 76,Potenza,2020-12-02,0,93,128,5221,Basilicata,17
 100,Prato,2020-12-02,7,179,91,9224,Toscana,9
 88,Ragusa,2020-12-02,0,7,42,5771,Sicilia,19
-39,Ravenna,2020-12-02,0,206,187,8304,Emilia-Romagna,8
+39,Ravenna,2020-12-02,10,216,187,8304,Emilia-Romagna,8
 80,Reggio di Calabria,2020-12-02,0,75,67,6424,Calabria,18
-35,Reggio nell Emilia,2020-12-02,0,724,174,18124,Emilia-Romagna,8
+35,Reggio nell Emilia,2020-12-02,7,731,174,18124,Emilia-Romagna,8
 57,Rieti,2020-12-02,3,123,530,3804,Lazio,12
-99,Rimini,2020-12-02,0,351,280,10163,Emilia-Romagna,8
+99,Rimini,2020-12-02,5,356,280,10163,Emilia-Romagna,8
 58,Roma,2020-12-02,31,1642,975,90401,Lazio,12
 29,Rovigo,2020-12-02,2,93,138,4127,Veneto,5
 90,Sassari,2020-12-02,0,199,184,8215,Sardegna,20
 9,Savona,2020-12-02,2,256,50,5985,Liguria,7
 52,Siena,2020-12-02,0,78,36,4241,Toscana,9
 89,Siracusa,2020-12-02,0,30,60,3978,Sicilia,19
-111,Sud Sardegna,2020-12-02,0,59,93,3560,Sardegna,20
-73,Taranto,2020-12-02,0,208,174,6741,Puglia,16
-67,Teramo,2020-12-02,0,143,126,7716,Abruzzo,13
+111,Sud Sardegna,2020-12-02,1,60,93,3560,Sardegna,20
+73,Taranto,2020-12-02,1,209,174,6741,Puglia,16
+67,Teramo,2020-12-02,10,153,126,7716,Abruzzo,13
 55,Terni,2020-12-02,2,115,64,5392,Umbria,10
 1,Torino,2020-12-02,29,2901,766,90864,Piemonte,1
 81,Trapani,2020-12-02,0,12,70,4628,Sicilia,19
@@ -25754,80 +25754,80 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 56,Viterbo,2020-12-02,4,157,58,7075,Lazio,12
 84,Agrigento,2020-12-03,0,8,61,3023,Sicilia,19
 6,Alessandria,2020-12-03,0,950,213,15016,Piemonte,1
-42,Ancona,2020-12-03,0,348,101,8975,Marche,11
+42,Ancona,2020-12-03,3,351,101,8975,Marche,11
 7,Aosta,2020-12-03,2,316,42,6535,Valle d'Aosta,2
 51,Arezzo,2020-12-03,0,125,69,9638,Toscana,9
 44,Ascoli Piceno,2020-12-03,0,98,65,4161,Marche,11
 5,Asti,2020-12-03,0,381,161,8084,Piemonte,1
-72,Bari,2020-12-03,0,446,721,23015,Puglia,16
+72,Bari,2020-12-03,0,455,721,23015,Puglia,16
 110,Barletta-Andria-Trani,2020-12-03,0,173,177,6745,Puglia,16
 25,Belluno,2020-12-03,0,270,221,9064,Veneto,5
 96,Biella,2020-12-03,0,289,91,5994,Piemonte,1
-37,Bologna,2020-12-03,0,1040,438,27705,Emilia-Romagna,8
+37,Bologna,2020-12-03,0,1058,438,27705,Emilia-Romagna,8
 21,Bolzano,2020-12-03,16,551,374,24562,P.A. Bolzano,21
-74,Brindisi,2020-12-03,0,128,147,4149,Puglia,16
-92,Cagliari,2020-12-03,0,108,151,4779,Sardegna,20
+74,Brindisi,2020-12-03,0,130,147,4149,Puglia,16
+92,Cagliari,2020-12-03,0,111,151,4779,Sardegna,20
 85,Caltanissetta,2020-12-03,0,17,45,2825,Sicilia,19
-70,Campobasso,2020-12-03,0,57,37,3095,Molise,14
+70,Campobasso,2020-12-03,1,58,37,3095,Molise,14
 87,Catania,2020-12-03,0,114,663,18709,Sicilia,19
-79,Catanzaro,2020-12-03,0,64,35,2520,Calabria,18
-69,Chieti,2020-12-03,0,156,83,5596,Abruzzo,13
-78,Cosenza,2020-12-03,0,123,132,5533,Calabria,18
+79,Catanzaro,2020-12-03,0,68,35,2520,Calabria,18
+69,Chieti,2020-12-03,0,158,83,5596,Abruzzo,13
+78,Cosenza,2020-12-03,0,129,132,5533,Calabria,18
 19,Cremona,2020-12-03,0,1132,74,13061,Lombardia,3
 101,Crotone,2020-12-03,0,14,31,1621,Calabria,18
 4,Cuneo,2020-12-03,0,702,233,23787,Piemonte,1
 86,Enna,2020-12-03,0,29,28,2487,Sicilia,19
 109,Fermo,2020-12-03,0,78,67,3547,Marche,11
-38,Ferrara,2020-12-03,0,265,102,6346,Emilia-Romagna,8
+38,Ferrara,2020-12-03,0,272,102,6346,Emilia-Romagna,8
 48,Firenze,2020-12-03,0,985,197,29633,Toscana,9
-71,Foggia,2020-12-03,0,402,250,13614,Puglia,16
+71,Foggia,2020-12-03,0,412,250,13614,Puglia,16
 60,Frosinone,2020-12-03,0,148,79,10605,Lazio,12
 10,Genova,2020-12-03,0,552,251,31379,Liguria,7
 31,Gorizia,2020-12-03,0,44,141,4088,Friuli Venezia Giulia,6
 53,Grosseto,2020-12-03,0,61,28,3715,Toscana,9
 8,Imperia,2020-12-03,0,267,45,5637,Liguria,7
-94,Isernia,2020-12-03,0,35,16,1779,Molise,14
-66,L Aquila,2020-12-03,0,181,142,9492,Abruzzo,13
+94,Isernia,2020-12-03,1,36,16,1779,Molise,14
+66,L Aquila,2020-12-03,0,186,142,9492,Abruzzo,13
 11,La Spezia,2020-12-03,0,59,85,7003,Liguria,7
 59,Latina,2020-12-03,0,172,6,9854,Lazio,12
-75,Lecce,2020-12-03,0,143,135,4430,Puglia,16
+75,Lecce,2020-12-03,0,150,135,4430,Puglia,16
 49,Livorno,2020-12-03,0,189,71,7403,Toscana,9
 46,Lucca,2020-12-03,0,256,92,10640,Toscana,9
-43,Macerata,2020-12-03,0,188,103,6921,Marche,11
+43,Macerata,2020-12-03,1,189,103,6921,Marche,11
 45,Massa Carrara,2020-12-03,0,312,86,6671,Toscana,9
 77,Matera,2020-12-03,0,41,43,2983,Basilicata,17
 83,Messina,2020-12-03,0,61,126,6615,Sicilia,19
-36,Modena,2020-12-03,0,788,275,22753,Emilia-Romagna,8
+36,Modena,2020-12-03,0,794,275,22753,Emilia-Romagna,8
 3,Novara,2020-12-03,0,561,176,13325,Piemonte,1
 91,Nuoro,2020-12-03,0,24,112,4240,Sardegna,20
 95,Oristano,2020-12-03,0,22,26,1835,Sardegna,20
 28,Padova,2020-12-03,0,284,688,29281,Veneto,5
 82,Palermo,2020-12-03,0,76,200,19630,Sicilia,19
-34,Parma,2020-12-03,0,879,127,10409,Emilia-Romagna,8
+34,Parma,2020-12-03,0,885,127,10409,Emilia-Romagna,8
 54,Perugia,2020-12-03,0,252,215,18029,Umbria,10
-41,Pesaro e Urbino,2020-12-03,0,531,124,6419,Marche,11
-68,Pescara,2020-12-03,0,271,69,5836,Abruzzo,13
-33,Piacenza,2020-12-03,0,1081,157,12344,Emilia-Romagna,8
+41,Pesaro e Urbino,2020-12-03,3,534,124,6419,Marche,11
+68,Pescara,2020-12-03,0,274,69,5836,Abruzzo,13
+33,Piacenza,2020-12-03,0,1089,157,12344,Emilia-Romagna,8
 50,Pisa,2020-12-03,0,286,179,14671,Toscana,9
 47,Pistoia,2020-12-03,0,205,79,9285,Toscana,9
 93,Pordenone,2020-12-03,0,167,233,6353,Friuli Venezia Giulia,6
 76,Potenza,2020-12-03,0,93,81,5302,Basilicata,17
 100,Prato,2020-12-03,0,179,78,9302,Toscana,9
 88,Ragusa,2020-12-03,0,7,54,5825,Sicilia,19
-39,Ravenna,2020-12-03,0,206,115,8419,Emilia-Romagna,8
+39,Ravenna,2020-12-03,0,216,115,8419,Emilia-Romagna,8
 80,Reggio di Calabria,2020-12-03,0,75,77,6501,Calabria,18
-35,Reggio nell Emilia,2020-12-03,0,724,240,18364,Emilia-Romagna,8
+35,Reggio nell Emilia,2020-12-03,0,731,240,18364,Emilia-Romagna,8
 57,Rieti,2020-12-03,0,123,0,3804,Lazio,12
-99,Rimini,2020-12-03,0,351,195,10358,Emilia-Romagna,8
+99,Rimini,2020-12-03,0,356,195,10358,Emilia-Romagna,8
 58,Roma,2020-12-03,0,1642,1636,92037,Lazio,12
 29,Rovigo,2020-12-03,0,93,116,4243,Veneto,5
 90,Sassari,2020-12-03,0,199,170,8385,Sardegna,20
 9,Savona,2020-12-03,0,256,22,6007,Liguria,7
 52,Siena,2020-12-03,0,78,50,4291,Toscana,9
 89,Siracusa,2020-12-03,0,30,59,4037,Sicilia,19
-111,Sud Sardegna,2020-12-03,0,59,79,3639,Sardegna,20
-73,Taranto,2020-12-03,0,208,163,6904,Puglia,16
-67,Teramo,2020-12-03,0,143,103,7819,Abruzzo,13
+111,Sud Sardegna,2020-12-03,0,60,79,3639,Sardegna,20
+73,Taranto,2020-12-03,0,209,163,6904,Puglia,16
+67,Teramo,2020-12-03,0,153,103,7819,Abruzzo,13
 55,Terni,2020-12-03,0,115,60,5452,Umbria,10
 1,Torino,2020-12-03,0,2901,1214,92078,Piemonte,1
 81,Trapani,2020-12-03,0,12,58,4686,Sicilia,19
@@ -25842,3 +25842,183 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 102,Vibo Valentia,2020-12-03,0,20,5,963,Calabria,18
 24,Vicenza,2020-12-03,0,525,597,27482,Veneto,5
 56,Viterbo,2020-12-03,0,157,35,7110,Lazio,12
+84,Agrigento,2020-12-04,0,8,38,3061,Sicilia,19
+6,Alessandria,2020-12-04,11,961,241,15257,Piemonte,1
+42,Ancona,2020-12-04,0,351,92,9067,Marche,11
+7,Aosta,2020-12-04,2,318,27,6562,Valle d'Aosta,2
+51,Arezzo,2020-12-04,2,127,31,9669,Toscana,9
+44,Ascoli Piceno,2020-12-04,0,98,48,4209,Marche,11
+5,Asti,2020-12-04,4,385,106,8190,Piemonte,1
+72,Bari,2020-12-04,0,455,741,23756,Puglia,16
+110,Barletta-Andria-Trani,2020-12-04,0,173,165,6910,Puglia,16
+25,Belluno,2020-12-04,5,275,252,9316,Veneto,5
+96,Biella,2020-12-04,1,290,57,6051,Piemonte,1
+37,Bologna,2020-12-04,0,1058,508,28213,Emilia-Romagna,8
+21,Bolzano,2020-12-04,11,562,285,24847,P.A. Bolzano,21
+74,Brindisi,2020-12-04,0,130,161,4310,Puglia,16
+92,Cagliari,2020-12-04,0,111,107,4886,Sardegna,20
+85,Caltanissetta,2020-12-04,0,17,87,2912,Sicilia,19
+70,Campobasso,2020-12-04,0,58,63,3158,Molise,14
+87,Catania,2020-12-04,0,114,551,19260,Sicilia,19
+79,Catanzaro,2020-12-04,0,68,32,2552,Calabria,18
+69,Chieti,2020-12-04,0,158,79,5675,Abruzzo,13
+78,Cosenza,2020-12-04,3,132,130,5663,Calabria,18
+19,Cremona,2020-12-04,0,1132,122,13183,Lombardia,3
+101,Crotone,2020-12-04,0,14,42,1663,Calabria,18
+4,Cuneo,2020-12-04,2,704,315,24102,Piemonte,1
+86,Enna,2020-12-04,0,29,40,2527,Sicilia,19
+109,Fermo,2020-12-04,0,78,70,3617,Marche,11
+38,Ferrara,2020-12-04,0,272,68,6414,Emilia-Romagna,8
+48,Firenze,2020-12-04,11,996,273,29906,Toscana,9
+71,Foggia,2020-12-04,0,412,106,13720,Puglia,16
+60,Frosinone,2020-12-04,0,148,85,10690,Lazio,12
+10,Genova,2020-12-04,0,552,190,31569,Liguria,7
+31,Gorizia,2020-12-04,4,48,142,4230,Friuli Venezia Giulia,6
+53,Grosseto,2020-12-04,1,62,12,3727,Toscana,9
+8,Imperia,2020-12-04,0,267,-468,5169,Liguria,7
+94,Isernia,2020-12-04,0,36,113,1892,Molise,14
+66,L Aquila,2020-12-04,6,192,133,9625,Abruzzo,13
+11,La Spezia,2020-12-04,0,59,54,7057,Liguria,7
+59,Latina,2020-12-04,0,172,6,9860,Lazio,12
+75,Lecce,2020-12-04,0,150,97,4527,Puglia,16
+49,Livorno,2020-12-04,2,191,70,7473,Toscana,9
+46,Lucca,2020-12-04,3,259,136,10776,Toscana,9
+43,Macerata,2020-12-04,0,189,167,7088,Marche,11
+45,Massa Carrara,2020-12-04,4,316,77,6748,Toscana,9
+77,Matera,2020-12-04,0,41,31,3014,Basilicata,17
+83,Messina,2020-12-04,0,61,274,6889,Sicilia,19
+36,Modena,2020-12-04,0,794,483,23236,Emilia-Romagna,8
+3,Novara,2020-12-04,6,567,177,13502,Piemonte,1
+91,Nuoro,2020-12-04,0,24,156,4396,Sardegna,20
+95,Oristano,2020-12-04,0,22,100,1935,Sardegna,20
+28,Padova,2020-12-04,10,294,672,29953,Veneto,5
+82,Palermo,2020-12-04,0,76,291,19921,Sicilia,19
+34,Parma,2020-12-04,0,885,142,10551,Emilia-Romagna,8
+54,Perugia,2020-12-04,2,254,130,18159,Umbria,10
+41,Pesaro e Urbino,2020-12-04,0,534,105,6524,Marche,11
+68,Pescara,2020-12-04,5,279,132,5968,Abruzzo,13
+33,Piacenza,2020-12-04,0,1089,87,12431,Emilia-Romagna,8
+50,Pisa,2020-12-04,6,292,191,14862,Toscana,9
+47,Pistoia,2020-12-04,6,211,120,9405,Toscana,9
+93,Pordenone,2020-12-04,7,174,299,6652,Friuli Venezia Giulia,6
+76,Potenza,2020-12-04,0,93,108,5410,Basilicata,17
+100,Prato,2020-12-04,4,183,117,9419,Toscana,9
+88,Ragusa,2020-12-04,0,7,39,5864,Sicilia,19
+39,Ravenna,2020-12-04,0,216,202,8621,Emilia-Romagna,8
+80,Reggio di Calabria,2020-12-04,3,78,133,6634,Calabria,18
+35,Reggio nell Emilia,2020-12-04,0,731,289,18653,Emilia-Romagna,8
+57,Rieti,2020-12-04,0,123,11,3815,Lazio,12
+99,Rimini,2020-12-04,0,356,204,10562,Emilia-Romagna,8
+58,Roma,2020-12-04,0,1642,1682,93719,Lazio,12
+29,Rovigo,2020-12-04,3,96,82,4325,Veneto,5
+90,Sassari,2020-12-04,0,199,82,8467,Sardegna,20
+9,Savona,2020-12-04,0,256,47,6054,Liguria,7
+52,Siena,2020-12-04,3,81,44,4335,Toscana,9
+89,Siracusa,2020-12-04,0,30,38,4075,Sicilia,19
+111,Sud Sardegna,2020-12-04,0,60,106,3745,Sardegna,20
+73,Taranto,2020-12-04,0,209,135,7039,Puglia,16
+67,Teramo,2020-12-04,4,157,89,7908,Abruzzo,13
+55,Terni,2020-12-04,2,117,37,5489,Umbria,10
+1,Torino,2020-12-04,30,2931,955,93033,Piemonte,1
+81,Trapani,2020-12-04,0,12,7,4693,Sicilia,19
+22,Trento,2020-12-04,6,673,255,16661,P.A. Trento,22
+26,Treviso,2020-12-04,17,330,707,30653,Veneto,5
+32,Trieste,2020-12-04,11,254,205,7901,Friuli Venezia Giulia,6
+30,Udine,2020-12-04,14,329,375,14812,Friuli Venezia Giulia,6
+27,Venezia,2020-12-04,14,401,563,22996,Veneto,5
+103,Verbano-Cusio-Ossola,2020-12-04,0,196,175,5804,Piemonte,1
+2,Vercelli,2020-12-04,0,313,81,6622,Piemonte,1
+23,Verona,2020-12-04,23,627,662,29692,Veneto,5
+102,Vibo Valentia,2020-12-04,1,21,12,975,Calabria,18
+24,Vicenza,2020-12-04,11,536,686,28168,Veneto,5
+56,Viterbo,2020-12-04,0,157,31,7141,Lazio,12
+84,Agrigento,2020-12-05,0,8,40,3101,Sicilia,19
+6,Alessandria,2020-12-05,0,961,114,15371,Piemonte,1
+42,Ancona,2020-12-05,0,351,93,9160,Marche,11
+7,Aosta,2020-12-05,4,322,46,6608,Valle d'Aosta,2
+51,Arezzo,2020-12-05,0,127,46,9715,Toscana,9
+44,Ascoli Piceno,2020-12-05,0,98,60,4269,Marche,11
+5,Asti,2020-12-05,0,385,101,8291,Piemonte,1
+72,Bari,2020-12-05,0,455,629,24385,Puglia,16
+110,Barletta-Andria-Trani,2020-12-05,0,173,230,7140,Puglia,16
+25,Belluno,2020-12-05,0,275,247,9563,Veneto,5
+96,Biella,2020-12-05,0,290,73,6124,Piemonte,1
+37,Bologna,2020-12-05,0,1058,438,28651,Emilia-Romagna,8
+21,Bolzano,2020-12-05,3,565,266,25113,P.A. Bolzano,21
+74,Brindisi,2020-12-05,0,130,182,4492,Puglia,16
+92,Cagliari,2020-12-05,0,111,112,4998,Sardegna,20
+85,Caltanissetta,2020-12-05,0,17,50,2962,Sicilia,19
+70,Campobasso,2020-12-05,0,58,131,3289,Molise,14
+87,Catania,2020-12-05,0,114,488,19748,Sicilia,19
+79,Catanzaro,2020-12-05,0,68,28,2580,Calabria,18
+69,Chieti,2020-12-05,0,158,70,5745,Abruzzo,13
+78,Cosenza,2020-12-05,0,132,128,5791,Calabria,18
+19,Cremona,2020-12-05,0,1132,71,13254,Lombardia,3
+101,Crotone,2020-12-05,0,14,73,1736,Calabria,18
+4,Cuneo,2020-12-05,0,704,165,24267,Piemonte,1
+86,Enna,2020-12-05,0,29,69,2596,Sicilia,19
+109,Fermo,2020-12-05,0,78,60,3677,Marche,11
+38,Ferrara,2020-12-05,0,272,115,6529,Emilia-Romagna,8
+48,Firenze,2020-12-05,0,996,194,30100,Toscana,9
+71,Foggia,2020-12-05,0,412,444,14164,Puglia,16
+60,Frosinone,2020-12-05,0,148,25,10715,Lazio,12
+10,Genova,2020-12-05,0,552,146,31715,Liguria,7
+31,Gorizia,2020-12-05,0,48,56,4286,Friuli Venezia Giulia,6
+53,Grosseto,2020-12-05,0,62,28,3755,Toscana,9
+8,Imperia,2020-12-05,0,267,507,5676,Liguria,7
+94,Isernia,2020-12-05,0,36,21,1913,Molise,14
+66,L Aquila,2020-12-05,0,192,100,9725,Abruzzo,13
+11,La Spezia,2020-12-05,0,59,38,7095,Liguria,7
+59,Latina,2020-12-05,0,172,6,9866,Lazio,12
+75,Lecce,2020-12-05,0,150,139,4666,Puglia,16
+49,Livorno,2020-12-05,0,191,58,7531,Toscana,9
+46,Lucca,2020-12-05,0,259,84,10860,Toscana,9
+43,Macerata,2020-12-05,0,189,91,7179,Marche,11
+45,Massa Carrara,2020-12-05,0,316,33,6781,Toscana,9
+77,Matera,2020-12-05,0,41,61,3075,Basilicata,17
+83,Messina,2020-12-05,0,61,89,6978,Sicilia,19
+36,Modena,2020-12-05,0,794,415,23651,Emilia-Romagna,8
+3,Novara,2020-12-05,0,567,121,13623,Piemonte,1
+91,Nuoro,2020-12-05,0,24,140,4536,Sardegna,20
+95,Oristano,2020-12-05,0,22,12,1947,Sardegna,20
+28,Padova,2020-12-05,0,294,588,30541,Veneto,5
+82,Palermo,2020-12-05,0,76,320,20241,Sicilia,19
+34,Parma,2020-12-05,0,885,126,10677,Emilia-Romagna,8
+54,Perugia,2020-12-05,0,254,178,18337,Umbria,10
+41,Pesaro e Urbino,2020-12-05,0,534,95,6619,Marche,11
+68,Pescara,2020-12-05,0,279,64,6032,Abruzzo,13
+33,Piacenza,2020-12-05,0,1089,114,12545,Emilia-Romagna,8
+50,Pisa,2020-12-05,0,292,109,14971,Toscana,9
+47,Pistoia,2020-12-05,0,211,78,9483,Toscana,9
+93,Pordenone,2020-12-05,0,174,216,6868,Friuli Venezia Giulia,6
+76,Potenza,2020-12-05,0,93,70,5480,Basilicata,17
+100,Prato,2020-12-05,0,183,106,9525,Toscana,9
+88,Ragusa,2020-12-05,0,7,54,5918,Sicilia,19
+39,Ravenna,2020-12-05,0,216,206,8827,Emilia-Romagna,8
+80,Reggio di Calabria,2020-12-05,0,78,72,6706,Calabria,18
+35,Reggio nell Emilia,2020-12-05,0,731,302,18955,Emilia-Romagna,8
+57,Rieti,2020-12-05,0,123,0,3815,Lazio,12
+99,Rimini,2020-12-05,0,356,147,10709,Emilia-Romagna,8
+58,Roma,2020-12-05,0,1642,1716,95435,Lazio,12
+29,Rovigo,2020-12-05,0,96,81,4406,Veneto,5
+90,Sassari,2020-12-05,0,199,151,8618,Sardegna,20
+9,Savona,2020-12-05,0,256,75,6129,Liguria,7
+52,Siena,2020-12-05,0,81,33,4368,Toscana,9
+89,Siracusa,2020-12-05,0,30,57,4132,Sicilia,19
+111,Sud Sardegna,2020-12-05,0,60,49,3794,Sardegna,20
+73,Taranto,2020-12-05,0,209,255,7294,Puglia,16
+67,Teramo,2020-12-05,0,157,147,8055,Abruzzo,13
+55,Terni,2020-12-05,0,117,42,5531,Umbria,10
+1,Torino,2020-12-05,0,2931,771,93804,Piemonte,1
+81,Trapani,2020-12-05,0,12,73,4766,Sicilia,19
+22,Trento,2020-12-05,9,682,226,16887,P.A. Trento,22
+26,Treviso,2020-12-05,0,330,787,31440,Veneto,5
+32,Trieste,2020-12-05,0,254,91,7992,Friuli Venezia Giulia,6
+30,Udine,2020-12-05,0,329,383,15195,Friuli Venezia Giulia,6
+27,Venezia,2020-12-05,0,401,584,23580,Veneto,5
+103,Verbano-Cusio-Ossola,2020-12-05,0,196,35,5839,Piemonte,1
+2,Vercelli,2020-12-05,0,313,44,6666,Piemonte,1
+23,Verona,2020-12-05,0,627,793,30485,Veneto,5
+102,Vibo Valentia,2020-12-05,0,21,5,980,Calabria,18
+24,Vicenza,2020-12-05,0,536,448,28616,Veneto,5
+56,Viterbo,2020-12-05,0,157,21,7162,Lazio,12
