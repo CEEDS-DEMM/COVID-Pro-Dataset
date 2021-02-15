@@ -30764,7 +30764,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 51,Arezzo,2021-01-27,2,239,50,11934,Toscana,9
 44,Ascoli Piceno,2021-01-27,1,153,42,6133,Marche,11
 5,Asti,2021-01-27,3,569,50,11364,Piemonte,1
-72,Bari,2021-01-27,459,1420,459,45269,Puglia,16
+72,Bari,2021-01-27,11,972,459,45269,Puglia,16
 110,Barletta-Andria-Trani,2021-01-27,3,484,124,13320,Puglia,16
 25,Belluno,2021-01-27,5,519,77,17099,Veneto,5
 96,Biella,2021-01-27,1,368,16,7468,Piemonte,1
@@ -30785,7 +30785,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 109,Fermo,2021-01-27,8,147,54,6337,Marche,11
 38,Ferrara,2021-01-27,3,499,83,12261,Emilia-Romagna,8
 48,Firenze,2021-01-27,1,1377,113,36720,Toscana,9
-71,Foggia,2021-01-27,194,1010,194,25118,Puglia,16
+71,Foggia,2021-01-27,8,824,194,25118,Puglia,16
 40,Forli-Cesena,2021-01-27,9,461,133,16961,Emilia-Romagna,8
 60,Frosinone,2021-01-27,2,292,204,16862,Lazio,12
 10,Genova,2021-01-27,0,850,68,38123,Liguria,7
@@ -30855,13 +30855,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 51,Arezzo,2021-01-28,4,243,57,11991,Toscana,9
 44,Ascoli Piceno,2021-01-28,1,154,37,6170,Marche,11
 5,Asti,2021-01-28,1,570,20,11384,Piemonte,1
-72,Bari,2021-01-28,34,1454,457,45726,Puglia,16
-110,Barletta-Andria-Trani,2021-01-28,34,518,55,13375,Puglia,16
+72,Bari,2021-01-28,20,992,457,45726,Puglia,16
+110,Barletta-Andria-Trani,2021-01-28,1,485,55,13375,Puglia,16
 25,Belluno,2021-01-28,1,520,32,17131,Veneto,5
 96,Biella,2021-01-28,0,368,28,7496,Piemonte,1
 37,Bologna,2021-01-28,5,1970,295,47991,Emilia-Romagna,8
 21,Bolzano,2021-01-28,4,845,562,38470,P.A. Bolzano,21
-74,Brindisi,2021-01-28,34,241,78,8642,Puglia,16
+74,Brindisi,2021-01-28,1,208,78,8642,Puglia,16
 92,Cagliari,2021-01-28,0,202,60,8707,Sardegna,20
 85,Caltanissetta,2021-01-28,0,17,54,6047,Sicilia,19
 70,Campobasso,2021-01-28,1,174,60,5498,Molise,14
@@ -30876,7 +30876,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 109,Fermo,2021-01-28,0,147,59,6396,Marche,11
 38,Ferrara,2021-01-28,5,504,89,12350,Emilia-Romagna,8
 48,Firenze,2021-01-28,3,1380,139,36859,Toscana,9
-71,Foggia,2021-01-28,34,1044,234,25352,Puglia,16
+71,Foggia,2021-01-28,1,825,234,25352,Puglia,16
 40,Forli-Cesena,2021-01-28,4,465,167,17128,Emilia-Romagna,8
 60,Frosinone,2021-01-28,2,294,93,16955,Lazio,12
 10,Genova,2021-01-28,0,850,166,38289,Liguria,7
@@ -30887,7 +30887,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 66,L Aquila,2021-01-28,0,302,43,12025,Abruzzo,13
 11,La Spezia,2021-01-28,0,113,35,9448,Liguria,7
 59,Latina,2021-01-28,6,350,115,20019,Lazio,12
-75,Lecce,2021-01-28,34,359,136,9987,Puglia,16
+75,Lecce,2021-01-28,3,328,136,9987,Puglia,16
 49,Livorno,2021-01-28,0,297,50,10204,Toscana,9
 46,Lucca,2021-01-28,1,394,50,13659,Toscana,9
 43,Macerata,2021-01-28,2,277,108,11493,Marche,11
@@ -30923,7 +30923,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 52,Siena,2021-01-28,0,155,83,6126,Toscana,9
 89,Siracusa,2021-01-28,0,30,95,9154,Sicilia,19
 111,Sud Sardegna,2021-01-28,0,153,14,6188,Sardegna,20
-73,Taranto,2021-01-28,34,445,200,16126,Puglia,16
+73,Taranto,2021-01-28,8,419,200,16126,Puglia,16
 67,Teramo,2021-01-28,1,229,47,10877,Abruzzo,13
 55,Terni,2021-01-28,0,229,42,7538,Umbria,10
 1,Torino,2021-01-28,9,3944,665,115651,Piemonte,1
@@ -30946,13 +30946,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 51,Arezzo,2021-01-29,2,245,61,12052,Toscana,9
 44,Ascoli Piceno,2021-01-29,3,157,44,6214,Marche,11
 5,Asti,2021-01-29,0,570,71,11455,Piemonte,1
-72,Bari,2021-01-29,8,1462,344,46070,Puglia,16
-110,Barletta-Andria-Trani,2021-01-29,0,518,111,13486,Puglia,16
+72,Bari,2021-01-29,8,1000,344,46070,Puglia,16
+110,Barletta-Andria-Trani,2021-01-29,0,485,111,13486,Puglia,16
 25,Belluno,2021-01-29,4,524,102,17233,Veneto,5
 96,Biella,2021-01-29,0,368,44,7540,Piemonte,1
 37,Bologna,2021-01-29,20,1990,309,48300,Emilia-Romagna,8
 21,Bolzano,2021-01-29,3,848,590,39060,P.A. Bolzano,21
-74,Brindisi,2021-01-29,0,241,92,8734,Puglia,16
+74,Brindisi,2021-01-29,0,208,92,8734,Puglia,16
 92,Cagliari,2021-01-29,0,202,50,8757,Sardegna,20
 85,Caltanissetta,2021-01-29,0,17,53,6100,Sicilia,19
 70,Campobasso,2021-01-29,3,177,68,5566,Molise,14
@@ -30967,7 +30967,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 109,Fermo,2021-01-29,5,152,52,6448,Marche,11
 38,Ferrara,2021-01-29,6,510,104,12454,Emilia-Romagna,8
 48,Firenze,2021-01-29,14,1394,182,37041,Toscana,9
-71,Foggia,2021-01-29,6,1050,244,25596,Puglia,16
+71,Foggia,2021-01-29,6,831,244,25596,Puglia,16
 40,Forli-Cesena,2021-01-29,12,477,138,17266,Emilia-Romagna,8
 60,Frosinone,2021-01-29,2,296,192,17147,Lazio,12
 10,Genova,2021-01-29,0,850,119,38408,Liguria,7
@@ -30978,7 +30978,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 66,L Aquila,2021-01-29,3,305,38,12063,Abruzzo,13
 11,La Spezia,2021-01-29,0,113,71,9519,Liguria,7
 59,Latina,2021-01-29,6,356,234,20253,Lazio,12
-75,Lecce,2021-01-29,8,367,166,10153,Puglia,16
+75,Lecce,2021-01-29,8,336,166,10153,Puglia,16
 49,Livorno,2021-01-29,1,298,56,10260,Toscana,9
 46,Lucca,2021-01-29,1,395,45,13704,Toscana,9
 43,Macerata,2021-01-29,2,279,92,11585,Marche,11
@@ -31014,7 +31014,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 52,Siena,2021-01-29,2,157,41,6167,Toscana,9
 89,Siracusa,2021-01-29,0,30,61,9215,Sicilia,19
 111,Sud Sardegna,2021-01-29,0,153,18,6206,Sardegna,20
-73,Taranto,2021-01-29,2,447,111,16237,Puglia,16
+73,Taranto,2021-01-29,2,421,111,16237,Puglia,16
 67,Teramo,2021-01-29,1,230,43,10920,Abruzzo,13
 55,Terni,2021-01-29,0,229,28,7566,Umbria,10
 1,Torino,2021-01-29,30,3974,476,116127,Piemonte,1
@@ -31037,13 +31037,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 51,Arezzo,2021-01-30,2,247,22,12074,Toscana,9
 44,Ascoli Piceno,2021-01-30,1,158,53,6267,Marche,11
 5,Asti,2021-01-30,3,573,49,11504,Piemonte,1
-72,Bari,2021-01-30,14,1476,342,46412,Puglia,16
-110,Barletta-Andria-Trani,2021-01-30,4,522,62,13548,Puglia,16
+72,Bari,2021-01-30,14,1014,342,46412,Puglia,16
+110,Barletta-Andria-Trani,2021-01-30,4,489,62,13548,Puglia,16
 25,Belluno,2021-01-30,2,526,33,17266,Veneto,5
 96,Biella,2021-01-30,0,368,28,7568,Piemonte,1
 37,Bologna,2021-01-30,2,1992,335,48635,Emilia-Romagna,8
 21,Bolzano,2021-01-30,7,855,640,39700,P.A. Bolzano,21
-74,Brindisi,2021-01-30,1,242,53,8787,Puglia,16
+74,Brindisi,2021-01-30,1,209,53,8787,Puglia,16
 92,Cagliari,2021-01-30,0,202,42,8799,Sardegna,20
 85,Caltanissetta,2021-01-30,0,17,30,6130,Sicilia,19
 70,Campobasso,2021-01-30,0,177,62,5628,Molise,14
@@ -31058,7 +31058,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 109,Fermo,2021-01-30,1,153,74,6522,Marche,11
 38,Ferrara,2021-01-30,0,510,98,12552,Emilia-Romagna,8
 48,Firenze,2021-01-30,8,1402,206,37247,Toscana,9
-71,Foggia,2021-01-30,3,1053,45,25641,Puglia,16
+71,Foggia,2021-01-30,3,834,45,25641,Puglia,16
 40,Forli-Cesena,2021-01-30,5,482,113,17379,Emilia-Romagna,8
 60,Frosinone,2021-01-30,4,300,21,17168,Lazio,12
 10,Genova,2021-01-30,0,850,108,38516,Liguria,7
@@ -31069,7 +31069,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 66,L Aquila,2021-01-30,0,305,42,12105,Abruzzo,13
 11,La Spezia,2021-01-30,0,113,38,9557,Liguria,7
 59,Latina,2021-01-30,3,359,1,20254,Lazio,12
-75,Lecce,2021-01-30,0,367,111,10264,Puglia,16
+75,Lecce,2021-01-30,0,336,111,10264,Puglia,16
 49,Livorno,2021-01-30,0,298,82,10342,Toscana,9
 46,Lucca,2021-01-30,3,398,41,13745,Toscana,9
 43,Macerata,2021-01-30,1,280,115,11700,Marche,11
@@ -31105,7 +31105,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 52,Siena,2021-01-30,1,158,31,6198,Toscana,9
 89,Siracusa,2021-01-30,0,30,51,9266,Sicilia,19
 111,Sud Sardegna,2021-01-30,0,153,17,6223,Sardegna,20
-73,Taranto,2021-01-30,7,454,251,16488,Puglia,16
+73,Taranto,2021-01-30,7,428,251,16488,Puglia,16
 67,Teramo,2021-01-30,0,230,95,11015,Abruzzo,13
 55,Terni,2021-01-30,1,230,33,7599,Umbria,10
 1,Torino,2021-01-30,35,4009,362,116489,Piemonte,1
@@ -31128,13 +31128,13 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 51,Arezzo,2021-01-31,3,250,74,12148,Toscana,9
 44,Ascoli Piceno,2021-01-31,1,159,25,6292,Marche,11
 5,Asti,2021-01-31,4,577,39,11543,Piemonte,1
-72,Bari,2021-01-31,5,1481,354,46766,Puglia,16
-110,Barletta-Andria-Trani,2021-01-31,1,523,92,13640,Puglia,16
+72,Bari,2021-01-31,5,1019,354,46766,Puglia,16
+110,Barletta-Andria-Trani,2021-01-31,1,490,92,13640,Puglia,16
 25,Belluno,2021-01-31,0,526,10,17276,Veneto,5
 96,Biella,2021-01-31,1,369,18,7586,Piemonte,1
 37,Bologna,2021-01-31,0,1992,272,48907,Emilia-Romagna,8
 21,Bolzano,2021-01-31,4,859,467,40167,P.A. Bolzano,21
-74,Brindisi,2021-01-31,0,242,59,8846,Puglia,16
+74,Brindisi,2021-01-31,0,209,59,8846,Puglia,16
 92,Cagliari,2021-01-31,0,202,62,8861,Sardegna,20
 85,Caltanissetta,2021-01-31,0,17,46,6176,Sicilia,19
 70,Campobasso,2021-01-31,0,177,84,5712,Molise,14
@@ -31149,7 +31149,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 109,Fermo,2021-01-31,1,154,35,6557,Marche,11
 38,Ferrara,2021-01-31,1,511,108,12660,Emilia-Romagna,8
 48,Firenze,2021-01-31,4,1406,161,37408,Toscana,9
-71,Foggia,2021-01-31,6,1059,321,25962,Puglia,16
+71,Foggia,2021-01-31,6,840,321,25962,Puglia,16
 40,Forli-Cesena,2021-01-31,0,482,121,17500,Emilia-Romagna,8
 60,Frosinone,2021-01-31,7,307,20,17188,Lazio,12
 10,Genova,2021-01-31,0,850,119,38635,Liguria,7
@@ -31160,7 +31160,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 66,L Aquila,2021-01-31,0,305,59,12164,Abruzzo,13
 11,La Spezia,2021-01-31,0,113,53,9610,Liguria,7
 59,Latina,2021-01-31,0,359,2,20256,Lazio,12
-75,Lecce,2021-01-31,0,367,80,10344,Puglia,16
+75,Lecce,2021-01-31,0,336,80,10344,Puglia,16
 49,Livorno,2021-01-31,0,298,33,10375,Toscana,9
 46,Lucca,2021-01-31,0,398,53,13798,Toscana,9
 43,Macerata,2021-01-31,1,281,85,11785,Marche,11
@@ -31196,7 +31196,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 52,Siena,2021-01-31,1,159,34,6232,Toscana,9
 89,Siracusa,2021-01-31,0,30,49,9315,Sicilia,19
 111,Sud Sardegna,2021-01-31,0,153,15,6238,Sardegna,20
-73,Taranto,2021-01-31,4,458,163,16651,Puglia,16
+73,Taranto,2021-01-31,4,432,163,16651,Puglia,16
 67,Teramo,2021-01-31,0,230,86,11101,Abruzzo,13
 55,Terni,2021-01-31,0,230,51,7650,Umbria,10
 1,Torino,2021-01-31,15,4024,237,116726,Piemonte,1
@@ -31214,18 +31214,18 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 56,Viterbo,2021-01-31,0,286,2,10717,Lazio,12
 84,Agrigento,2021-02-01,0,8,1,5334,Sicilia,19
 6,Alessandria,2021-02-01,3,1337,33,19862,Piemonte,1
-42,Ancona,2021-02-01,0,548,143,16069,Marche,11
+42,Ancona,2021-02-01,3,551,143,16069,Marche,11
 7,Aosta,2021-02-01,1,397,3,7528,Valle d'Aosta,2
 51,Arezzo,2021-02-01,2,252,37,12185,Toscana,9
 44,Ascoli Piceno,2021-02-01,0,159,5,6297,Marche,11
 5,Asti,2021-02-01,0,577,14,11557,Piemonte,1
-72,Bari,2021-02-01,11,1492,126,46892,Puglia,16
-110,Barletta-Andria-Trani,2021-02-01,3,526,19,13659,Puglia,16
+72,Bari,2021-02-01,11,1030,126,46892,Puglia,16
+110,Barletta-Andria-Trani,2021-02-01,3,493,19,13659,Puglia,16
 25,Belluno,2021-02-01,1,527,28,17304,Veneto,5
 96,Biella,2021-02-01,0,369,8,7594,Piemonte,1
 37,Bologna,2021-02-01,0,1992,298,49205,Emilia-Romagna,8
 21,Bolzano,2021-02-01,2,861,316,40483,P.A. Bolzano,21
-74,Brindisi,2021-02-01,2,244,36,8882,Puglia,16
+74,Brindisi,2021-02-01,2,211,36,8882,Puglia,16
 92,Cagliari,2021-02-01,0,202,27,8888,Sardegna,20
 85,Caltanissetta,2021-02-01,0,17,35,6211,Sicilia,19
 70,Campobasso,2021-02-01,4,181,53,5765,Molise,14
@@ -31237,10 +31237,10 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 101,Crotone,2021-02-01,0,42,0,2623,Calabria,18
 4,Cuneo,2021-02-01,0,1044,34,30704,Piemonte,1
 86,Enna,2021-02-01,0,29,11,4151,Sicilia,19
-109,Fermo,2021-02-01,0,154,3,6560,Marche,11
+109,Fermo,2021-02-01,2,156,3,6560,Marche,11
 38,Ferrara,2021-02-01,8,519,42,12702,Emilia-Romagna,8
 48,Firenze,2021-02-01,4,1410,52,37460,Toscana,9
-71,Foggia,2021-02-01,12,1071,85,26047,Puglia,16
+71,Foggia,2021-02-01,12,852,85,26047,Puglia,16
 40,Forli-Cesena,2021-02-01,4,486,154,17654,Emilia-Romagna,8
 60,Frosinone,2021-02-01,5,312,59,17247,Lazio,12
 10,Genova,2021-02-01,0,850,71,38706,Liguria,7
@@ -31251,10 +31251,10 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 66,L Aquila,2021-02-01,0,305,7,12171,Abruzzo,13
 11,La Spezia,2021-02-01,0,113,22,9632,Liguria,7
 59,Latina,2021-02-01,0,359,10,20266,Lazio,12
-75,Lecce,2021-02-01,0,367,82,10426,Puglia,16
+75,Lecce,2021-02-01,0,336,82,10426,Puglia,16
 49,Livorno,2021-02-01,1,299,44,10419,Toscana,9
 46,Lucca,2021-02-01,0,398,35,13833,Toscana,9
-43,Macerata,2021-02-01,0,281,13,11798,Marche,11
+43,Macerata,2021-02-01,2,283,13,11798,Marche,11
 45,Massa Carrara,2021-02-01,5,429,32,8533,Toscana,9
 77,Matera,2021-02-01,0,70,7,4007,Basilicata,17
 83,Messina,2021-02-01,0,61,80,18041,Sicilia,19
@@ -31266,7 +31266,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 82,Palermo,2021-02-01,0,76,330,37698,Sicilia,19
 34,Parma,2021-02-01,1,1063,84,14997,Emilia-Romagna,8
 54,Perugia,2021-02-01,7,529,139,27071,Umbria,10
-41,Pesaro e Urbino,2021-02-01,0,799,19,12911,Marche,11
+41,Pesaro e Urbino,2021-02-01,1,800,19,12911,Marche,11
 68,Pescara,2021-02-01,0,360,65,9355,Abruzzo,13
 33,Piacenza,2021-02-01,4,1401,18,17738,Emilia-Romagna,8
 50,Pisa,2021-02-01,0,484,49,18144,Toscana,9
@@ -31287,7 +31287,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 52,Siena,2021-02-01,2,161,23,6255,Toscana,9
 89,Siracusa,2021-02-01,0,30,47,9362,Sicilia,19
 111,Sud Sardegna,2021-02-01,0,153,13,6251,Sardegna,20
-73,Taranto,2021-02-01,8,466,32,16683,Puglia,16
+73,Taranto,2021-02-01,8,440,32,16683,Puglia,16
 67,Teramo,2021-02-01,0,230,9,11110,Abruzzo,13
 55,Terni,2021-02-01,1,231,2,7652,Umbria,10
 1,Torino,2021-02-01,4,4028,372,117098,Piemonte,1
@@ -31305,21 +31305,21 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 56,Viterbo,2021-02-01,0,286,175,10892,Lazio,12
 84,Agrigento,2021-02-02,0,8,55,5389,Sicilia,19
 6,Alessandria,2021-02-02,9,1346,44,19906,Piemonte,1
-42,Ancona,2021-02-02,0,548,62,16131,Marche,11
+42,Ancona,2021-02-02,6,557,62,16131,Marche,11
 7,Aosta,2021-02-02,0,397,4,7532,Valle d'Aosta,2
 51,Arezzo,2021-02-02,2,254,37,12222,Toscana,9
-44,Ascoli Piceno,2021-02-02,0,159,44,6341,Marche,11
+44,Ascoli Piceno,2021-02-02,1,160,44,6341,Marche,11
 5,Asti,2021-02-02,0,577,54,11611,Piemonte,1
-72,Bari,2021-02-02,11,1503,374,47266,Puglia,16
-110,Barletta-Andria-Trani,2021-02-02,6,532,86,13745,Puglia,16
+72,Bari,2021-02-02,11,1041,374,47266,Puglia,16
+110,Barletta-Andria-Trani,2021-02-02,6,499,86,13745,Puglia,16
 25,Belluno,2021-02-02,2,529,12,17316,Veneto,5
 96,Biella,2021-02-02,1,370,40,7634,Piemonte,1
 37,Bologna,2021-02-02,29,2021,229,49434,Emilia-Romagna,8
 21,Bolzano,2021-02-02,5,866,639,41122,P.A. Bolzano,21
-74,Brindisi,2021-02-02,0,244,52,8934,Puglia,16
+74,Brindisi,2021-02-02,0,211,52,8934,Puglia,16
 92,Cagliari,2021-02-02,0,202,25,8913,Sardegna,20
 85,Caltanissetta,2021-02-02,0,17,34,6245,Sicilia,19
-70,Campobasso,2021-02-02,0,181,25,5790,Molise,14
+70,Campobasso,2021-02-02,3,184,25,5790,Molise,14
 87,Catania,2021-02-02,0,114,165,38502,Sicilia,19
 79,Catanzaro,2021-02-02,0,89,16,4896,Calabria,18
 69,Chieti,2021-02-02,4,255,68,9896,Abruzzo,13
@@ -31328,10 +31328,10 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 101,Crotone,2021-02-02,0,42,6,2629,Calabria,18
 4,Cuneo,2021-02-02,1,1045,119,30823,Piemonte,1
 86,Enna,2021-02-02,0,29,9,4160,Sicilia,19
-109,Fermo,2021-02-02,0,154,23,6583,Marche,11
+109,Fermo,2021-02-02,1,157,23,6583,Marche,11
 38,Ferrara,2021-02-02,5,524,79,12781,Emilia-Romagna,8
 48,Firenze,2021-02-02,3,1413,118,37578,Toscana,9
-71,Foggia,2021-02-02,3,1074,156,26203,Puglia,16
+71,Foggia,2021-02-02,3,855,156,26203,Puglia,16
 40,Forli-Cesena,2021-02-02,9,495,104,17758,Emilia-Romagna,8
 60,Frosinone,2021-02-02,2,314,170,17417,Lazio,12
 10,Genova,2021-02-02,0,850,93,38799,Liguria,7
@@ -31342,10 +31342,10 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 66,L Aquila,2021-02-02,1,306,18,12189,Abruzzo,13
 11,La Spezia,2021-02-02,0,113,18,9650,Liguria,7
 59,Latina,2021-02-02,8,367,452,20718,Lazio,12
-75,Lecce,2021-02-02,3,370,66,10492,Puglia,16
+75,Lecce,2021-02-02,3,339,66,10492,Puglia,16
 49,Livorno,2021-02-02,0,299,47,10466,Toscana,9
 46,Lucca,2021-02-02,0,398,34,13867,Toscana,9
-43,Macerata,2021-02-02,0,281,110,11908,Marche,11
+43,Macerata,2021-02-02,1,284,110,11908,Marche,11
 45,Massa Carrara,2021-02-02,0,429,21,8554,Toscana,9
 77,Matera,2021-02-02,0,70,12,4019,Basilicata,17
 83,Messina,2021-02-02,0,61,126,18167,Sicilia,19
@@ -31357,7 +31357,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 82,Palermo,2021-02-02,0,76,391,38089,Sicilia,19
 34,Parma,2021-02-02,5,1068,26,15023,Emilia-Romagna,8
 54,Perugia,2021-02-02,8,537,263,27334,Umbria,10
-41,Pesaro e Urbino,2021-02-02,0,799,49,12960,Marche,11
+41,Pesaro e Urbino,2021-02-02,1,801,49,12960,Marche,11
 68,Pescara,2021-02-02,2,362,92,9447,Abruzzo,13
 33,Piacenza,2021-02-02,7,1408,59,17797,Emilia-Romagna,8
 50,Pisa,2021-02-02,1,485,49,18193,Toscana,9
@@ -31378,7 +31378,7 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 52,Siena,2021-02-02,2,163,23,6278,Toscana,9
 89,Siracusa,2021-02-02,0,30,52,9414,Sicilia,19
 111,Sud Sardegna,2021-02-02,0,153,7,6258,Sardegna,20
-73,Taranto,2021-02-02,3,469,143,16826,Puglia,16
+73,Taranto,2021-02-02,3,443,143,16826,Puglia,16
 67,Teramo,2021-02-02,1,231,19,11129,Abruzzo,13
 55,Terni,2021-02-02,4,235,9,7661,Umbria,10
 1,Torino,2021-02-02,12,4040,381,117479,Piemonte,1
@@ -31395,93 +31395,1094 @@ id_prov,Province,Date,Deaths,Tot_deaths,New_cases,Curr_pos_cases,Region,id_reg
 24,Vicenza,2021-02-02,18,1668,122,51461,Veneto,5
 56,Viterbo,2021-02-02,2,288,63,10955,Lazio,12
 84,Agrigento,2021-02-03,0,8,40,5429,Sicilia,19
-6,Alessandria,2021-02-03,0,1346,63,19969,Piemonte,1
-42,Ancona,2021-02-03,0,548,173,16304,Marche,11
+6,Alessandria,2021-02-03,3,1349,63,19969,Piemonte,1
+42,Ancona,2021-02-03,4,561,173,16304,Marche,11
 7,Aosta,2021-02-03,1,398,11,7543,Valle d'Aosta,2
-51,Arezzo,2021-02-03,0,254,61,12283,Toscana,9
-44,Ascoli Piceno,2021-02-03,0,159,41,6382,Marche,11
-5,Asti,2021-02-03,0,577,23,11634,Piemonte,1
-72,Bari,2021-02-03,0,1503,352,47618,Puglia,16
-110,Barletta-Andria-Trani,2021-02-03,0,532,80,13825,Puglia,16
-25,Belluno,2021-02-03,0,529,20,17336,Veneto,5
+51,Arezzo,2021-02-03,4,258,61,12283,Toscana,9
+44,Ascoli Piceno,2021-02-03,3,163,41,6382,Marche,11
+5,Asti,2021-02-03,4,581,23,11634,Piemonte,1
+72,Bari,2021-02-03,12,1053,352,47618,Puglia,16
+110,Barletta-Andria-Trani,2021-02-03,14,513,80,13825,Puglia,16
+25,Belluno,2021-02-03,2,531,20,17336,Veneto,5
 96,Biella,2021-02-03,0,370,29,7663,Piemonte,1
-37,Bologna,2021-02-03,0,2021,219,49653,Emilia-Romagna,8
+37,Bologna,2021-02-03,29,2050,219,49653,Emilia-Romagna,8
 21,Bolzano,2021-02-03,5,871,653,41775,P.A. Bolzano,21
-74,Brindisi,2021-02-03,0,244,104,9038,Puglia,16
+74,Brindisi,2021-02-03,2,213,104,9038,Puglia,16
 92,Cagliari,2021-02-03,0,202,35,8948,Sardegna,20
 85,Caltanissetta,2021-02-03,0,17,63,6308,Sicilia,19
-70,Campobasso,2021-02-03,0,181,70,5860,Molise,14
+70,Campobasso,2021-02-03,3,187,70,5860,Molise,14
 87,Catania,2021-02-03,0,114,186,38688,Sicilia,19
-79,Catanzaro,2021-02-03,0,89,32,4928,Calabria,18
-69,Chieti,2021-02-03,0,255,124,10020,Abruzzo,13
-78,Cosenza,2021-02-03,0,257,115,9879,Calabria,18
+79,Catanzaro,2021-02-03,1,90,32,4928,Calabria,18
+69,Chieti,2021-02-03,1,256,124,10020,Abruzzo,13
+78,Cosenza,2021-02-03,3,260,115,9879,Calabria,18
 19,Cremona,2021-02-03,0,1132,61,16274,Lombardia,3
 101,Crotone,2021-02-03,0,42,6,2635,Calabria,18
-4,Cuneo,2021-02-03,0,1045,78,30901,Piemonte,1
+4,Cuneo,2021-02-03,3,1048,78,30901,Piemonte,1
 86,Enna,2021-02-03,0,29,13,4173,Sicilia,19
-109,Fermo,2021-02-03,0,154,52,6635,Marche,11
-38,Ferrara,2021-02-03,0,524,78,12859,Emilia-Romagna,8
-48,Firenze,2021-02-03,0,1413,145,37723,Toscana,9
-71,Foggia,2021-02-03,0,1074,123,26326,Puglia,16
-40,Forli-Cesena,2021-02-03,0,495,158,17916,Emilia-Romagna,8
-60,Frosinone,2021-02-03,0,314,58,17475,Lazio,12
+109,Fermo,2021-02-03,0,157,52,6635,Marche,11
+38,Ferrara,2021-02-03,5,529,78,12859,Emilia-Romagna,8
+48,Firenze,2021-02-03,8,1421,145,37723,Toscana,9
+71,Foggia,2021-02-03,4,859,123,26326,Puglia,16
+40,Forli-Cesena,2021-02-03,15,510,158,17916,Emilia-Romagna,8
+60,Frosinone,2021-02-03,1,315,58,17475,Lazio,12
 10,Genova,2021-02-03,0,850,57,38856,Liguria,7
-31,Gorizia,2021-02-03,0,161,95,8226,Friuli Venezia Giulia,6
-53,Grosseto,2021-02-03,0,106,13,4584,Toscana,9
+31,Gorizia,2021-02-03,3,164,95,8226,Friuli Venezia Giulia,6
+53,Grosseto,2021-02-03,1,107,13,4584,Toscana,9
 8,Imperia,2021-02-03,0,284,82,8175,Liguria,7
-94,Isernia,2021-02-03,0,82,8,2605,Molise,14
+94,Isernia,2021-02-03,2,84,8,2605,Molise,14
 66,L Aquila,2021-02-03,0,306,50,12239,Abruzzo,13
 11,La Spezia,2021-02-03,0,113,59,9709,Liguria,7
-59,Latina,2021-02-03,0,367,94,20812,Lazio,12
-75,Lecce,2021-02-03,0,370,83,10575,Puglia,16
+59,Latina,2021-02-03,4,371,94,20812,Lazio,12
+75,Lecce,2021-02-03,8,347,83,10575,Puglia,16
 49,Livorno,2021-02-03,0,299,63,10529,Toscana,9
-46,Lucca,2021-02-03,0,398,35,13902,Toscana,9
-43,Macerata,2021-02-03,0,281,52,11960,Marche,11
-45,Massa Carrara,2021-02-03,0,429,29,8583,Toscana,9
+46,Lucca,2021-02-03,2,400,35,13902,Toscana,9
+43,Macerata,2021-02-03,2,286,52,11960,Marche,11
+45,Massa Carrara,2021-02-03,1,430,29,8583,Toscana,9
 77,Matera,2021-02-03,0,70,25,4044,Basilicata,17
 83,Messina,2021-02-03,0,61,123,18290,Sicilia,19
-36,Modena,2021-02-03,0,1279,68,38257,Emilia-Romagna,8
+36,Modena,2021-02-03,6,1285,68,38257,Emilia-Romagna,8
 3,Novara,2021-02-03,0,741,61,17717,Piemonte,1
 91,Nuoro,2021-02-03,0,66,35,7788,Sardegna,20
 95,Oristano,2021-02-03,0,56,16,3217,Sardegna,20
-28,Padova,2021-02-03,0,1310,134,57724,Veneto,5
+28,Padova,2021-02-03,10,1320,134,57724,Veneto,5
 82,Palermo,2021-02-03,0,76,345,38434,Sicilia,19
-34,Parma,2021-02-03,0,1068,64,15087,Emilia-Romagna,8
-54,Perugia,2021-02-03,0,537,421,27755,Umbria,10
-41,Pesaro e Urbino,2021-02-03,0,799,77,13037,Marche,11
-68,Pescara,2021-02-03,0,362,173,9620,Abruzzo,13
-33,Piacenza,2021-02-03,0,1408,92,17889,Emilia-Romagna,8
+34,Parma,2021-02-03,1,1069,64,15087,Emilia-Romagna,8
+54,Perugia,2021-02-03,9,546,421,27755,Umbria,10
+41,Pesaro e Urbino,2021-02-03,3,804,77,13037,Marche,11
+68,Pescara,2021-02-03,2,364,173,9620,Abruzzo,13
+33,Piacenza,2021-02-03,6,1414,92,17889,Emilia-Romagna,8
 50,Pisa,2021-02-03,0,485,56,18249,Toscana,9
-47,Pistoia,2021-02-03,0,300,48,11538,Toscana,9
-93,Pordenone,2021-02-03,0,543,97,15550,Friuli Venezia Giulia,6
-76,Potenza,2021-02-03,0,207,43,8916,Basilicata,17
-100,Prato,2021-02-03,0,282,41,11495,Toscana,9
+47,Pistoia,2021-02-03,3,303,48,11538,Toscana,9
+93,Pordenone,2021-02-03,4,547,97,15550,Friuli Venezia Giulia,6
+76,Potenza,2021-02-03,3,210,43,8916,Basilicata,17
+100,Prato,2021-02-03,2,284,41,11495,Toscana,9
 88,Ragusa,2021-02-03,0,7,13,7979,Sicilia,19
-39,Ravenna,2021-02-03,0,749,83,16662,Emilia-Romagna,8
-80,Reggio di Calabria,2021-02-03,0,175,140,12759,Calabria,18
-35,Reggio nell Emilia,2021-02-03,0,993,120,29637,Emilia-Romagna,8
-57,Rieti,2021-02-03,0,192,41,6739,Lazio,12
-99,Rimini,2021-02-03,0,695,141,20120,Emilia-Romagna,8
-58,Roma,2021-02-03,0,3350,890,148048,Lazio,12
-29,Rovigo,2021-02-03,0,380,29,9697,Veneto,5
+39,Ravenna,2021-02-03,5,754,83,16662,Emilia-Romagna,8
+80,Reggio di Calabria,2021-02-03,1,176,140,12759,Calabria,18
+35,Reggio nell Emilia,2021-02-03,6,999,120,29637,Emilia-Romagna,8
+57,Rieti,2021-02-03,3,195,41,6739,Lazio,12
+99,Rimini,2021-02-03,3,698,141,20120,Emilia-Romagna,8
+58,Roma,2021-02-03,37,3387,890,148048,Lazio,12
+29,Rovigo,2021-02-03,2,382,29,9697,Veneto,5
 90,Sassari,2021-02-03,0,266,28,12634,Sardegna,20
 9,Savona,2021-02-03,0,343,27,10083,Liguria,7
 52,Siena,2021-02-03,0,163,60,6338,Toscana,9
 89,Siracusa,2021-02-03,0,30,33,9447,Sicilia,19
 111,Sud Sardegna,2021-02-03,0,153,29,6287,Sardegna,20
-73,Taranto,2021-02-03,0,469,297,17123,Puglia,16
-67,Teramo,2021-02-03,0,231,78,11207,Abruzzo,13
+73,Taranto,2021-02-03,6,449,297,17123,Puglia,16
+67,Teramo,2021-02-03,1,232,78,11207,Abruzzo,13
 55,Terni,2021-02-03,0,235,26,7687,Umbria,10
-1,Torino,2021-02-03,0,4040,491,117970,Piemonte,1
+1,Torino,2021-02-03,13,4053,491,117970,Piemonte,1
 81,Trapani,2021-02-03,0,12,70,9991,Sicilia,19
 22,Trento,2021-02-03,3,1146,261,28013,P.A. Trento,22
-26,Treviso,2021-02-03,0,1369,130,61604,Veneto,5
-32,Trieste,2021-02-03,0,555,101,13678,Friuli Venezia Giulia,6
-30,Udine,2021-02-03,0,1185,389,30334,Friuli Venezia Giulia,6
-27,Venezia,2021-02-03,0,1592,95,50372,Veneto,5
-103,Verbano-Cusio-Ossola,2021-02-03,0,289,38,8055,Piemonte,1
-2,Vercelli,2021-02-03,0,405,31,8374,Piemonte,1
-23,Verona,2021-02-03,0,2182,96,60816,Veneto,5
-102,Vibo Valentia,2021-02-03,0,38,25,2866,Calabria,18
-24,Vicenza,2021-02-03,0,1668,113,51574,Veneto,5
-56,Viterbo,2021-02-03,0,288,37,10992,Lazio,12
+26,Treviso,2021-02-03,20,1389,130,61604,Veneto,5
+32,Trieste,2021-02-03,9,564,101,13678,Friuli Venezia Giulia,6
+30,Udine,2021-02-03,11,1196,389,30334,Friuli Venezia Giulia,6
+27,Venezia,2021-02-03,13,1605,95,50372,Veneto,5
+103,Verbano-Cusio-Ossola,2021-02-03,1,290,38,8055,Piemonte,1
+2,Vercelli,2021-02-03,1,406,31,8374,Piemonte,1
+23,Verona,2021-02-03,6,2188,96,60816,Veneto,5
+102,Vibo Valentia,2021-02-03,2,40,25,2866,Calabria,18
+24,Vicenza,2021-02-03,4,1672,113,51574,Veneto,5
+56,Viterbo,2021-02-03,4,292,37,10992,Lazio,12
+84,Agrigento,2021-02-04,0,8,34,5463,Sicilia,19
+6,Alessandria,2021-02-04,5,1354,49,20018,Piemonte,1
+42,Ancona,2021-02-04,6,567,179,16483,Marche,11
+7,Aosta,2021-02-04,0,398,11,7554,Valle d'Aosta,2
+51,Arezzo,2021-02-04,3,261,56,12339,Toscana,9
+44,Ascoli Piceno,2021-02-04,1,164,52,6434,Marche,11
+5,Asti,2021-02-04,0,581,50,11684,Piemonte,1
+72,Bari,2021-02-04,10,1063,502,48120,Puglia,16
+110,Barletta-Andria-Trani,2021-02-04,0,513,73,13898,Puglia,16
+25,Belluno,2021-02-04,7,538,19,17355,Veneto,5
+96,Biella,2021-02-04,1,371,29,7692,Piemonte,1
+37,Bologna,2021-02-04,24,2074,263,49916,Emilia-Romagna,8
+21,Bolzano,2021-02-04,2,873,747,42522,P.A. Bolzano,21
+74,Brindisi,2021-02-04,0,213,92,9130,Puglia,16
+92,Cagliari,2021-02-04,0,202,67,9015,Sardegna,20
+85,Caltanissetta,2021-02-04,0,17,36,6344,Sicilia,19
+70,Campobasso,2021-02-04,2,189,78,5938,Molise,14
+87,Catania,2021-02-04,0,114,211,38899,Sicilia,19
+79,Catanzaro,2021-02-04,0,90,12,4940,Calabria,18
+69,Chieti,2021-02-04,2,258,176,10196,Abruzzo,13
+78,Cosenza,2021-02-04,0,260,64,9943,Calabria,18
+19,Cremona,2021-02-04,0,1132,53,16327,Lombardia,3
+101,Crotone,2021-02-04,0,42,6,2641,Calabria,18
+4,Cuneo,2021-02-04,4,1052,88,30989,Piemonte,1
+86,Enna,2021-02-04,0,29,10,4183,Sicilia,19
+109,Fermo,2021-02-04,3,160,49,6684,Marche,11
+38,Ferrara,2021-02-04,4,533,89,12948,Emilia-Romagna,8
+48,Firenze,2021-02-04,10,1431,221,37944,Toscana,9
+71,Foggia,2021-02-04,7,866,60,26386,Puglia,16
+40,Forli-Cesena,2021-02-04,9,519,144,18060,Emilia-Romagna,8
+60,Frosinone,2021-02-04,0,315,40,17515,Lazio,12
+10,Genova,2021-02-04,0,850,191,39047,Liguria,7
+31,Gorizia,2021-02-04,3,167,18,8244,Friuli Venezia Giulia,6
+53,Grosseto,2021-02-04,0,107,18,4602,Toscana,9
+8,Imperia,2021-02-04,0,284,98,8273,Liguria,7
+94,Isernia,2021-02-04,0,84,2,2607,Molise,14
+66,L Aquila,2021-02-04,1,307,71,12310,Abruzzo,13
+11,La Spezia,2021-02-04,0,113,82,9791,Liguria,7
+59,Latina,2021-02-04,3,374,94,20906,Lazio,12
+75,Lecce,2021-02-04,8,355,86,10661,Puglia,16
+49,Livorno,2021-02-04,0,299,61,10590,Toscana,9
+46,Lucca,2021-02-04,2,402,76,13978,Toscana,9
+43,Macerata,2021-02-04,0,286,74,12034,Marche,11
+45,Massa Carrara,2021-02-04,2,432,46,8629,Toscana,9
+77,Matera,2021-02-04,0,70,25,4069,Basilicata,17
+83,Messina,2021-02-04,0,61,49,18339,Sicilia,19
+36,Modena,2021-02-04,5,1290,200,38457,Emilia-Romagna,8
+3,Novara,2021-02-04,2,743,70,17787,Piemonte,1
+91,Nuoro,2021-02-04,0,66,30,7818,Sardegna,20
+95,Oristano,2021-02-04,0,56,49,3266,Sardegna,20
+28,Padova,2021-02-04,11,1331,159,57883,Veneto,5
+82,Palermo,2021-02-04,0,76,315,38749,Sicilia,19
+34,Parma,2021-02-04,4,1073,75,15162,Emilia-Romagna,8
+54,Perugia,2021-02-04,3,549,317,28072,Umbria,10
+41,Pesaro e Urbino,2021-02-04,5,809,105,13142,Marche,11
+68,Pescara,2021-02-04,2,366,207,9827,Abruzzo,13
+33,Piacenza,2021-02-04,5,1419,69,17958,Emilia-Romagna,8
+50,Pisa,2021-02-04,0,485,54,18303,Toscana,9
+47,Pistoia,2021-02-04,2,305,112,11650,Toscana,9
+93,Pordenone,2021-02-04,3,550,88,15638,Friuli Venezia Giulia,6
+76,Potenza,2021-02-04,0,210,39,8955,Basilicata,17
+100,Prato,2021-02-04,1,285,59,11554,Toscana,9
+88,Ragusa,2021-02-04,0,7,10,7989,Sicilia,19
+39,Ravenna,2021-02-04,1,755,69,16731,Emilia-Romagna,8
+80,Reggio di Calabria,2021-02-04,0,176,106,12865,Calabria,18
+35,Reggio nell Emilia,2021-02-04,4,1003,136,29773,Emilia-Romagna,8
+57,Rieti,2021-02-04,0,195,31,6770,Lazio,12
+99,Rimini,2021-02-04,0,698,131,20251,Emilia-Romagna,8
+58,Roma,2021-02-04,39,3426,969,149017,Lazio,12
+29,Rovigo,2021-02-04,3,385,49,9746,Veneto,5
+90,Sassari,2021-02-04,0,266,39,12673,Sardegna,20
+9,Savona,2021-02-04,0,343,105,10188,Liguria,7
+52,Siena,2021-02-04,1,164,57,6395,Toscana,9
+89,Siracusa,2021-02-04,0,30,63,9510,Sicilia,19
+111,Sud Sardegna,2021-02-04,0,153,20,6307,Sardegna,20
+73,Taranto,2021-02-04,6,455,163,17286,Puglia,16
+67,Teramo,2021-02-04,1,233,103,11310,Abruzzo,13
+55,Terni,2021-02-04,0,235,33,7720,Umbria,10
+1,Torino,2021-02-04,16,4069,467,118437,Piemonte,1
+81,Trapani,2021-02-04,0,12,61,10052,Sicilia,19
+22,Trento,2021-02-04,5,1151,240,28253,P.A. Trento,22
+26,Treviso,2021-02-04,17,1406,190,61794,Veneto,5
+32,Trieste,2021-02-04,4,568,37,13715,Friuli Venezia Giulia,6
+30,Udine,2021-02-04,9,1205,208,30542,Friuli Venezia Giulia,6
+27,Venezia,2021-02-04,5,1610,121,50493,Veneto,5
+103,Verbano-Cusio-Ossola,2021-02-04,2,292,18,8073,Piemonte,1
+2,Vercelli,2021-02-04,1,407,28,8402,Piemonte,1
+23,Verona,2021-02-04,14,2202,170,60986,Veneto,5
+102,Vibo Valentia,2021-02-04,0,40,14,2880,Calabria,18
+24,Vicenza,2021-02-04,4,1676,179,51753,Veneto,5
+56,Viterbo,2021-02-04,0,292,36,11028,Lazio,12
+84,Agrigento,2021-02-05,0,8,25,5488,Sicilia,19
+6,Alessandria,2021-02-05,3,1357,78,20096,Piemonte,1
+42,Ancona,2021-02-05,4,571,181,16664,Marche,11
+7,Aosta,2021-02-05,1,399,8,7562,Valle d'Aosta,2
+51,Arezzo,2021-02-05,2,263,78,12417,Toscana,9
+44,Ascoli Piceno,2021-02-05,1,165,20,6454,Marche,11
+5,Asti,2021-02-05,0,581,33,11717,Piemonte,1
+72,Bari,2021-02-05,9,1072,361,48481,Puglia,16
+110,Barletta-Andria-Trani,2021-02-05,0,513,121,14019,Puglia,16
+25,Belluno,2021-02-05,0,538,12,17367,Veneto,5
+96,Biella,2021-02-05,0,371,17,7709,Piemonte,1
+37,Bologna,2021-02-05,12,2086,371,50287,Emilia-Romagna,8
+21,Bolzano,2021-02-05,6,879,687,43209,P.A. Bolzano,21
+74,Brindisi,2021-02-05,0,213,97,9227,Puglia,16
+92,Cagliari,2021-02-05,0,202,50,9065,Sardegna,20
+85,Caltanissetta,2021-02-05,0,17,20,6364,Sicilia,19
+70,Campobasso,2021-02-05,1,190,87,6025,Molise,14
+87,Catania,2021-02-05,0,114,151,39050,Sicilia,19
+79,Catanzaro,2021-02-05,0,90,30,4970,Calabria,18
+69,Chieti,2021-02-05,0,258,141,10337,Abruzzo,13
+78,Cosenza,2021-02-05,0,260,34,9977,Calabria,18
+19,Cremona,2021-02-05,0,1132,44,16371,Lombardia,3
+101,Crotone,2021-02-05,0,42,5,2646,Calabria,18
+4,Cuneo,2021-02-05,5,1057,88,31077,Piemonte,1
+86,Enna,2021-02-05,0,29,8,4191,Sicilia,19
+109,Fermo,2021-02-05,0,160,21,6705,Marche,11
+38,Ferrara,2021-02-05,8,541,77,13025,Emilia-Romagna,8
+48,Firenze,2021-02-05,5,1436,191,38135,Toscana,9
+71,Foggia,2021-02-05,13,879,261,26647,Puglia,16
+40,Forli-Cesena,2021-02-05,5,524,117,18177,Emilia-Romagna,8
+60,Frosinone,2021-02-05,0,315,119,17634,Lazio,12
+10,Genova,2021-02-05,0,850,154,39201,Liguria,7
+31,Gorizia,2021-02-05,1,168,67,8311,Friuli Venezia Giulia,6
+53,Grosseto,2021-02-05,0,107,30,4632,Toscana,9
+8,Imperia,2021-02-05,0,284,66,8339,Liguria,7
+94,Isernia,2021-02-05,0,84,14,2621,Molise,14
+66,L Aquila,2021-02-05,0,307,41,12351,Abruzzo,13
+11,La Spezia,2021-02-05,0,113,31,9822,Liguria,7
+59,Latina,2021-02-05,0,374,3,20909,Lazio,12
+75,Lecce,2021-02-05,0,355,106,10767,Puglia,16
+49,Livorno,2021-02-05,0,299,58,10648,Toscana,9
+46,Lucca,2021-02-05,0,402,78,14056,Toscana,9
+43,Macerata,2021-02-05,0,286,82,12116,Marche,11
+45,Massa Carrara,2021-02-05,1,433,55,8684,Toscana,9
+77,Matera,2021-02-05,1,71,26,4095,Basilicata,17
+83,Messina,2021-02-05,0,61,53,18392,Sicilia,19
+36,Modena,2021-02-05,5,1295,273,38730,Emilia-Romagna,8
+3,Novara,2021-02-05,3,746,59,17846,Piemonte,1
+91,Nuoro,2021-02-05,0,66,36,7854,Sardegna,20
+95,Oristano,2021-02-05,0,56,34,3300,Sardegna,20
+28,Padova,2021-02-05,3,1334,177,58060,Veneto,5
+82,Palermo,2021-02-05,0,76,226,38975,Sicilia,19
+34,Parma,2021-02-05,2,1075,81,15243,Emilia-Romagna,8
+54,Perugia,2021-02-05,9,558,409,28481,Umbria,10
+41,Pesaro e Urbino,2021-02-05,1,810,91,13233,Marche,11
+68,Pescara,2021-02-05,0,366,37,9864,Abruzzo,13
+33,Piacenza,2021-02-05,1,1420,71,18029,Emilia-Romagna,8
+50,Pisa,2021-02-05,3,488,74,18377,Toscana,9
+47,Pistoia,2021-02-05,0,305,67,11717,Toscana,9
+93,Pordenone,2021-02-05,4,554,116,15754,Friuli Venezia Giulia,6
+76,Potenza,2021-02-05,1,211,62,9017,Basilicata,17
+100,Prato,2021-02-05,1,286,55,11609,Toscana,9
+88,Ragusa,2021-02-05,0,7,12,8001,Sicilia,19
+39,Ravenna,2021-02-05,7,762,88,16819,Emilia-Romagna,8
+80,Reggio di Calabria,2021-02-05,0,176,141,13006,Calabria,18
+35,Reggio nell Emilia,2021-02-05,4,1007,167,29940,Emilia-Romagna,8
+57,Rieti,2021-02-05,0,195,23,6793,Lazio,12
+99,Rimini,2021-02-05,7,705,180,20431,Emilia-Romagna,8
+58,Roma,2021-02-05,31,3457,986,150003,Lazio,12
+29,Rovigo,2021-02-05,2,387,30,9776,Veneto,5
+90,Sassari,2021-02-05,0,266,36,12709,Sardegna,20
+9,Savona,2021-02-05,0,343,65,10253,Liguria,7
+52,Siena,2021-02-05,3,167,17,6412,Toscana,9
+89,Siracusa,2021-02-05,0,30,47,9557,Sicilia,19
+111,Sud Sardegna,2021-02-05,0,153,13,6320,Sardegna,20
+73,Taranto,2021-02-05,9,464,280,17566,Puglia,16
+67,Teramo,2021-02-05,0,233,33,11343,Abruzzo,13
+55,Terni,2021-02-05,1,236,23,7743,Umbria,10
+1,Torino,2021-02-05,11,4080,587,119024,Piemonte,1
+81,Trapani,2021-02-05,0,12,74,10126,Sicilia,19
+22,Trento,2021-02-05,0,1151,202,28455,P.A. Trento,22
+26,Treviso,2021-02-05,11,1417,128,61922,Veneto,5
+32,Trieste,2021-02-05,10,578,66,13781,Friuli Venezia Giulia,6
+30,Udine,2021-02-05,17,1222,194,30736,Friuli Venezia Giulia,6
+27,Venezia,2021-02-05,2,1612,87,50580,Veneto,5
+103,Verbano-Cusio-Ossola,2021-02-05,0,292,50,8123,Piemonte,1
+2,Vercelli,2021-02-05,0,407,15,8417,Piemonte,1
+23,Verona,2021-02-05,3,2205,88,61074,Veneto,5
+102,Vibo Valentia,2021-02-05,0,40,29,2909,Calabria,18
+24,Vicenza,2021-02-05,4,1680,132,51885,Veneto,5
+56,Viterbo,2021-02-05,0,292,-1,11027,Lazio,12
+84,Agrigento,2021-02-06,0,8,27,5515,Sicilia,19
+6,Alessandria,2021-02-06,2,1359,40,20136,Piemonte,1
+42,Ancona,2021-02-06,1,572,203,16867,Marche,11
+7,Aosta,2021-02-06,1,400,8,7570,Valle d'Aosta,2
+51,Arezzo,2021-02-06,2,265,64,12481,Toscana,9
+44,Ascoli Piceno,2021-02-06,1,166,26,6480,Marche,11
+5,Asti,2021-02-06,1,582,46,11763,Piemonte,1
+72,Bari,2021-02-06,6,1078,296,48777,Puglia,16
+110,Barletta-Andria-Trani,2021-02-06,8,521,88,14107,Puglia,16
+25,Belluno,2021-02-06,2,540,37,17404,Veneto,5
+96,Biella,2021-02-06,2,373,29,7738,Piemonte,1
+37,Bologna,2021-02-06,6,2092,412,50699,Emilia-Romagna,8
+21,Bolzano,2021-02-06,4,883,802,44011,P.A. Bolzano,21
+74,Brindisi,2021-02-06,2,215,77,9304,Puglia,16
+92,Cagliari,2021-02-06,0,202,26,9091,Sardegna,20
+85,Caltanissetta,2021-02-06,0,17,60,6424,Sicilia,19
+70,Campobasso,2021-02-06,2,192,77,6102,Molise,14
+87,Catania,2021-02-06,0,114,244,39294,Sicilia,19
+79,Catanzaro,2021-02-06,0,90,19,4989,Calabria,18
+69,Chieti,2021-02-06,0,258,103,10440,Abruzzo,13
+78,Cosenza,2021-02-06,0,260,68,10045,Calabria,18
+19,Cremona,2021-02-06,0,1132,38,16409,Lombardia,3
+101,Crotone,2021-02-06,0,42,2,2648,Calabria,18
+4,Cuneo,2021-02-06,7,1064,71,31148,Piemonte,1
+86,Enna,2021-02-06,0,29,8,4199,Sicilia,19
+109,Fermo,2021-02-06,1,161,39,6744,Marche,11
+38,Ferrara,2021-02-06,2,543,97,13122,Emilia-Romagna,8
+48,Firenze,2021-02-06,2,1438,159,38294,Toscana,9
+71,Foggia,2021-02-06,8,887,170,26817,Puglia,16
+40,Forli-Cesena,2021-02-06,13,537,138,18315,Emilia-Romagna,8
+60,Frosinone,2021-02-06,4,319,89,17723,Lazio,12
+10,Genova,2021-02-06,0,850,108,39309,Liguria,7
+31,Gorizia,2021-02-06,0,168,38,8349,Friuli Venezia Giulia,6
+53,Grosseto,2021-02-06,0,107,31,4663,Toscana,9
+8,Imperia,2021-02-06,0,284,65,8404,Liguria,7
+94,Isernia,2021-02-06,1,85,1,2622,Molise,14
+66,L Aquila,2021-02-06,0,307,46,12397,Abruzzo,13
+11,La Spezia,2021-02-06,0,113,50,9872,Liguria,7
+59,Latina,2021-02-06,4,378,357,21266,Lazio,12
+75,Lecce,2021-02-06,2,357,108,10875,Puglia,16
+49,Livorno,2021-02-06,1,300,53,10701,Toscana,9
+46,Lucca,2021-02-06,0,402,44,14100,Toscana,9
+43,Macerata,2021-02-06,1,287,64,12180,Marche,11
+45,Massa Carrara,2021-02-06,0,433,36,8720,Toscana,9
+77,Matera,2021-02-06,1,72,19,4114,Basilicata,17
+83,Messina,2021-02-06,0,61,110,18502,Sicilia,19
+36,Modena,2021-02-06,7,1302,177,38907,Emilia-Romagna,8
+3,Novara,2021-02-06,2,748,51,17897,Piemonte,1
+91,Nuoro,2021-02-06,0,66,16,7870,Sardegna,20
+95,Oristano,2021-02-06,0,56,15,3315,Sardegna,20
+28,Padova,2021-02-06,18,1352,188,58248,Veneto,5
+82,Palermo,2021-02-06,0,76,254,39229,Sicilia,19
+34,Parma,2021-02-06,1,1076,59,15302,Emilia-Romagna,8
+54,Perugia,2021-02-06,8,566,316,28797,Umbria,10
+41,Pesaro e Urbino,2021-02-06,1,811,86,13319,Marche,11
+68,Pescara,2021-02-06,0,366,303,10167,Abruzzo,13
+33,Piacenza,2021-02-06,5,1425,70,18099,Emilia-Romagna,8
+50,Pisa,2021-02-06,1,489,74,18451,Toscana,9
+47,Pistoia,2021-02-06,0,305,105,11822,Toscana,9
+93,Pordenone,2021-02-06,1,555,80,15834,Friuli Venezia Giulia,6
+76,Potenza,2021-02-06,1,212,63,9080,Basilicata,17
+100,Prato,2021-02-06,1,287,67,11676,Toscana,9
+88,Ragusa,2021-02-06,0,7,9,8010,Sicilia,19
+39,Ravenna,2021-02-06,4,766,93,16912,Emilia-Romagna,8
+80,Reggio di Calabria,2021-02-06,0,176,61,13067,Calabria,18
+35,Reggio nell Emilia,2021-02-06,4,1011,127,30067,Emilia-Romagna,8
+57,Rieti,2021-02-06,0,195,16,6809,Lazio,12
+99,Rimini,2021-02-06,2,707,187,20618,Emilia-Romagna,8
+58,Roma,2021-02-06,27,3484,545,150548,Lazio,12
+29,Rovigo,2021-02-06,2,389,39,9815,Veneto,5
+90,Sassari,2021-02-06,0,266,52,12761,Sardegna,20
+9,Savona,2021-02-06,0,343,43,10296,Liguria,7
+52,Siena,2021-02-06,3,170,75,6487,Toscana,9
+89,Siracusa,2021-02-06,0,30,64,9621,Sicilia,19
+111,Sud Sardegna,2021-02-06,0,153,16,6336,Sardegna,20
+73,Taranto,2021-02-06,4,468,187,17753,Puglia,16
+67,Teramo,2021-02-06,0,233,72,11415,Abruzzo,13
+55,Terni,2021-02-06,1,237,44,7787,Umbria,10
+1,Torino,2021-02-06,7,4087,414,119438,Piemonte,1
+81,Trapani,2021-02-06,0,12,60,10186,Sicilia,19
+22,Trento,2021-02-06,2,1153,278,28733,P.A. Trento,22
+26,Treviso,2021-02-06,17,1434,125,62047,Veneto,5
+32,Trieste,2021-02-06,6,584,42,13823,Friuli Venezia Giulia,6
+30,Udine,2021-02-06,18,1240,251,30987,Friuli Venezia Giulia,6
+27,Venezia,2021-02-06,7,1619,140,50720,Veneto,5
+103,Verbano-Cusio-Ossola,2021-02-06,0,292,33,8156,Piemonte,1
+2,Vercelli,2021-02-06,0,407,30,8447,Piemonte,1
+23,Verona,2021-02-06,6,2211,139,61213,Veneto,5
+102,Vibo Valentia,2021-02-06,0,40,47,2956,Calabria,18
+24,Vicenza,2021-02-06,10,1690,151,52036,Veneto,5
+56,Viterbo,2021-02-06,3,295,2,11029,Lazio,12
+84,Agrigento,2021-02-07,0,8,10,5525,Sicilia,19
+6,Alessandria,2021-02-07,1,1360,20,20156,Piemonte,1
+42,Ancona,2021-02-07,3,575,160,17027,Marche,11
+7,Aosta,2021-02-07,1,401,1,7571,Valle d'Aosta,2
+51,Arezzo,2021-02-07,2,267,37,12518,Toscana,9
+44,Ascoli Piceno,2021-02-07,1,167,14,6494,Marche,11
+5,Asti,2021-02-07,2,584,45,11808,Piemonte,1
+72,Bari,2021-02-07,1,1079,332,49109,Puglia,16
+110,Barletta-Andria-Trani,2021-02-07,0,521,52,14159,Puglia,16
+25,Belluno,2021-02-07,1,541,19,17423,Veneto,5
+96,Biella,2021-02-07,0,373,10,7748,Piemonte,1
+37,Bologna,2021-02-07,0,2092,323,51022,Emilia-Romagna,8
+21,Bolzano,2021-02-07,5,888,470,44481,P.A. Bolzano,21
+74,Brindisi,2021-02-07,0,215,28,9332,Puglia,16
+92,Cagliari,2021-02-07,0,202,49,9140,Sardegna,20
+85,Caltanissetta,2021-02-07,0,17,14,6438,Sicilia,19
+70,Campobasso,2021-02-07,5,197,66,6168,Molise,14
+87,Catania,2021-02-07,0,114,153,39447,Sicilia,19
+79,Catanzaro,2021-02-07,2,92,17,5006,Calabria,18
+69,Chieti,2021-02-07,0,258,157,10597,Abruzzo,13
+78,Cosenza,2021-02-07,2,262,23,10068,Calabria,18
+19,Cremona,2021-02-07,0,1132,54,16463,Lombardia,3
+101,Crotone,2021-02-07,0,42,5,2653,Calabria,18
+4,Cuneo,2021-02-07,2,1066,46,31194,Piemonte,1
+86,Enna,2021-02-07,0,29,4,4203,Sicilia,19
+109,Fermo,2021-02-07,1,162,28,6772,Marche,11
+38,Ferrara,2021-02-07,4,547,90,13212,Emilia-Romagna,8
+48,Firenze,2021-02-07,4,1442,191,38485,Toscana,9
+71,Foggia,2021-02-07,5,892,132,26949,Puglia,16
+40,Forli-Cesena,2021-02-07,3,540,117,18432,Emilia-Romagna,8
+60,Frosinone,2021-02-07,0,319,21,17744,Lazio,12
+10,Genova,2021-02-07,0,850,189,39498,Liguria,7
+31,Gorizia,2021-02-07,1,169,13,8362,Friuli Venezia Giulia,6
+53,Grosseto,2021-02-07,0,107,16,4679,Toscana,9
+8,Imperia,2021-02-07,0,284,78,8482,Liguria,7
+94,Isernia,2021-02-07,0,85,24,2646,Molise,14
+66,L Aquila,2021-02-07,0,307,25,12422,Abruzzo,13
+11,La Spezia,2021-02-07,0,113,39,9911,Liguria,7
+59,Latina,2021-02-07,0,378,111,21377,Lazio,12
+75,Lecce,2021-02-07,0,357,75,10950,Puglia,16
+49,Livorno,2021-02-07,4,304,60,10761,Toscana,9
+46,Lucca,2021-02-07,2,404,72,14172,Toscana,9
+43,Macerata,2021-02-07,2,289,76,12256,Marche,11
+45,Massa Carrara,2021-02-07,0,433,43,8763,Toscana,9
+77,Matera,2021-02-07,0,72,17,4131,Basilicata,17
+83,Messina,2021-02-07,0,61,98,18600,Sicilia,19
+36,Modena,2021-02-07,4,1306,252,39159,Emilia-Romagna,8
+3,Novara,2021-02-07,0,748,44,17941,Piemonte,1
+91,Nuoro,2021-02-07,0,66,37,7907,Sardegna,20
+95,Oristano,2021-02-07,0,56,34,3349,Sardegna,20
+28,Padova,2021-02-07,3,1355,160,58408,Veneto,5
+82,Palermo,2021-02-07,0,76,213,39442,Sicilia,19
+34,Parma,2021-02-07,6,1082,86,15388,Emilia-Romagna,8
+54,Perugia,2021-02-07,3,569,328,29125,Umbria,10
+41,Pesaro e Urbino,2021-02-07,1,812,99,13418,Marche,11
+68,Pescara,2021-02-07,0,366,161,10328,Abruzzo,13
+33,Piacenza,2021-02-07,1,1426,86,18185,Emilia-Romagna,8
+50,Pisa,2021-02-07,5,494,64,18515,Toscana,9
+47,Pistoia,2021-02-07,4,309,77,11899,Toscana,9
+93,Pordenone,2021-02-07,3,558,50,15884,Friuli Venezia Giulia,6
+76,Potenza,2021-02-07,4,216,59,9139,Basilicata,17
+100,Prato,2021-02-07,1,288,60,11736,Toscana,9
+88,Ragusa,2021-02-07,0,7,10,8020,Sicilia,19
+39,Ravenna,2021-02-07,3,769,112,17024,Emilia-Romagna,8
+80,Reggio di Calabria,2021-02-07,1,177,66,13133,Calabria,18
+35,Reggio nell Emilia,2021-02-07,4,1015,120,30187,Emilia-Romagna,8
+57,Rieti,2021-02-07,0,195,17,6826,Lazio,12
+99,Rimini,2021-02-07,0,707,176,20794,Emilia-Romagna,8
+58,Roma,2021-02-07,0,3484,726,151274,Lazio,12
+29,Rovigo,2021-02-07,3,392,14,9829,Veneto,5
+90,Sassari,2021-02-07,0,266,26,12787,Sardegna,20
+9,Savona,2021-02-07,0,343,49,10345,Liguria,7
+52,Siena,2021-02-07,0,170,48,6535,Toscana,9
+89,Siracusa,2021-02-07,0,30,55,9676,Sicilia,19
+111,Sud Sardegna,2021-02-07,0,153,8,6344,Sardegna,20
+73,Taranto,2021-02-07,2,470,149,17902,Puglia,16
+67,Teramo,2021-02-07,0,233,87,11502,Abruzzo,13
+55,Terni,2021-02-07,0,237,45,7832,Umbria,10
+1,Torino,2021-02-07,3,4090,421,119859,Piemonte,1
+81,Trapani,2021-02-07,0,12,17,10203,Sicilia,19
+22,Trento,2021-02-07,5,1158,175,28908,P.A. Trento,22
+26,Treviso,2021-02-07,12,1446,103,62150,Veneto,5
+32,Trieste,2021-02-07,3,587,45,13868,Friuli Venezia Giulia,6
+30,Udine,2021-02-07,7,1247,175,31162,Friuli Venezia Giulia,6
+27,Venezia,2021-02-07,7,1626,59,50779,Veneto,5
+103,Verbano-Cusio-Ossola,2021-02-07,0,292,28,8184,Piemonte,1
+2,Vercelli,2021-02-07,0,407,6,8453,Piemonte,1
+23,Verona,2021-02-07,2,2213,50,61263,Veneto,5
+102,Vibo Valentia,2021-02-07,2,42,16,2972,Calabria,18
+24,Vicenza,2021-02-07,0,1690,82,52118,Veneto,5
+56,Viterbo,2021-02-07,0,295,41,11070,Lazio,12
+84,Agrigento,2021-02-08,0,8,6,5531,Sicilia,19
+6,Alessandria,2021-02-08,0,1360,68,20224,Piemonte,1
+42,Ancona,2021-02-08,5,580,78,17105,Marche,11
+7,Aosta,2021-02-08,1,402,13,7584,Valle d'Aosta,2
+51,Arezzo,2021-02-08,3,270,41,12559,Toscana,9
+44,Ascoli Piceno,2021-02-08,1,168,1,6495,Marche,11
+5,Asti,2021-02-08,0,584,11,11819,Piemonte,1
+72,Bari,2021-02-08,7,1086,142,49251,Puglia,16
+110,Barletta-Andria-Trani,2021-02-08,1,522,6,14165,Puglia,16
+25,Belluno,2021-02-08,0,541,11,17434,Veneto,5
+96,Biella,2021-02-08,0,373,25,7773,Piemonte,1
+37,Bologna,2021-02-08,15,2107,362,51384,Emilia-Romagna,8
+21,Bolzano,2021-02-08,5,893,255,44736,P.A. Bolzano,21
+74,Brindisi,2021-02-08,0,215,31,9363,Puglia,16
+92,Cagliari,2021-02-08,0,202,27,9167,Sardegna,20
+85,Caltanissetta,2021-02-08,0,17,18,6456,Sicilia,19
+70,Campobasso,2021-02-08,1,198,81,6249,Molise,14
+87,Catania,2021-02-08,0,114,107,39554,Sicilia,19
+79,Catanzaro,2021-02-08,0,92,1,5007,Calabria,18
+69,Chieti,2021-02-08,1,259,92,10689,Abruzzo,13
+78,Cosenza,2021-02-08,0,262,44,10112,Calabria,18
+19,Cremona,2021-02-08,0,1132,14,16477,Lombardia,3
+101,Crotone,2021-02-08,0,42,-2,2651,Calabria,18
+4,Cuneo,2021-02-08,0,1066,44,31238,Piemonte,1
+86,Enna,2021-02-08,0,29,4,4207,Sicilia,19
+109,Fermo,2021-02-08,0,162,22,6794,Marche,11
+38,Ferrara,2021-02-08,2,549,104,13316,Emilia-Romagna,8
+48,Firenze,2021-02-08,3,1445,127,38612,Toscana,9
+71,Foggia,2021-02-08,8,900,115,27064,Puglia,16
+40,Forli-Cesena,2021-02-08,0,540,135,18567,Emilia-Romagna,8
+60,Frosinone,2021-02-08,0,319,162,17906,Lazio,12
+10,Genova,2021-02-08,0,850,98,39596,Liguria,7
+31,Gorizia,2021-02-08,0,169,22,8384,Friuli Venezia Giulia,6
+53,Grosseto,2021-02-08,0,107,3,4682,Toscana,9
+8,Imperia,2021-02-08,0,284,35,8517,Liguria,7
+94,Isernia,2021-02-08,1,86,3,2649,Molise,14
+66,L Aquila,2021-02-08,2,309,12,12434,Abruzzo,13
+11,La Spezia,2021-02-08,0,113,21,9932,Liguria,7
+59,Latina,2021-02-08,0,378,115,21492,Lazio,12
+75,Lecce,2021-02-08,2,359,61,11011,Puglia,16
+49,Livorno,2021-02-08,0,304,46,10807,Toscana,9
+46,Lucca,2021-02-08,1,405,54,14226,Toscana,9
+43,Macerata,2021-02-08,1,290,58,12314,Marche,11
+45,Massa Carrara,2021-02-08,0,433,46,8809,Toscana,9
+77,Matera,2021-02-08,0,72,10,4141,Basilicata,17
+83,Messina,2021-02-08,0,61,117,18717,Sicilia,19
+36,Modena,2021-02-08,5,1311,264,39423,Emilia-Romagna,8
+3,Novara,2021-02-08,0,748,26,17967,Piemonte,1
+91,Nuoro,2021-02-08,0,66,13,7920,Sardegna,20
+95,Oristano,2021-02-08,0,56,7,3356,Sardegna,20
+28,Padova,2021-02-08,3,1358,107,58515,Veneto,5
+82,Palermo,2021-02-08,0,76,137,39579,Sicilia,19
+34,Parma,2021-02-08,0,1082,79,15467,Emilia-Romagna,8
+54,Perugia,2021-02-08,6,575,186,29311,Umbria,10
+41,Pesaro e Urbino,2021-02-08,0,812,11,13429,Marche,11
+68,Pescara,2021-02-08,1,367,63,10391,Abruzzo,13
+33,Piacenza,2021-02-08,2,1428,26,18211,Emilia-Romagna,8
+50,Pisa,2021-02-08,2,496,70,18585,Toscana,9
+47,Pistoia,2021-02-08,3,312,70,11969,Toscana,9
+93,Pordenone,2021-02-08,4,562,10,15894,Friuli Venezia Giulia,6
+76,Potenza,2021-02-08,1,217,5,9144,Basilicata,17
+100,Prato,2021-02-08,1,289,35,11771,Toscana,9
+88,Ragusa,2021-02-08,0,7,13,8033,Sicilia,19
+39,Ravenna,2021-02-08,2,771,60,17084,Emilia-Romagna,8
+80,Reggio di Calabria,2021-02-08,0,177,79,13212,Calabria,18
+35,Reggio nell Emilia,2021-02-08,1,1016,102,30289,Emilia-Romagna,8
+57,Rieti,2021-02-08,0,195,7,6833,Lazio,12
+99,Rimini,2021-02-08,5,712,126,20920,Emilia-Romagna,8
+58,Roma,2021-02-08,0,3484,467,151741,Lazio,12
+29,Rovigo,2021-02-08,4,396,13,9842,Veneto,5
+90,Sassari,2021-02-08,0,266,5,12792,Sardegna,20
+9,Savona,2021-02-08,0,343,62,10407,Liguria,7
+52,Siena,2021-02-08,2,172,31,6566,Toscana,9
+89,Siracusa,2021-02-08,0,30,55,9731,Sicilia,19
+111,Sud Sardegna,2021-02-08,0,153,4,6348,Sardegna,20
+73,Taranto,2021-02-08,5,475,29,17931,Puglia,16
+67,Teramo,2021-02-08,1,234,15,11517,Abruzzo,13
+55,Terni,2021-02-08,0,237,2,7834,Umbria,10
+1,Torino,2021-02-08,0,4090,272,120131,Piemonte,1
+81,Trapani,2021-02-08,0,12,21,10224,Sicilia,19
+22,Trento,2021-02-08,5,1163,66,28974,P.A. Trento,22
+26,Treviso,2021-02-08,0,1446,56,62206,Veneto,5
+32,Trieste,2021-02-08,3,590,37,13905,Friuli Venezia Giulia,6
+30,Udine,2021-02-08,27,1274,59,31221,Friuli Venezia Giulia,6
+27,Venezia,2021-02-08,5,1631,132,50911,Veneto,5
+103,Verbano-Cusio-Ossola,2021-02-08,0,292,15,8199,Piemonte,1
+2,Vercelli,2021-02-08,0,407,20,8473,Piemonte,1
+23,Verona,2021-02-08,6,2219,36,61299,Veneto,5
+102,Vibo Valentia,2021-02-08,0,42,20,2992,Calabria,18
+24,Vicenza,2021-02-08,0,1690,80,52198,Veneto,5
+56,Viterbo,2021-02-08,0,295,6,11076,Lazio,12
+84,Agrigento,2021-02-09,0,8,73,5604,Sicilia,19
+6,Alessandria,2021-02-09,8,1368,85,20309,Piemonte,1
+42,Ancona,2021-02-09,4,584,145,17250,Marche,11
+7,Aosta,2021-02-09,1,403,14,7598,Valle d'Aosta,2
+51,Arezzo,2021-02-09,5,275,35,12594,Toscana,9
+44,Ascoli Piceno,2021-02-09,0,168,24,6519,Marche,11
+5,Asti,2021-02-09,2,586,21,11840,Piemonte,1
+72,Bari,2021-02-09,11,1097,205,49456,Puglia,16
+110,Barletta-Andria-Trani,2021-02-09,3,525,66,14231,Puglia,16
+25,Belluno,2021-02-09,0,541,30,17464,Veneto,5
+96,Biella,2021-02-09,1,374,24,7797,Piemonte,1
+37,Bologna,2021-02-09,4,2111,308,51692,Emilia-Romagna,8
+21,Bolzano,2021-02-09,6,899,721,45457,P.A. Bolzano,21
+74,Brindisi,2021-02-09,1,216,57,9420,Puglia,16
+92,Cagliari,2021-02-09,0,202,14,9181,Sardegna,20
+85,Caltanissetta,2021-02-09,0,17,19,6475,Sicilia,19
+70,Campobasso,2021-02-09,1,199,14,6263,Molise,14
+87,Catania,2021-02-09,0,114,109,39663,Sicilia,19
+79,Catanzaro,2021-02-09,0,92,8,5015,Calabria,18
+69,Chieti,2021-02-09,3,262,92,10781,Abruzzo,13
+78,Cosenza,2021-02-09,0,262,23,10135,Calabria,18
+19,Cremona,2021-02-09,0,1132,25,16502,Lombardia,3
+101,Crotone,2021-02-09,0,42,15,2666,Calabria,18
+4,Cuneo,2021-02-09,11,1077,87,31325,Piemonte,1
+86,Enna,2021-02-09,0,29,5,4212,Sicilia,19
+109,Fermo,2021-02-09,1,163,19,6813,Marche,11
+38,Ferrara,2021-02-09,8,557,44,13360,Emilia-Romagna,8
+48,Firenze,2021-02-09,10,1455,99,38711,Toscana,9
+71,Foggia,2021-02-09,9,909,129,27193,Puglia,16
+40,Forli-Cesena,2021-02-09,12,552,127,18694,Emilia-Romagna,8
+60,Frosinone,2021-02-09,3,322,93,17999,Lazio,12
+10,Genova,2021-02-09,0,850,77,39673,Liguria,7
+31,Gorizia,2021-02-09,1,170,28,8412,Friuli Venezia Giulia,6
+53,Grosseto,2021-02-09,0,107,23,4705,Toscana,9
+8,Imperia,2021-02-09,0,284,84,8601,Liguria,7
+94,Isernia,2021-02-09,0,86,7,2656,Molise,14
+66,L Aquila,2021-02-09,4,313,6,12440,Abruzzo,13
+11,La Spezia,2021-02-09,0,113,24,9956,Liguria,7
+59,Latina,2021-02-09,1,379,115,21607,Lazio,12
+75,Lecce,2021-02-09,10,369,67,11078,Puglia,16
+49,Livorno,2021-02-09,0,304,55,10862,Toscana,9
+46,Lucca,2021-02-09,1,406,30,14256,Toscana,9
+43,Macerata,2021-02-09,4,294,32,12346,Marche,11
+45,Massa Carrara,2021-02-09,1,434,50,8859,Toscana,9
+77,Matera,2021-02-09,0,72,37,4178,Basilicata,17
+83,Messina,2021-02-09,0,61,71,18788,Sicilia,19
+36,Modena,2021-02-09,4,1315,145,39568,Emilia-Romagna,8
+3,Novara,2021-02-09,4,752,60,18027,Piemonte,1
+91,Nuoro,2021-02-09,0,66,26,7946,Sardegna,20
+95,Oristano,2021-02-09,0,56,5,3361,Sardegna,20
+28,Padova,2021-02-09,0,1358,149,58664,Veneto,5
+82,Palermo,2021-02-09,0,76,319,39898,Sicilia,19
+34,Parma,2021-02-09,2,1084,17,15484,Emilia-Romagna,8
+54,Perugia,2021-02-09,11,586,354,29665,Umbria,10
+41,Pesaro e Urbino,2021-02-09,1,813,37,13466,Marche,11
+68,Pescara,2021-02-09,0,367,124,10515,Abruzzo,13
+33,Piacenza,2021-02-09,6,1434,64,18275,Emilia-Romagna,8
+50,Pisa,2021-02-09,3,499,21,18606,Toscana,9
+47,Pistoia,2021-02-09,3,315,70,12039,Toscana,9
+93,Pordenone,2021-02-09,1,563,78,15972,Friuli Venezia Giulia,6
+76,Potenza,2021-02-09,1,218,67,9211,Basilicata,17
+100,Prato,2021-02-09,2,291,29,11800,Toscana,9
+88,Ragusa,2021-02-09,0,7,17,8050,Sicilia,19
+39,Ravenna,2021-02-09,4,775,49,17133,Emilia-Romagna,8
+80,Reggio di Calabria,2021-02-09,0,177,118,13330,Calabria,18
+35,Reggio nell Emilia,2021-02-09,3,1019,83,30372,Emilia-Romagna,8
+57,Rieti,2021-02-09,0,195,46,6879,Lazio,12
+99,Rimini,2021-02-09,2,714,113,21033,Emilia-Romagna,8
+58,Roma,2021-02-09,26,3510,507,152248,Lazio,12
+29,Rovigo,2021-02-09,0,396,29,9871,Veneto,5
+90,Sassari,2021-02-09,0,266,24,12816,Sardegna,20
+9,Savona,2021-02-09,0,343,60,10467,Liguria,7
+52,Siena,2021-02-09,2,174,41,6607,Toscana,9
+89,Siracusa,2021-02-09,0,30,51,9782,Sicilia,19
+111,Sud Sardegna,2021-02-09,0,153,12,6360,Sardegna,20
+73,Taranto,2021-02-09,6,481,168,18099,Puglia,16
+67,Teramo,2021-02-09,1,235,24,11541,Abruzzo,13
+55,Terni,2021-02-09,0,237,12,7846,Umbria,10
+1,Torino,2021-02-09,17,4107,303,120434,Piemonte,1
+81,Trapani,2021-02-09,0,12,80,10304,Sicilia,19
+22,Trento,2021-02-09,3,1166,164,29138,P.A. Trento,22
+26,Treviso,2021-02-09,0,1446,99,62305,Veneto,5
+32,Trieste,2021-02-09,1,591,23,13928,Friuli Venezia Giulia,6
+30,Udine,2021-02-09,7,1281,140,31361,Friuli Venezia Giulia,6
+27,Venezia,2021-02-09,0,1631,121,51032,Veneto,5
+103,Verbano-Cusio-Ossola,2021-02-09,2,294,24,8223,Piemonte,1
+2,Vercelli,2021-02-09,1,408,17,8490,Piemonte,1
+23,Verona,2021-02-09,0,2219,131,61430,Veneto,5
+102,Vibo Valentia,2021-02-09,0,42,24,3016,Calabria,18
+24,Vicenza,2021-02-09,0,1690,141,52339,Veneto,5
+56,Viterbo,2021-02-09,3,298,79,11155,Lazio,12
+84,Agrigento,2021-02-10,0,8,58,5662,Sicilia,19
+6,Alessandria,2021-02-10,2,1370,56,20365,Piemonte,1
+42,Ancona,2021-02-10,2,586,224,17474,Marche,11
+7,Aosta,2021-02-10,0,403,7,7605,Valle d'Aosta,2
+51,Arezzo,2021-02-10,1,276,63,12657,Toscana,9
+44,Ascoli Piceno,2021-02-10,3,171,27,6546,Marche,11
+5,Asti,2021-02-10,2,588,56,11896,Piemonte,1
+72,Bari,2021-02-10,14,1111,350,49806,Puglia,16
+110,Barletta-Andria-Trani,2021-02-10,3,528,128,14359,Puglia,16
+25,Belluno,2021-02-10,0,541,36,17500,Veneto,5
+96,Biella,2021-02-10,0,374,14,7811,Piemonte,1
+37,Bologna,2021-02-10,11,2122,223,51915,Emilia-Romagna,8
+21,Bolzano,2021-02-10,2,901,789,46246,P.A. Bolzano,21
+74,Brindisi,2021-02-10,0,216,95,9515,Puglia,16
+92,Cagliari,2021-02-10,0,202,28,9209,Sardegna,20
+85,Caltanissetta,2021-02-10,0,17,22,6497,Sicilia,19
+70,Campobasso,2021-02-10,5,204,131,6394,Molise,14
+87,Catania,2021-02-10,0,114,197,39860,Sicilia,19
+79,Catanzaro,2021-02-10,0,92,26,5041,Calabria,18
+69,Chieti,2021-02-10,4,266,173,10954,Abruzzo,13
+78,Cosenza,2021-02-10,0,262,67,10202,Calabria,18
+19,Cremona,2021-02-10,0,1132,65,16567,Lombardia,3
+101,Crotone,2021-02-10,0,42,5,2671,Calabria,18
+4,Cuneo,2021-02-10,3,1080,40,31365,Piemonte,1
+86,Enna,2021-02-10,0,29,13,4225,Sicilia,19
+109,Fermo,2021-02-10,1,164,12,6825,Marche,11
+38,Ferrara,2021-02-10,5,562,61,13421,Emilia-Romagna,8
+48,Firenze,2021-02-10,6,1461,178,38889,Toscana,9
+71,Foggia,2021-02-10,8,917,61,27254,Puglia,16
+40,Forli-Cesena,2021-02-10,1,553,108,18802,Emilia-Romagna,8
+60,Frosinone,2021-02-10,1,323,103,18102,Lazio,12
+10,Genova,2021-02-10,0,850,156,39829,Liguria,7
+31,Gorizia,2021-02-10,0,170,38,8450,Friuli Venezia Giulia,6
+53,Grosseto,2021-02-10,0,107,25,4730,Toscana,9
+8,Imperia,2021-02-10,0,284,87,8688,Liguria,7
+94,Isernia,2021-02-10,1,87,12,2668,Molise,14
+66,L Aquila,2021-02-10,0,313,47,12487,Abruzzo,13
+11,La Spezia,2021-02-10,0,113,42,9998,Liguria,7
+59,Latina,2021-02-10,2,381,48,21655,Lazio,12
+75,Lecce,2021-02-10,0,369,108,11186,Puglia,16
+49,Livorno,2021-02-10,3,307,75,10937,Toscana,9
+46,Lucca,2021-02-10,1,407,66,14322,Toscana,9
+43,Macerata,2021-02-10,0,294,60,12406,Marche,11
+45,Massa Carrara,2021-02-10,0,434,57,8916,Toscana,9
+77,Matera,2021-02-10,0,72,24,4202,Basilicata,17
+83,Messina,2021-02-10,0,61,93,18881,Sicilia,19
+36,Modena,2021-02-10,6,1321,67,39635,Emilia-Romagna,8
+3,Novara,2021-02-10,1,753,46,18073,Piemonte,1
+91,Nuoro,2021-02-10,0,66,17,7963,Sardegna,20
+95,Oristano,2021-02-10,0,56,30,3391,Sardegna,20
+28,Padova,2021-02-10,3,1361,190,58854,Veneto,5
+82,Palermo,2021-02-10,0,76,218,40116,Sicilia,19
+34,Parma,2021-02-10,1,1085,64,15548,Emilia-Romagna,8
+54,Perugia,2021-02-10,10,596,366,30031,Umbria,10
+41,Pesaro e Urbino,2021-02-10,1,814,83,13549,Marche,11
+68,Pescara,2021-02-10,3,370,46,10561,Abruzzo,13
+33,Piacenza,2021-02-10,4,1438,50,18325,Emilia-Romagna,8
+50,Pisa,2021-02-10,1,500,60,18666,Toscana,9
+47,Pistoia,2021-02-10,0,315,34,12073,Toscana,9
+93,Pordenone,2021-02-10,3,566,75,16047,Friuli Venezia Giulia,6
+76,Potenza,2021-02-10,1,219,69,9280,Basilicata,17
+100,Prato,2021-02-10,2,293,40,11840,Toscana,9
+88,Ragusa,2021-02-10,0,7,23,8073,Sicilia,19
+39,Ravenna,2021-02-10,2,777,106,17239,Emilia-Romagna,8
+80,Reggio di Calabria,2021-02-10,0,177,91,13421,Calabria,18
+35,Reggio nell Emilia,2021-02-10,2,1021,77,30449,Emilia-Romagna,8
+57,Rieti,2021-02-10,1,196,17,6896,Lazio,12
+99,Rimini,2021-02-10,5,719,151,21184,Emilia-Romagna,8
+58,Roma,2021-02-10,45,3555,740,152988,Lazio,12
+29,Rovigo,2021-02-10,2,398,48,9919,Veneto,5
+90,Sassari,2021-02-10,0,266,61,12877,Sardegna,20
+9,Savona,2021-02-10,0,343,67,10534,Liguria,7
+52,Siena,2021-02-10,1,175,73,6680,Toscana,9
+89,Siracusa,2021-02-10,0,30,38,9820,Sicilia,19
+111,Sud Sardegna,2021-02-10,0,153,25,6385,Sardegna,20
+73,Taranto,2021-02-10,0,481,307,18406,Puglia,16
+67,Teramo,2021-02-10,0,235,46,11587,Abruzzo,13
+55,Terni,2021-02-10,2,239,38,7884,Umbria,10
+1,Torino,2021-02-10,10,4117,409,120843,Piemonte,1
+81,Trapani,2021-02-10,0,12,33,10337,Sicilia,19
+22,Trento,2021-02-10,1,1167,305,29443,P.A. Trento,22
+26,Treviso,2021-02-10,8,1454,192,62497,Veneto,5
+32,Trieste,2021-02-10,2,593,42,13970,Friuli Venezia Giulia,6
+30,Udine,2021-02-10,9,1290,201,31562,Friuli Venezia Giulia,6
+27,Venezia,2021-02-10,5,1636,129,51161,Veneto,5
+103,Verbano-Cusio-Ossola,2021-02-10,0,294,22,8245,Piemonte,1
+2,Vercelli,2021-02-10,0,408,13,8503,Piemonte,1
+23,Verona,2021-02-10,9,2228,105,61535,Veneto,5
+102,Vibo Valentia,2021-02-10,0,42,25,3041,Calabria,18
+24,Vicenza,2021-02-10,4,1694,122,52461,Veneto,5
+56,Viterbo,2021-02-10,2,300,77,11232,Lazio,12
+84,Agrigento,2021-02-11,0,8,28,5690,Sicilia,19
+6,Alessandria,2021-02-11,4,1374,58,20423,Piemonte,1
+42,Ancona,2021-02-11,2,588,242,17716,Marche,11
+7,Aosta,2021-02-11,0,403,-21,7584,Valle d'Aosta,2
+51,Arezzo,2021-02-11,1,277,36,12693,Toscana,9
+44,Ascoli Piceno,2021-02-11,3,174,35,6581,Marche,11
+5,Asti,2021-02-11,0,588,65,11961,Piemonte,1
+72,Bari,2021-02-11,13,1124,431,50237,Puglia,16
+110,Barletta-Andria-Trani,2021-02-11,9,537,58,14417,Puglia,16
+25,Belluno,2021-02-11,3,544,41,17541,Veneto,5
+96,Biella,2021-02-11,0,374,23,7834,Piemonte,1
+37,Bologna,2021-02-11,15,2137,395,52310,Emilia-Romagna,8
+21,Bolzano,2021-02-11,10,911,680,46926,P.A. Bolzano,21
+74,Brindisi,2021-02-11,0,216,157,9672,Puglia,16
+92,Cagliari,2021-02-11,0,202,62,9271,Sardegna,20
+85,Caltanissetta,2021-02-11,0,17,33,6530,Sicilia,19
+70,Campobasso,2021-02-11,1,205,72,6466,Molise,14
+87,Catania,2021-02-11,0,114,104,39964,Sicilia,19
+79,Catanzaro,2021-02-11,1,93,12,5053,Calabria,18
+69,Chieti,2021-02-11,2,268,179,11133,Abruzzo,13
+78,Cosenza,2021-02-11,1,263,49,10251,Calabria,18
+19,Cremona,2021-02-11,0,1132,57,16624,Lombardia,3
+101,Crotone,2021-02-11,0,42,8,2679,Calabria,18
+4,Cuneo,2021-02-11,2,1082,117,31482,Piemonte,1
+86,Enna,2021-02-11,0,29,7,4232,Sicilia,19
+109,Fermo,2021-02-11,1,165,28,6853,Marche,11
+38,Ferrara,2021-02-11,3,565,108,13529,Emilia-Romagna,8
+48,Firenze,2021-02-11,5,1466,223,39112,Toscana,9
+71,Foggia,2021-02-11,3,920,216,27470,Puglia,16
+40,Forli-Cesena,2021-02-11,18,571,126,18928,Emilia-Romagna,8
+60,Frosinone,2021-02-11,3,326,43,18145,Lazio,12
+10,Genova,2021-02-11,0,850,162,39991,Liguria,7
+31,Gorizia,2021-02-11,1,171,48,8498,Friuli Venezia Giulia,6
+53,Grosseto,2021-02-11,1,108,29,4759,Toscana,9
+8,Imperia,2021-02-11,0,284,52,8740,Liguria,7
+94,Isernia,2021-02-11,0,87,3,2671,Molise,14
+66,L Aquila,2021-02-11,1,314,55,12542,Abruzzo,13
+11,La Spezia,2021-02-11,0,113,34,10032,Liguria,7
+59,Latina,2021-02-11,5,386,85,21740,Lazio,12
+75,Lecce,2021-02-11,2,371,72,11258,Puglia,16
+49,Livorno,2021-02-11,0,307,61,10998,Toscana,9
+46,Lucca,2021-02-11,0,407,86,14408,Toscana,9
+43,Macerata,2021-02-11,0,294,89,12495,Marche,11
+45,Massa Carrara,2021-02-11,0,434,58,8974,Toscana,9
+77,Matera,2021-02-11,1,73,47,4249,Basilicata,17
+83,Messina,2021-02-11,0,61,66,18947,Sicilia,19
+36,Modena,2021-02-11,2,1323,217,39852,Emilia-Romagna,8
+3,Novara,2021-02-11,0,753,85,18158,Piemonte,1
+91,Nuoro,2021-02-11,0,66,6,7969,Sardegna,20
+95,Oristano,2021-02-11,0,56,11,3402,Sardegna,20
+28,Padova,2021-02-11,7,1368,157,59011,Veneto,5
+82,Palermo,2021-02-11,0,76,374,40490,Sicilia,19
+34,Parma,2021-02-11,2,1087,73,15621,Emilia-Romagna,8
+54,Perugia,2021-02-11,3,599,318,30349,Umbria,10
+41,Pesaro e Urbino,2021-02-11,1,815,118,13667,Marche,11
+68,Pescara,2021-02-11,1,371,232,10793,Abruzzo,13
+33,Piacenza,2021-02-11,6,1444,34,18359,Emilia-Romagna,8
+50,Pisa,2021-02-11,0,500,112,18778,Toscana,9
+47,Pistoia,2021-02-11,0,315,156,12229,Toscana,9
+93,Pordenone,2021-02-11,1,567,61,16108,Friuli Venezia Giulia,6
+76,Potenza,2021-02-11,1,220,54,9334,Basilicata,17
+100,Prato,2021-02-11,0,293,63,11903,Toscana,9
+88,Ragusa,2021-02-11,0,7,20,8093,Sicilia,19
+39,Ravenna,2021-02-11,3,780,77,17316,Emilia-Romagna,8
+80,Reggio di Calabria,2021-02-11,0,177,80,13501,Calabria,18
+35,Reggio nell Emilia,2021-02-11,9,1030,138,30587,Emilia-Romagna,8
+57,Rieti,2021-02-11,3,199,43,6939,Lazio,12
+99,Rimini,2021-02-11,12,731,156,21340,Emilia-Romagna,8
+58,Roma,2021-02-11,17,3572,1002,153990,Lazio,12
+29,Rovigo,2021-02-11,0,398,41,9960,Veneto,5
+90,Sassari,2021-02-11,0,266,14,12891,Sardegna,20
+9,Savona,2021-02-11,0,343,49,10583,Liguria,7
+52,Siena,2021-02-11,0,175,70,6750,Toscana,9
+89,Siracusa,2021-02-11,0,30,85,9905,Sicilia,19
+111,Sud Sardegna,2021-02-11,0,153,32,6417,Sardegna,20
+73,Taranto,2021-02-11,6,487,304,18710,Puglia,16
+67,Teramo,2021-02-11,1,236,72,11659,Abruzzo,13
+55,Terni,2021-02-11,1,240,35,7919,Umbria,10
+1,Torino,2021-02-11,16,4133,747,121590,Piemonte,1
+81,Trapani,2021-02-11,0,12,43,10380,Sicilia,19
+22,Trento,2021-02-11,1,1168,253,29696,P.A. Trento,22
+26,Treviso,2021-02-11,11,1465,114,62611,Veneto,5
+32,Trieste,2021-02-11,3,596,95,14065,Friuli Venezia Giulia,6
+30,Udine,2021-02-11,35,1325,200,31762,Friuli Venezia Giulia,6
+27,Venezia,2021-02-11,7,1643,136,51297,Veneto,5
+103,Verbano-Cusio-Ossola,2021-02-11,0,294,36,8281,Piemonte,1
+2,Vercelli,2021-02-11,0,408,46,8549,Piemonte,1
+23,Verona,2021-02-11,1,2229,109,61644,Veneto,5
+102,Vibo Valentia,2021-02-11,4,46,49,3090,Calabria,18
+24,Vicenza,2021-02-11,2,1696,102,52563,Veneto,5
+56,Viterbo,2021-02-11,3,303,87,11319,Lazio,12
+84,Agrigento,2021-02-12,0,8,35,5725,Sicilia,19
+6,Alessandria,2021-02-12,3,1377,60,20483,Piemonte,1
+42,Ancona,2021-02-12,4,592,197,17913,Marche,11
+7,Aosta,2021-02-12,1,404,39,7623,Valle d'Aosta,2
+51,Arezzo,2021-02-12,0,277,49,12742,Toscana,9
+44,Ascoli Piceno,2021-02-12,0,174,54,6635,Marche,11
+5,Asti,2021-02-12,0,588,64,12025,Piemonte,1
+72,Bari,2021-02-12,17,1141,438,50675,Puglia,16
+110,Barletta-Andria-Trani,2021-02-12,4,541,99,14516,Puglia,16
+25,Belluno,2021-02-12,2,546,21,17562,Veneto,5
+96,Biella,2021-02-12,2,376,19,7853,Piemonte,1
+37,Bologna,2021-02-12,0,2137,427,52737,Emilia-Romagna,8
+21,Bolzano,2021-02-12,5,916,640,47566,P.A. Bolzano,21
+74,Brindisi,2021-02-12,0,216,93,9765,Puglia,16
+92,Cagliari,2021-02-12,0,202,42,9313,Sardegna,20
+85,Caltanissetta,2021-02-12,0,17,15,6545,Sicilia,19
+70,Campobasso,2021-02-12,3,208,83,6549,Molise,14
+87,Catania,2021-02-12,0,114,106,40070,Sicilia,19
+79,Catanzaro,2021-02-12,0,93,19,5072,Calabria,18
+69,Chieti,2021-02-12,3,271,128,11261,Abruzzo,13
+78,Cosenza,2021-02-12,1,264,26,10277,Calabria,18
+19,Cremona,2021-02-12,0,1132,70,16694,Lombardia,3
+101,Crotone,2021-02-12,0,42,8,2687,Calabria,18
+4,Cuneo,2021-02-12,3,1085,92,31574,Piemonte,1
+86,Enna,2021-02-12,0,29,6,4238,Sicilia,19
+109,Fermo,2021-02-12,4,169,24,6877,Marche,11
+38,Ferrara,2021-02-12,7,572,81,13610,Emilia-Romagna,8
+48,Firenze,2021-02-12,4,1470,197,39309,Toscana,9
+71,Foggia,2021-02-12,5,925,48,27518,Puglia,16
+40,Forli-Cesena,2021-02-12,3,574,158,19086,Emilia-Romagna,8
+60,Frosinone,2021-02-12,1,327,151,18296,Lazio,12
+10,Genova,2021-02-12,0,850,157,40148,Liguria,7
+31,Gorizia,2021-02-12,1,172,31,8529,Friuli Venezia Giulia,6
+53,Grosseto,2021-02-12,1,109,11,4770,Toscana,9
+8,Imperia,2021-02-12,0,284,85,8825,Liguria,7
+94,Isernia,2021-02-12,0,87,24,2695,Molise,14
+66,L Aquila,2021-02-12,1,315,49,12591,Abruzzo,13
+11,La Spezia,2021-02-12,0,113,33,10065,Liguria,7
+59,Latina,2021-02-12,3,389,125,21865,Lazio,12
+75,Lecce,2021-02-12,3,374,83,11341,Puglia,16
+49,Livorno,2021-02-12,1,308,57,11055,Toscana,9
+46,Lucca,2021-02-12,3,410,103,14511,Toscana,9
+43,Macerata,2021-02-12,0,294,108,12603,Marche,11
+45,Massa Carrara,2021-02-12,0,434,55,9029,Toscana,9
+77,Matera,2021-02-12,0,73,50,4299,Basilicata,17
+83,Messina,2021-02-12,0,61,89,19036,Sicilia,19
+36,Modena,2021-02-12,4,1327,288,40140,Emilia-Romagna,8
+3,Novara,2021-02-12,1,754,63,18221,Piemonte,1
+91,Nuoro,2021-02-12,0,66,14,7983,Sardegna,20
+95,Oristano,2021-02-12,0,56,4,3406,Sardegna,20
+28,Padova,2021-02-12,6,1374,145,59156,Veneto,5
+82,Palermo,2021-02-12,0,76,150,40640,Sicilia,19
+34,Parma,2021-02-12,2,1089,109,15730,Emilia-Romagna,8
+54,Perugia,2021-02-12,7,606,450,30799,Umbria,10
+41,Pesaro e Urbino,2021-02-12,3,818,122,13789,Marche,11
+68,Pescara,2021-02-12,1,372,133,10926,Abruzzo,13
+33,Piacenza,2021-02-12,3,1447,75,18434,Emilia-Romagna,8
+50,Pisa,2021-02-12,4,504,51,18829,Toscana,9
+47,Pistoia,2021-02-12,3,318,98,12327,Toscana,9
+93,Pordenone,2021-02-12,2,569,54,16162,Friuli Venezia Giulia,6
+76,Potenza,2021-02-12,0,220,40,9374,Basilicata,17
+100,Prato,2021-02-12,1,294,42,11945,Toscana,9
+88,Ragusa,2021-02-12,0,7,14,8107,Sicilia,19
+39,Ravenna,2021-02-12,4,784,112,17428,Emilia-Romagna,8
+80,Reggio di Calabria,2021-02-12,1,178,61,13562,Calabria,18
+35,Reggio nell Emilia,2021-02-12,0,1030,111,30698,Emilia-Romagna,8
+57,Rieti,2021-02-12,1,200,38,6977,Lazio,12
+99,Rimini,2021-02-12,4,735,151,21491,Emilia-Romagna,8
+58,Roma,2021-02-12,26,3598,722,154712,Lazio,12
+29,Rovigo,2021-02-12,2,400,43,10003,Veneto,5
+90,Sassari,2021-02-12,0,266,19,12910,Sardegna,20
+9,Savona,2021-02-12,0,343,46,10629,Liguria,7
+52,Siena,2021-02-12,0,175,64,6814,Toscana,9
+89,Siracusa,2021-02-12,0,30,47,9952,Sicilia,19
+111,Sud Sardegna,2021-02-12,0,153,8,6425,Sardegna,20
+73,Taranto,2021-02-12,4,491,254,18964,Puglia,16
+67,Teramo,2021-02-12,2,238,44,11703,Abruzzo,13
+55,Terni,2021-02-12,3,243,31,7950,Umbria,10
+1,Torino,2021-02-12,8,4141,530,122120,Piemonte,1
+81,Trapani,2021-02-12,0,12,29,10409,Sicilia,19
+22,Trento,2021-02-12,1,1169,219,29915,P.A. Trento,22
+26,Treviso,2021-02-12,9,1474,141,62752,Veneto,5
+32,Trieste,2021-02-12,4,600,38,14103,Friuli Venezia Giulia,6
+30,Udine,2021-02-12,5,1330,166,31928,Friuli Venezia Giulia,6
+27,Venezia,2021-02-12,6,1649,124,51421,Veneto,5
+103,Verbano-Cusio-Ossola,2021-02-12,3,297,20,8301,Piemonte,1
+2,Vercelli,2021-02-12,0,408,24,8573,Piemonte,1
+23,Verona,2021-02-12,4,2233,108,61752,Veneto,5
+102,Vibo Valentia,2021-02-12,0,46,1,3091,Calabria,18
+24,Vicenza,2021-02-12,5,1701,157,52720,Veneto,5
+56,Viterbo,2021-02-12,3,306,37,11356,Lazio,12
+84,Agrigento,2021-02-13,0,8,31,5756,Sicilia,19
+6,Alessandria,2021-02-13,2,1379,80,20563,Piemonte,1
+42,Ancona,2021-02-13,1,593,218,18131,Marche,11
+7,Aosta,2021-02-13,0,404,9,7632,Valle d'Aosta,2
+51,Arezzo,2021-02-13,0,277,58,12800,Toscana,9
+44,Ascoli Piceno,2021-02-13,1,175,20,6655,Marche,11
+5,Asti,2021-02-13,0,588,29,12054,Piemonte,1
+72,Bari,2021-02-13,5,1146,315,50990,Puglia,16
+110,Barletta-Andria-Trani,2021-02-13,12,553,81,14597,Puglia,16
+25,Belluno,2021-02-13,3,549,41,17603,Veneto,5
+96,Biella,2021-02-13,0,376,26,7879,Piemonte,1
+37,Bologna,2021-02-13,18,2155,451,53188,Emilia-Romagna,8
+21,Bolzano,2021-02-13,5,921,611,48177,P.A. Bolzano,21
+74,Brindisi,2021-02-13,0,216,66,9831,Puglia,16
+92,Cagliari,2021-02-13,0,202,44,9357,Sardegna,20
+85,Caltanissetta,2021-02-13,0,17,29,6574,Sicilia,19
+70,Campobasso,2021-02-13,0,208,71,6620,Molise,14
+87,Catania,2021-02-13,0,114,197,40267,Sicilia,19
+79,Catanzaro,2021-02-13,1,94,16,5088,Calabria,18
+69,Chieti,2021-02-13,0,271,114,11375,Abruzzo,13
+78,Cosenza,2021-02-13,1,265,66,10343,Calabria,18
+19,Cremona,2021-02-13,0,1132,46,16740,Lombardia,3
+101,Crotone,2021-02-13,0,42,11,2698,Calabria,18
+4,Cuneo,2021-02-13,2,1087,86,31660,Piemonte,1
+86,Enna,2021-02-13,0,29,9,4247,Sicilia,19
+109,Fermo,2021-02-13,1,170,18,6895,Marche,11
+38,Ferrara,2021-02-13,0,572,56,13666,Emilia-Romagna,8
+48,Firenze,2021-02-13,7,1477,200,39509,Toscana,9
+71,Foggia,2021-02-13,3,928,272,27790,Puglia,16
+40,Forli-Cesena,2021-02-13,2,576,148,19234,Emilia-Romagna,8
+60,Frosinone,2021-02-13,2,329,36,18332,Lazio,12
+10,Genova,2021-02-13,0,850,107,40255,Liguria,7
+31,Gorizia,2021-02-13,0,172,23,8552,Friuli Venezia Giulia,6
+53,Grosseto,2021-02-13,0,109,19,4789,Toscana,9
+8,Imperia,2021-02-13,0,284,70,8895,Liguria,7
+94,Isernia,2021-02-13,0,87,2,2697,Molise,14
+66,L Aquila,2021-02-13,0,315,60,12651,Abruzzo,13
+11,La Spezia,2021-02-13,0,113,47,10112,Liguria,7
+59,Latina,2021-02-13,1,390,1,21866,Lazio,12
+75,Lecce,2021-02-13,1,375,41,11382,Puglia,16
+49,Livorno,2021-02-13,0,308,57,11112,Toscana,9
+46,Lucca,2021-02-13,2,412,82,14593,Toscana,9
+43,Macerata,2021-02-13,1,295,69,12672,Marche,11
+45,Massa Carrara,2021-02-13,1,435,68,9097,Toscana,9
+77,Matera,2021-02-13,0,73,44,4343,Basilicata,17
+83,Messina,2021-02-13,0,61,67,19103,Sicilia,19
+36,Modena,2021-02-13,4,1331,230,40370,Emilia-Romagna,8
+3,Novara,2021-02-13,2,756,66,18287,Piemonte,1
+91,Nuoro,2021-02-13,0,66,7,7990,Sardegna,20
+95,Oristano,2021-02-13,0,56,6,3412,Sardegna,20
+28,Padova,2021-02-13,1,1375,152,59308,Veneto,5
+82,Palermo,2021-02-13,0,76,132,40772,Sicilia,19
+34,Parma,2021-02-13,1,1090,141,15871,Emilia-Romagna,8
+54,Perugia,2021-02-13,10,616,305,31104,Umbria,10
+41,Pesaro e Urbino,2021-02-13,1,819,65,13854,Marche,11
+68,Pescara,2021-02-13,0,372,268,11194,Abruzzo,13
+33,Piacenza,2021-02-13,4,1451,71,18505,Emilia-Romagna,8
+50,Pisa,2021-02-13,2,506,101,18930,Toscana,9
+47,Pistoia,2021-02-13,1,319,67,12394,Toscana,9
+93,Pordenone,2021-02-13,1,570,56,16218,Friuli Venezia Giulia,6
+76,Potenza,2021-02-13,0,220,40,9414,Basilicata,17
+100,Prato,2021-02-13,0,294,60,12005,Toscana,9
+88,Ragusa,2021-02-13,0,7,27,8134,Sicilia,19
+39,Ravenna,2021-02-13,0,784,124,17552,Emilia-Romagna,8
+80,Reggio di Calabria,2021-02-13,0,178,109,13671,Calabria,18
+35,Reggio nell Emilia,2021-02-13,3,1033,105,30803,Emilia-Romagna,8
+57,Rieti,2021-02-13,0,200,6,6983,Lazio,12
+99,Rimini,2021-02-13,4,739,146,21637,Emilia-Romagna,8
+58,Roma,2021-02-13,11,3609,1012,155724,Lazio,12
+29,Rovigo,2021-02-13,1,401,31,10034,Veneto,5
+90,Sassari,2021-02-13,0,266,8,12918,Sardegna,20
+9,Savona,2021-02-13,0,343,54,10683,Liguria,7
+52,Siena,2021-02-13,0,175,52,6866,Toscana,9
+89,Siracusa,2021-02-13,0,30,38,9990,Sicilia,19
+111,Sud Sardegna,2021-02-13,0,153,22,6447,Sardegna,20
+73,Taranto,2021-02-13,6,497,168,19132,Puglia,16
+67,Teramo,2021-02-13,0,238,55,11758,Abruzzo,13
+55,Terni,2021-02-13,0,243,32,7982,Umbria,10
+1,Torino,2021-02-13,8,4149,384,122504,Piemonte,1
+81,Trapani,2021-02-13,0,12,13,10422,Sicilia,19
+22,Trento,2021-02-13,0,1169,249,30164,P.A. Trento,22
+26,Treviso,2021-02-13,5,1479,124,62876,Veneto,5
+32,Trieste,2021-02-13,3,603,50,14153,Friuli Venezia Giulia,6
+30,Udine,2021-02-13,7,1337,227,32155,Friuli Venezia Giulia,6
+27,Venezia,2021-02-13,5,1654,128,51549,Veneto,5
+103,Verbano-Cusio-Ossola,2021-02-13,0,297,47,8348,Piemonte,1
+2,Vercelli,2021-02-13,1,409,23,8596,Piemonte,1
+23,Verona,2021-02-13,5,2238,120,61872,Veneto,5
+102,Vibo Valentia,2021-02-13,0,46,35,3126,Calabria,18
+24,Vicenza,2021-02-13,9,1710,94,52814,Veneto,5
+56,Viterbo,2021-02-13,1,307,1,11357,Lazio,12
+84,Agrigento,2021-02-14,0,8,34,5790,Sicilia,19
+6,Alessandria,2021-02-14,0,1379,29,20592,Piemonte,1
+42,Ancona,2021-02-14,0,593,189,18320,Marche,11
+7,Aosta,2021-02-14,1,405,5,7637,Valle d'Aosta,2
+51,Arezzo,2021-02-14,0,277,78,12878,Toscana,9
+44,Ascoli Piceno,2021-02-14,0,175,21,6676,Marche,11
+5,Asti,2021-02-14,0,588,11,12065,Piemonte,1
+72,Bari,2021-02-14,0,1146,311,51301,Puglia,16
+110,Barletta-Andria-Trani,2021-02-14,0,553,64,14661,Puglia,16
+25,Belluno,2021-02-14,0,549,37,17640,Veneto,5
+96,Biella,2021-02-14,0,376,4,7883,Piemonte,1
+37,Bologna,2021-02-14,0,2155,368,53556,Emilia-Romagna,8
+21,Bolzano,2021-02-14,8,929,395,48572,P.A. Bolzano,21
+74,Brindisi,2021-02-14,0,216,77,9908,Puglia,16
+92,Cagliari,2021-02-14,0,202,57,9414,Sardegna,20
+85,Caltanissetta,2021-02-14,0,17,19,6593,Sicilia,19
+70,Campobasso,2021-02-14,0,208,99,6719,Molise,14
+87,Catania,2021-02-14,0,114,115,40382,Sicilia,19
+79,Catanzaro,2021-02-14,0,94,1,5089,Calabria,18
+69,Chieti,2021-02-14,0,271,77,11452,Abruzzo,13
+78,Cosenza,2021-02-14,0,265,35,10378,Calabria,18
+19,Cremona,2021-02-14,0,1132,52,16792,Lombardia,3
+101,Crotone,2021-02-14,0,42,12,2710,Calabria,18
+4,Cuneo,2021-02-14,0,1087,49,31709,Piemonte,1
+86,Enna,2021-02-14,0,29,3,4250,Sicilia,19
+109,Fermo,2021-02-14,0,170,9,6904,Marche,11
+38,Ferrara,2021-02-14,0,572,70,13736,Emilia-Romagna,8
+48,Firenze,2021-02-14,0,1477,185,39694,Toscana,9
+71,Foggia,2021-02-14,0,928,115,27905,Puglia,16
+40,Forli-Cesena,2021-02-14,0,576,137,19371,Emilia-Romagna,8
+60,Frosinone,2021-02-14,0,329,11,18343,Lazio,12
+10,Genova,2021-02-14,0,850,112,40367,Liguria,7
+31,Gorizia,2021-02-14,0,172,21,8573,Friuli Venezia Giulia,6
+53,Grosseto,2021-02-14,0,109,22,4811,Toscana,9
+8,Imperia,2021-02-14,0,284,54,8949,Liguria,7
+94,Isernia,2021-02-14,0,87,12,2709,Molise,14
+66,L Aquila,2021-02-14,0,315,32,12683,Abruzzo,13
+11,La Spezia,2021-02-14,0,113,23,10135,Liguria,7
+59,Latina,2021-02-14,0,390,0,21866,Lazio,12
+75,Lecce,2021-02-14,0,375,44,11426,Puglia,16
+49,Livorno,2021-02-14,0,308,27,11139,Toscana,9
+46,Lucca,2021-02-14,0,412,65,14658,Toscana,9
+43,Macerata,2021-02-14,0,295,66,12738,Marche,11
+45,Massa Carrara,2021-02-14,0,435,32,9129,Toscana,9
+77,Matera,2021-02-14,0,73,24,4367,Basilicata,17
+83,Messina,2021-02-14,0,61,101,19204,Sicilia,19
+36,Modena,2021-02-14,0,1331,225,40595,Emilia-Romagna,8
+3,Novara,2021-02-14,0,756,22,18309,Piemonte,1
+91,Nuoro,2021-02-14,0,66,7,7997,Sardegna,20
+95,Oristano,2021-02-14,0,56,3,3415,Sardegna,20
+28,Padova,2021-02-14,0,1375,103,59411,Veneto,5
+82,Palermo,2021-02-14,0,76,144,40916,Sicilia,19
+34,Parma,2021-02-14,0,1090,88,15959,Emilia-Romagna,8
+54,Perugia,2021-02-14,0,616,244,31348,Umbria,10
+41,Pesaro e Urbino,2021-02-14,0,819,60,13914,Marche,11
+68,Pescara,2021-02-14,0,372,69,11263,Abruzzo,13
+33,Piacenza,2021-02-14,0,1451,67,18572,Emilia-Romagna,8
+50,Pisa,2021-02-14,0,506,90,19020,Toscana,9
+47,Pistoia,2021-02-14,0,319,99,12493,Toscana,9
+93,Pordenone,2021-02-14,0,570,28,16246,Friuli Venezia Giulia,6
+76,Potenza,2021-02-14,0,220,49,9463,Basilicata,17
+100,Prato,2021-02-14,0,294,55,12060,Toscana,9
+88,Ragusa,2021-02-14,0,7,10,8144,Sicilia,19
+39,Ravenna,2021-02-14,0,784,95,17647,Emilia-Romagna,8
+80,Reggio di Calabria,2021-02-14,0,178,71,13742,Calabria,18
+35,Reggio nell Emilia,2021-02-14,0,1033,124,30927,Emilia-Romagna,8
+57,Rieti,2021-02-14,0,200,4,6987,Lazio,12
+99,Rimini,2021-02-14,0,739,126,21763,Emilia-Romagna,8
+58,Roma,2021-02-14,0,3609,788,156512,Lazio,12
+29,Rovigo,2021-02-14,0,401,24,10058,Veneto,5
+90,Sassari,2021-02-14,0,266,9,12927,Sardegna,20
+9,Savona,2021-02-14,0,343,65,10748,Liguria,7
+52,Siena,2021-02-14,0,175,72,6938,Toscana,9
+89,Siracusa,2021-02-14,0,30,34,10024,Sicilia,19
+111,Sud Sardegna,2021-02-14,0,153,7,6454,Sardegna,20
+73,Taranto,2021-02-14,0,497,116,19248,Puglia,16
+67,Teramo,2021-02-14,0,238,39,11797,Abruzzo,13
+55,Terni,2021-02-14,0,243,38,8020,Umbria,10
+1,Torino,2021-02-14,0,4149,361,122865,Piemonte,1
+81,Trapani,2021-02-14,0,12,19,10441,Sicilia,19
+22,Trento,2021-02-14,1,1170,167,30331,P.A. Trento,22
+26,Treviso,2021-02-14,0,1479,91,62967,Veneto,5
+32,Trieste,2021-02-14,0,603,39,14192,Friuli Venezia Giulia,6
+30,Udine,2021-02-14,0,1337,126,32281,Friuli Venezia Giulia,6
+27,Venezia,2021-02-14,0,1654,106,51655,Veneto,5
+103,Verbano-Cusio-Ossola,2021-02-14,0,297,61,8409,Piemonte,1
+2,Vercelli,2021-02-14,0,409,7,8603,Piemonte,1
+23,Verona,2021-02-14,0,2238,62,61934,Veneto,5
+102,Vibo Valentia,2021-02-14,0,46,32,3158,Calabria,18
+24,Vicenza,2021-02-14,0,1710,84,52898,Veneto,5
+56,Viterbo,2021-02-14,0,307,0,11357,Lazio,12
